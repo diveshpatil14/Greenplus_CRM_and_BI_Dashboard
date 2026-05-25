@@ -1,0 +1,1001 @@
+Customer_ID,Name,Region,Customer_Type,Join_Date,Smart_Meter,Sustainability_Score,Payment_Score,Avg_Monthly_Consumption,Churn_Risk_Score,Partner_Potential_Score,Churn Category,Partner_Category
+1,Juli Follit,Galway,Residential,23-05-2023,No,2,33,999,73,11,High,Low
+2,Gibbie Totterdill,Mayo,Residential,22-03-2023,No,70,41,542,56,61,Medium,Medium
+3,Gwenora Joel,,Residential,26-02-2026,Yes,16,87,849,32,37,Low,Low
+4,Roddie Castilljo,Kilkenny,Small Business,18-09-2023,No,32,90,760,38,49,Low,Medium
+5,Mirella Levay,Kilkenny,Residential,07-03-2026,Yes,6,1,505,65,0,Medium,Low
+6,Fionnula Leyshon,Kilkenny,Residential,19-11-2025,No,97,13,680,74,57,High,Medium
+7,Randi Anfosso,Kerry,Small Business,05-06-2023,Yes,42,15,567,60,19,Medium,Low
+8,Cornie Rutherford,Cork,Residential,01-05-2024,No,87,42,399,51,74,Medium,High
+9,Jeri Salmon,Galway,Residential,15-12-2024,No,5,33,677,64,13,Medium,Low
+10,Robby Britto,Mayo,Small Business,17-01-2026,No,15,63,658,48,29,Medium,Low
+11,Norman Kester,Waterford,Residential,19-11-2023,No,31,10,463,69,10,Medium,Low
+12,Cooper Beckley,Kerry,Small Business,19-12-2024,No,28,2,163,64,5,Medium,Low
+13,Dominga Checchetelli,Kilkenny,Residential,31-12-2025,Yes,31,91,705,26,49,Low,Medium
+14,Birch Leipelt,Waterford,Residential,19-04-2025,Yes,26,2,928,77,4,High,Low
+15,Rosabella Brauner,Waterford,Residential,17-05-2025,No,21,90,661,35,42,Low,Medium
+16,Angie Braga,Donegal,Residential,11-10-2024,Yes,83,55,659,42,75,Medium,High
+17,Nicolle Muggleston,Kilkenny,Residential,09-12-2024,Yes,17,77,185,17,35,Low,Low
+18,Bessie Bentz,Clare,Small Business,11-08-2023,Yes,33,67,968,46,43,Medium,Medium
+19,Nero Pietruschka,Galway,Small Business,09-03-2025,Yes,35,55,935,51,41,Medium,Medium
+20,Silvan Veck,Kilkenny,Small Business,06-11-2024,No,86,40,909,67,72,Medium,High
+21,Florry Dummett,Galway,Small Business,03-11-2023,No,88,22,128,53,53,Medium,Medium
+22,Filberte Jodrelle,Kilkenny,Residential,25-04-2024,Yes,30,98,198,7,50,Low,Medium
+23,Emili Siddaley,Clare,Residential,26-02-2025,Yes,20,63,718,40,33,Low,Low
+24,Ilario Syddall,Clare,Small Business,02-11-2025,Yes,75,12,490,59,41,Medium,Medium
+25,Dorita Somner,Donegal,Small Business,16-07-2023,Yes,22,63,1000,49,34,Medium,Low
+26,Lacee Eastlake,Clare,Small Business,30-11-2024,No,50,57,579,49,52,Medium,Medium
+27,Odelle Castaneda,Kerry,Residential,29-08-2023,Yes,84,25,518,53,51,Medium,Medium
+28,Debera O'Dyvoie,Galway,Residential,14-06-2024,No,19,61,150,34,32,Low,Low
+29,Rutger Philps,Limerick,Small Business,28-09-2023,No,,11,392,66,0,Medium,Low
+30,Kenn Reaveley,Waterford,Residential,13-08-2023,No,53,10,699,76,25,High,Low
+31,Gretna Edworthie,Waterford,Residential,06-11-2023,Yes,9,15,663,62,0,Medium,Low
+32,Frederik Hanbury-Brown,Donegal,Residential,24-02-2024,No,13,94,573,30,37,Low,Low
+33,Harper Allbon,Kerry,Residential,16-12-2025,Yes,11,36,822,57,19,Medium,Low
+34,Alaster Rosi,Cork,Small Business,03-08-2024,Yes,90,28,414,48,56,Medium,Medium
+35,Latisha Tremeer,Kerry,Small Business,14-02-2024,No,91,88,253,24,90,Low,High
+36,Taber Wones,Donegal,Residential,10-11-2025,Yes,56,55,231,29,56,Low,Medium
+37,Javier Stannas,Kilkenny,Residential,30-10-2024,No,95,74,555,40,89,Low,High
+38,Kip Miche,Kilkenny,Small Business,02-05-2025,No,56,76,900,49,62,Medium,Medium
+39,Annadiana Bearward,Waterford,Small Business,19-09-2025,No,33,33,573,61,33,Medium,Low
+40,Candi Dwelley,Dublin,Residential,23-11-2023,No,91,57,701,53,81,Medium,High
+41,Dorotea Bilton,Galway,Small Business,20-06-2023,No,46,97,713,33,61,Low,Medium
+42,Archibald Hillock,Clare,Small Business,23-02-2025,No,14,10,948,83,0,High,Low
+43,Elicia Trowsdale,Clare,Residential,12-09-2023,No,14,70,366,36,31,Low,Low
+44,Karla Budge,Clare,Small Business,10-10-2024,Yes,90,67,773,40,83,Low,High
+45,Hilly Gear,Clare,Small Business,22-01-2024,No,10,43,773,62,20,Medium,Low
+46,Ozzy Agate,Dublin,Residential,26-01-2026,Yes,81,12,278,52,45,Medium,Medium
+47,Wilbur Jurewicz,Galway,Residential,06-04-2024,No,67,91,586,32,74,Low,High
+48,Findley Manns,Limerick,Small Business,14-02-2025,No,68,57,865,57,65,Medium,Medium
+49,Caritta Lillyman,Clare,Residential,19-06-2023,No,88,82,896,46,86,Medium,High
+50,Bridie Seeds,Kerry,Residential,10-08-2024,Yes,11,76,182,17,31,Low,Low
+51,Marlow Jeromson,Waterford,Small Business,08-09-2025,Yes,17,44,323,38,25,Low,Low
+52,Marinna Penhall,Dublin,Small Business,26-11-2024,No,14,49,915,63,25,Medium,Low
+53,Ailina Spurway,Galway,Residential,02-05-2023,Yes,78,51,748,47,70,Medium,Medium
+54,Dale Saket,Kerry,Small Business,18-02-2026,Yes,71,73,538,30,72,Low,High
+55,Gwynne Rawcliffe,Limerick,Residential,16-08-2025,No,4,26,784,71,0,High,Low
+56,Tomi Willmore,Limerick,,28-05-2025,No,13,2,339,69,0,Medium,Low
+57,Dotty Gepson,Kerry,Small Business,24-09-2025,No,59,88,399,28,68,Low,Medium
+58,Genvieve Tiley,Mayo,Small Business,08-09-2023,No,61,18,664,71,33,High,Low
+59,Hali Sneezum,Mayo,Residential,16-05-2023,No,58,61,212,36,59,Low,Medium
+60,Doro Beckenham,Kilkenny,Small Business,21-03-2023,No,16,96,286,21,40,Low,Low
+61,Kalle Aldersley,Kilkenny,Small Business,25-01-2025,Yes,7,18,445,54,0,Medium,Low
+62,Basile Masdon,Kilkenny,Residential,21-06-2025,No,71,24,787,72,42,High,Medium
+63,Kizzee McBeith,Dublin,Small Business,04-10-2023,Yes,37,84,939,36,51,Low,Medium
+64,Augie Rehm,Kilkenny,Small Business,08-09-2024,Yes,60,62,376,30,61,Low,Medium
+65,Allyce Besemer,Mayo,Small Business,23-11-2023,Yes,9,52,265,32,22,Low,Low
+66,Filmore Folks,Mayo,Small Business,22-02-2025,No,44,60,486,45,49,Medium,Medium
+67,Conchita Swift,Dublin,Small Business,17-08-2024,Yes,53,96,474,16,66,Low,Medium
+68,Udall Wilton,Mayo,Small Business,23-10-2023,Yes,62,69,344,26,64,Low,Medium
+69,Langsdon Cosgriff,Cork,Residential,08-06-2023,Yes,,40,481,44,12,Medium,Low
+70,Floris Willard,Kerry,Residential,08-08-2023,Yes,60,23,264,46,34,Medium,Low
+71,Donavon Senten,Limerick,Residential,29-03-2025,No,5,57,373,43,21,Medium,Low
+72,Ailbert Burrell,Kilkenny,Residential,22-01-2024,Yes,71,28,365,47,43,Medium,Medium
+73,Bartolemo Derwin,Dublin,Small Business,17-07-2023,No,97,10,363,66,56,Medium,Medium
+74,Brennan Load,Galway,Residential,21-11-2023,No,5,1,461,73,0,High,Low
+75,Gard Jiricka,Mayo,Residential,23-09-2024,Yes,7,31,913,62,14,Medium,Low
+76,,Donegal,Residential,07-05-2025,Yes,37,49,249,33,41,Low,Medium
+77,Claudian Fawdry,Limerick,Residential,08-07-2023,Yes,7,40,459,44,17,Medium,Low
+78,Elene Janton,Limerick,Residential,12-10-2025,No,84,19,261,58,50,Medium,Medium
+79,Floyd Phant,Cork,Residential,10-06-2025,No,58,13,278,62,30,Medium,Low
+80,Evie Duligal,Kilkenny,Residential,15-09-2023,Yes,99,10,838,70,57,Medium,Medium
+81,Lorri Paylie,Limerick,Residential,12-12-2023,Yes,13,30,161,40,18,Low,Low
+82,Bren Robichon,Waterford,Residential,28-01-2026,No,29,95,373,24,49,Low,Medium
+83,Garrett Laybourne,Clare,Residential,06-01-2026,Yes,53,10,848,70,25,Medium,Low
+84,Desmund Van der Velden,Clare,Residential,17-08-2023,No,95,19,262,58,57,Medium,Medium
+85,Ebonee Sherel,Clare,Small Business,,Yes,21,69,295,24,35,Low,Low
+86,Tyson Boakes,Mayo,Residential,21-11-2025,No,94,57,579,49,83,Medium,High
+87,Tommie Whartonby,Galway,Small Business,02-05-2024,Yes,37,73,481,28,48,Low,Medium
+88,Ryley Marland,Kilkenny,Small Business,28-09-2025,No,95,60,162,35,85,Low,High
+89,Earvin Leadstone,Galway,Residential,16-12-2025,Yes,80,13,839,69,45,Medium,Medium
+90,Reed Cotgrove,Kilkenny,Residential,21-01-2024,No,89,12,796,78,51,High,Medium
+91,Merle Freckelton,Cork,Small Business,25-01-2026,Yes,82,2,270,57,43,Medium,Medium
+92,Simeon Van Dalen,Limerick,Small Business,20-03-2024,Yes,23,3,404,61,2,Medium,Low
+93,Phyllis Sillick,Kerry,Small Business,19-11-2025,No,16,100,196,16,41,Low,Medium
+94,Ranna Coggeshall,Kerry,Residential,17-02-2024,Yes,20,71,231,21,35,Low,Low
+95,Aryn Bonwell,Limerick,Small Business,28-12-2023,No,94,15,447,66,55,Medium,Medium
+96,Alic Attwill,Cork,Residential,01-06-2023,Yes,8,64,149,22,25,Low,Low
+97,Donni Pennycord,Cork,Small Business,01-01-2026,Yes,67,58,775,44,64,Medium,Medium
+98,Vlad Shannon,Waterford,Small Business,29-03-2025,Yes,38,2,695,70,12,Medium,Low
+99,Allie Bettison,Clare,Small Business,24-11-2024,No,18,33,672,64,23,Medium,Low
+100,Emmerich Muat,Donegal,Small Business,10-05-2024,No,,10,619,74,0,High,Low
+101,Ludvig Stellman,Dublin,Residential,14-08-2025,Yes,60,15,172,48,32,Medium,Low
+102,Consuela MacKenzie,Donegal,Small Business,23-05-2025,No,1,94,351,24,29,Low,Low
+103,Randal Silverson,Limerick,Small Business,30-06-2025,No,0,69,957,54,21,Medium,Low
+104,Joyce Stendall,Clare,Small Business,10-11-2024,No,49,54,492,48,51,Medium,Medium
+105,Worden Arter,Waterford,Residential,15-03-2024,No,60,69,247,33,63,Low,Medium
+106,Sumner Kehoe,Kilkenny,Small Business,29-01-2025,Yes,67,99,189,6,77,Low,High
+107,Jessy Gatteridge,Limerick,Residential,09-01-2024,Yes,99,23,524,54,61,Medium,Medium
+108,My Wiersma,Mayo,Residential,06-01-2026,No,14,65,955,56,29,Medium,Low
+109,Davina Booy,Donegal,Residential,25-10-2023,Yes,74,34,498,48,62,Medium,Medium
+110,Pebrook Mault,Waterford,Small Business,05-10-2025,Yes,16,67,367,28,31,Low,Low
+111,Kissiah Booty,Cork,Small Business,07-02-2026,No,45,40,309,49,44,Medium,Medium
+112,Kinnie Leghorn,Dublin,Residential,03-12-2024,Yes,56,65,356,28,59,Low,Medium
+113,Maribel Corkell,Mayo,Small Business,04-01-2025,Yes,91,55,708,44,80,Medium,High
+114,Ave Mustill,Kilkenny,Residential,05-05-2025,Yes,16,14,688,64,0,Medium,Low
+115,Austina Sautter,Clare,Small Business,04-03-2024,Yes,11,94,887,30,36,Low,Low
+116,Camellia Danielsohn,Galway,Residential,10-04-2023,No,53,5,537,74,24,High,Low
+117,Regina Vanyashin,Cork,Residential,11-05-2024,No,6,96,305,21,33,Low,Low
+118,Adolpho Rees,Waterford,Small Business,27-09-2025,Yes,59,72,196,20,63,Low,Medium
+119,Michaelina Le Hucquet,Kerry,Small Business,10-06-2023,Yes,79,36,678,52,66,Medium,Medium
+120,Dacey Tadlow,Limerick,Small Business,27-06-2024,Yes,49,56,272,30,51,Low,Medium
+121,Amber McPhater,Clare,Residential,11-11-2024,Yes,74,77,630,30,75,Low,High
+122,Peyter Cleare,Kilkenny,Residential,06-04-2023,Yes,82,12,432,57,46,Medium,Medium
+123,Celene Petrishchev,Kilkenny,Residential,11-08-2024,No,34,74,528,39,46,Low,Medium
+124,Anderea Gaskamp,Waterford,Small Business,30-06-2023,Yes,87,31,114,38,70,Low,Medium
+125,Saunder Cunnington,Mayo,Small Business,16-07-2023,No,84,38,696,62,70,Medium,Medium
+126,Freddi Bainton,Waterford,Residential,22-09-2024,No,42,29,601,64,23,Medium,Low
+127,Benny Harwin,Waterford,,09-02-2024,Yes,,66,388,29,20,Low,Low
+128,Reade Turmell,Galway,Small Business,14-12-2023,Yes,28,46,311,36,33,Low,Low
+129,Bianca Culy,Dublin,Residential,21-08-2023,Yes,42,61,792,43,48,Medium,Medium
+130,Jacinthe Kildahl,Kilkenny,Small Business,11-04-2024,Yes,97,33,753,56,78,Medium,High
+131,Nissa Doogan,Kerry,,16-05-2025,Yes,16,67,198,22,31,Low,Low
+132,Borg Tinline,Dublin,Small Business,10-11-2024,No,69,25,121,51,41,Medium,Medium
+133,Mac Humphery,Mayo,Residential,05-08-2023,Yes,38,50,363,36,42,Low,Medium
+134,Aprilette Tumielli,Clare,Small Business,20-08-2023,Yes,42,89,833,30,56,Low,Medium
+135,Krista Binning,Kilkenny,Small Business,24-10-2024,No,64,87,923,44,71,Medium,High
+136,,Kilkenny,Residential,04-01-2026,Yes,76,51,230,31,69,Low,Medium
+137,Jessamine Brokenshire,Clare,Residential,05-12-2023,No,88,75,889,49,84,Medium,High
+138,Crysta Gorrissen,Mayo,Small Business,23-09-2025,No,96,1,283,68,53,Medium,Medium
+139,Josey Teasey,Clare,Small Business,24-04-2023,Yes,95,17,538,58,57,Medium,Medium
+140,Lu Strothers,Dublin,Residential,08-11-2024,No,4,61,725,51,21,Medium,Low
+141,Jacqui Jeanin,Clare,Residential,28-05-2024,No,19,82,567,36,38,Low,Low
+142,Henrie Raffon,Limerick,Residential,15-11-2025,No,,94,390,25,28,Low,Low
+143,Roley Buttrick,Clare,Residential,17-06-2025,No,57,47,731,58,54,Medium,Medium
+144,Terrye Earie,Cork,Small Business,14-11-2023,No,80,38,387,53,67,Medium,Medium
+145,Jessalin Crosoer,Clare,Small Business,03-03-2025,Yes,81,68,569,33,77,Low,High
+146,Laurent Saxelby,Dublin,Residential,21-05-2023,No,57,3,418,71,26,High,Low
+147,Auberon Croy,Mayo,Residential,15-12-2023,No,86,3,743,81,46,High,Medium
+148,Kalina Horsell,Mayo,Small Business,29-09-2025,No,20,8,844,81,1,High,Low
+149,Giffard Dominguez,Kilkenny,Small Business,22-06-2024,Yes,19,37,948,60,24,Medium,Low
+150,Valentin Curwood,Kerry,Small Business,19-03-2025,Yes,64,27,733,58,38,Medium,Low
+151,Ewart Simacek,Cork,Residential,08-10-2024,No,14,62,290,38,28,Low,Low
+152,Lindsey Lewendon,Mayo,Residential,22-08-2024,Yes,22,64,232,25,35,Low,Low
+153,Laurens Redfearn,Galway,Residential,28-02-2025,No,64,21,725,71,36,High,Low
+154,Rudolf Demangeot,Kilkenny,Residential,27-06-2023,No,92,20,491,65,55,Medium,Medium
+155,Towny Mees,Galway,Residential,06-02-2025,Yes,21,56,407,34,32,Low,Low
+156,Stewart Andriesse,Kerry,Residential,29-05-2024,No,17,76,217,29,35,Low,Low
+157,Estrellita Wales,Limerick,Small Business,08-09-2024,Yes,54,67,462,30,58,Low,Medium
+158,Mitch Obell,Clare,Small Business,21-07-2023,Yes,42,83,268,17,54,Low,Medium
+159,Hana Donegan,Kerry,Small Business,,Yes,,86,152,12,26,Low,Low
+160,Loren Ladds,Donegal,Small Business,28-01-2024,No,27,74,506,38,41,Low,Medium
+161,Hurlee Bridle,Galway,Residential,17-10-2024,No,75,16,520,68,42,Medium,Medium
+162,Tessi Wharrier,Cork,Small Business,01-04-2025,Yes,5,76,691,33,26,Low,Low
+163,Sibelle Critchlow,Kerry,Small Business,26-05-2024,Yes,53,33,124,37,47,Low,Medium
+164,Burtie Sirman,Mayo,Small Business,14-04-2023,Yes,31,91,227,11,49,Low,Medium
+165,Robinson Compford,Clare,Small Business,26-07-2023,Yes,18,61,456,33,31,Low,Low
+166,Junia Marrow,Kilkenny,Small Business,27-02-2025,No,71,24,343,58,42,Medium,Medium
+167,Bruce Raphael,Mayo,Small Business,14-07-2023,Yes,6,89,208,12,31,Low,Low
+168,Joey Meffin,Waterford,Residential,14-10-2023,Yes,8,2,262,57,0,Medium,Low
+169,Alica Muzzall,Limerick,Residential,20-10-2025,Yes,80,48,964,55,70,Medium,Medium
+170,Dyanna Springett,Donegal,Small Business,03-10-2023,No,97,73,723,45,90,Medium,High
+171,Guilbert Bearcroft,Kerry,Small Business,27-05-2023,Yes,45,28,435,49,25,Medium,Low
+172,Alyosha Lethardy,Clare,Small Business,15-08-2024,Yes,98,20,449,53,60,Medium,Medium
+173,Hort Collin,Kilkenny,Residential,29-07-2023,Yes,18,29,267,44,6,Medium,Low
+174,Rivkah Janosevic,Kerry,Residential,03-08-2023,No,47,45,578,55,46,Medium,Medium
+175,Cindie Tumilty,Donegal,Residential,22-11-2025,Yes,86,38,434,44,72,Medium,High
+176,Sandy Revans,Clare,Small Business,21-07-2023,No,91,92,369,25,91,Low,High
+177,,Kilkenny,Residential,26-03-2023,Yes,85,11,735,67,48,Medium,Medium
+178,Nehemiah Devereux,Kilkenny,Residential,05-11-2023,No,87,51,838,60,76,Medium,High
+179,Ilaire Osant,Cork,Small Business,04-04-2025,Yes,60,59,279,29,60,Low,Medium
+180,Nickolai Drew-Clifton,Cork,Residential,26-06-2023,Yes,52,34,853,59,47,Medium,Medium
+181,Nikolai Cowles,Donegal,Small Business,05-06-2024,Yes,39,93,196,9,55,Low,Medium
+182,Cristie Thackray,Limerick,Small Business,29-07-2023,Yes,30,73,713,35,43,Low,Medium
+183,Germaine Bowley,,Small Business,27-12-2024,Yes,37,95,558,19,54,Low,Medium
+184,Cyril Fuidge,Mayo,Residential,11-05-2023,No,90,96,236,19,92,Low,High
+185,Carolynn Pearman,Galway,Small Business,11-08-2024,No,96,33,811,68,77,Medium,High
+186,Coleen Mizzen,Dublin,Small Business,16-07-2025,No,60,9,953,84,30,High,Low
+187,Ava Wisker,Kilkenny,Residential,12-04-2026,No,10,85,326,27,33,Low,Low
+188,Clemence Mattersley,Waterford,Residential,13-02-2026,No,82,30,732,67,66,Medium,Medium
+189,Dolly Galvin,Limerick,Small Business,10-12-2025,No,8,51,106,38,21,Low,Low
+190,Roseanna Gibbonson,Donegal,Residential,02-03-2026,No,6,78,957,50,28,Medium,Low
+191,Woodrow Padula,Waterford,Residential,20-03-2025,No,53,58,128,35,55,Low,Medium
+192,Kalvin Fitzsymonds,Clare,Small Business,10-08-2025,No,61,6,646,76,30,High,Low
+193,Elmo Warrell,Kilkenny,Residential,08-08-2023,No,91,76,609,40,87,Low,High
+194,Isidor Eakins,Donegal,Small Business,10-04-2026,Yes,98,43,685,49,82,Medium,High
+195,Adrianne Eyles,Kerry,Residential,20-03-2024,No,77,38,882,67,65,Medium,Medium
+196,Kai Kilborn,Mayo,Residential,23-11-2023,Yes,42,22,765,62,21,Medium,Low
+197,Nanci Studart,Waterford,Small Business,30-10-2025,No,8,57,132,35,23,Low,Low
+198,Rois Plane,Kerry,Small Business,29-03-2023,Yes,97,37,761,54,79,Medium,High
+199,Marsh Jozefiak,Kerry,Residential,24-02-2025,Yes,88,73,137,18,84,Low,High
+200,Ollie Dabnot,Cork,Small Business,15-11-2025,No,26,64,846,53,37,Medium,Low
+201,Alfons Beardsdale,Dublin,Residential,28-05-2024,Yes,58,64,363,29,60,Low,Medium
+202,Raven Learoyde,Waterford,Residential,15-09-2023,Yes,1,62,463,33,19,Low,Low
+203,Agnesse Baike,Donegal,Residential,27-11-2023,Yes,17,52,258,32,28,Low,Low
+204,Raeann Piatto,Dublin,Small Business,16-08-2025,No,98,85,542,34,94,Low,High
+205,Baudoin Alpin,Limerick,Small Business,27-05-2024,Yes,70,88,654,26,75,Low,High
+206,Slade Lattka,Dublin,Small Business,21-09-2023,No,30,40,834,65,33,Medium,Low
+207,Carline Naden,Dublin,Residential,16-10-2025,No,74,94,437,26,80,Low,High
+208,Lucinda Astley,Limerick,Small Business,23-08-2025,No,,54,119,37,16,Low,Low
+209,Vonni Havill,Limerick,Small Business,19-09-2024,No,91,60,214,36,82,Low,High
+210,Sebastiano Minger,Waterford,Residential,03-07-2024,Yes,34,24,608,56,16,Medium,Low
+211,Frankie Maylin,Limerick,Residential,16-08-2025,No,85,71,337,35,81,Low,High
+212,Moina Pallent,Kilkenny,Residential,20-10-2023,Yes,29,18,237,48,11,Medium,Low
+213,Dannel Beetles,Kilkenny,Small Business,16-04-2024,Yes,81,71,772,38,78,Low,High
+214,Nancey Crasswell,Limerick,Small Business,14-11-2024,No,46,7,928,84,19,High,Low
+215,Amelia Collacombe,Dublin,Small Business,11-02-2024,Yes,80,0,590,68,41,Medium,Medium
+216,Adolphus O'Halloran,Limerick,Residential,02-03-2024,Yes,94,61,648,39,84,Low,High
+217,Felizio Blumson,Mayo,,09-06-2025,No,22,32,315,53,25,Medium,Low
+218,Cooper Westall,Cork,Small Business,25-07-2025,No,58,55,226,39,57,Low,Medium
+219,Inez McCrie,Limerick,Small Business,06-11-2024,Yes,49,30,864,61,43,Medium,Medium
+220,,Galway,Small Business,20-03-2023,Yes,97,24,535,54,60,Medium,Medium
+221,Horacio Simondson,Kilkenny,Residential,11-09-2025,No,92,24,736,70,57,Medium,Medium
+222,Karoly Sacks,Donegal,Small Business,10-06-2025,No,33,31,674,65,32,Medium,Low
+223,Ezekiel Weems,Mayo,Small Business,20-01-2026,Yes,57,62,267,27,59,Low,Medium
+224,Dwain Cassells,Cork,Small Business,14-01-2025,Yes,91,40,775,53,76,Medium,High
+225,Paula Priestner,Cork,Small Business,08-03-2026,No,47,22,865,75,25,High,Low
+226,Emeline Jaggi,Limerick,Small Business,10-01-2024,Yes,90,72,499,29,85,Low,High
+227,Desmond Rastrick,,Small Business,19-01-2024,Yes,82,68,934,44,78,Medium,High
+228,,Kerry,Residential,11-12-2025,Yes,17,44,789,52,25,Medium,Low
+229,Clair Allbrook,Kilkenny,Small Business,28-02-2026,Yes,8,72,596,32,27,Low,Low
+230,Vanya Orrett,Kerry,Residential,20-11-2023,Yes,26,32,465,48,28,Medium,Low
+231,Obie Bellino,Mayo,Small Business,15-02-2025,No,44,40,261,48,43,Medium,Medium
+232,Rowland Achrameev,Waterford,Residential,06-05-2025,Yes,40,77,373,23,51,Low,Medium
+233,Farica Brazel,Cork,Small Business,16-08-2025,Yes,29,73,819,38,42,Low,Medium
+234,Odie Claringbold,Galway,Residential,28-08-2023,No,90,9,223,62,51,Medium,Medium
+235,Enoch Rothery,Clare,Small Business,09-01-2024,No,75,40,178,45,65,Medium,Medium
+236,Farah Mees,,Residential,23-08-2024,No,82,54,570,50,74,Medium,High
+237,Casar Isaaksohn,Kilkenny,Residential,24-04-2023,No,68,96,495,27,76,Low,High
+238,Francklin Grimsdyke,Cork,Small Business,09-06-2025,Yes,58,24,412,50,33,Medium,Low
+239,,Galway,Small Business,18-02-2024,Yes,41,53,904,51,45,Medium,Medium
+240,Cello Lorenz,Limerick,Small Business,01-02-2024,Yes,36,96,569,19,54,Low,Medium
+241,Pembroke Gravenor,Kerry,Residential,19-03-2024,Yes,90,58,393,33,80,Low,High
+242,Elfie Milthorpe,Waterford,Small Business,05-12-2023,No,77,85,159,22,79,Low,High
+243,Parker Paice,Mayo,Small Business,10-05-2024,Yes,82,54,974,52,74,Medium,High
+244,Siward Deroche,Waterford,Small Business,18-12-2024,Yes,73,90,619,24,78,Low,High
+245,Travis Fandrich,Cork,Small Business,03-02-2025,No,82,24,300,57,50,Medium,Medium
+246,Josepha Dorrington,Waterford,Residential,15-03-2024,Yes,91,45,342,38,77,Low,High
+247,Jackie Milillo,Cork,Residential,14-09-2025,Yes,91,32,980,63,73,Medium,High
+248,Thomasa Tilt,Kilkenny,Residential,01-08-2023,No,55,47,1000,67,53,Medium,Medium
+249,Julissa Kingcote,Galway,Residential,31-10-2025,Yes,60,22,866,65,34,Medium,Low
+250,Zollie Laughlin,,Residential,07-08-2025,No,81,52,824,59,72,Medium,High
+251,Adorne Rakes,Waterford,Small Business,17-02-2026,Yes,26,33,705,55,28,Medium,Low
+252,Matthias Tevlin,Dublin,Residential,17-03-2024,Yes,71,4,638,67,36,Medium,Low
+253,Emilia D'orsay,Mayo,Residential,21-09-2025,No,96,83,996,48,92,Medium,High
+254,Nikola Saltern,Waterford,Residential,18-08-2024,Yes,73,32,849,59,61,Medium,Medium
+255,Morty Kalb,Waterford,Small Business,21-12-2024,No,35,49,143,40,39,Low,Low
+256,Mendy Giannazzo,Kilkenny,Residential,20-05-2025,No,17,14,512,68,1,Medium,Low
+257,Ursulina Saltwell,Cork,Small Business,13-04-2025,Yes,63,92,743,26,72,Low,High
+258,Brittany Gittings,Clare,Residential,05-03-2025,Yes,53,35,709,54,48,Medium,Medium
+259,Ambrose Duetsche,Kerry,Residential,19-04-2023,No,0,47,730,58,14,Medium,Low
+260,Jackson Hazlehurst,Donegal,Small Business,15-11-2023,Yes,94,39,294,39,78,Low,High
+261,Grissel Yurenin,Waterford,Small Business,06-07-2023,No,57,16,373,63,30,Medium,Low
+262,Sutherlan Skillings,Clare,Residential,15-02-2025,No,61,2,885,86,28,High,Low
+263,Viola Coushe,Donegal,Residential,30-10-2025,No,45,21,204,56,23,Medium,Low
+264,Katherina Moody,Galway,Small Business,15-11-2023,No,34,95,221,19,52,Low,Medium
+265,Brita Castanyer,Waterford,Small Business,08-07-2023,No,9,96,519,28,35,Low,Low
+266,Kenon Hegarty,,Residential,04-08-2025,Yes,67,19,931,68,38,Medium,Low
+267,Pierette Hymor,Mayo,Residential,17-10-2025,Yes,42,83,605,27,54,Low,Medium
+268,Germayne Cowley,Waterford,Residential,11-06-2024,No,82,83,178,24,82,Low,High
+269,Bendite Adiscot,Kerry,Small Business,07-02-2025,Yes,18,4,643,67,0,Medium,Low
+270,Krispin Bagshaw,Mayo,Small Business,18-12-2025,Yes,23,76,974,41,39,Medium,Low
+271,Malinda Hattigan,Donegal,Residential,05-03-2024,No,,2,963,88,0,High,Low
+272,Franz Lebell,Kilkenny,Small Business,25-04-2025,Yes,20,92,221,11,42,Low,Medium
+273,Emmeline Boxill,Mayo,Residential,10-02-2024,No,32,36,186,48,33,Medium,Low
+274,Rubin Westraw,Mayo,Residential,12-08-2024,Yes,2,15,939,71,0,High,Low
+275,Ev Pietruschka,Kerry,Small Business,13-05-2025,Yes,47,86,306,16,59,Low,Medium
+276,Sasha Wearn,Waterford,Residential,26-12-2023,Yes,33,34,606,51,33,Medium,Low
+277,Bondon Gipp,Donegal,Residential,17-03-2023,Yes,19,6,164,52,0,Medium,Low
+278,Dewain Hawse,Limerick,Small Business,25-06-2025,No,90,14,545,69,52,Medium,Medium
+279,Marylin Ivie,Donegal,Small Business,02-02-2024,No,65,41,106,43,58,Medium,Medium
+280,Nadia Asson,Waterford,Small Business,03-03-2026,No,16,63,783,52,30,Medium,Low
+281,Gerianne Bohills,Waterford,Residential,07-08-2024,No,3,42,240,46,15,Medium,Low
+282,Saudra Pynn,Galway,Residential,12-04-2025,No,30,40,310,49,33,Medium,Low
+283,Audi Stott,Clare,Residential,29-09-2025,No,71,19,851,76,40,High,Low
+284,Imogen Davidzon,Dublin,Residential,07-12-2023,Yes,93,95,556,19,94,Low,High
+285,Dotti Le Noir,Kerry,Small Business,05-06-2025,No,60,58,261,39,59,Low,Medium
+286,Krystal Groveham,Galway,Residential,22-11-2024,Yes,52,36,352,43,47,Medium,Medium
+287,Cherilynn Wasson,Limerick,Small Business,21-05-2024,No,,48,133,40,14,Low,Low
+288,Joyce Beteriss,Dublin,Small Business,16-11-2024,No,83,71,134,29,79,Low,High
+289,Joyce Ranking,Donegal,Residential,29-03-2024,No,28,68,556,43,40,Medium,Low
+290,Tynan Beere,Cork,Residential,22-04-2024,No,20,22,121,53,6,Medium,Low
+291,Judye Assante,Cork,Residential,13-07-2023,Yes,16,56,385,34,28,Low,Low
+292,Shurlocke Bowring,Mayo,Small Business,18-10-2023,No,69,31,807,69,58,Medium,Medium
+293,Bradly Reeder,Limerick,Residential,07-06-2023,Yes,42,66,821,42,49,Medium,Medium
+294,Althea Columbell,Clare,Small Business,20-04-2023,Yes,73,52,741,46,67,Medium,Medium
+295,Aurore Phython,Kerry,Small Business,16-12-2023,No,96,90,380,26,94,Low,High
+296,Ellwood Dmtrovic,Kilkenny,Residential,22-03-2025,Yes,1,26,462,51,0,Medium,Low
+297,Adler McBratney,Waterford,Small Business,22-06-2024,Yes,82,39,624,49,69,Medium,Medium
+298,,Dublin,Residential,29-12-2025,No,12,90,609,33,35,Low,Low
+299,Meagan O'Sullivan,Galway,Residential,04-02-2026,No,98,95,106,16,97,Low,High
+300,Luz Pepperill,Limerick,Small Business,21-10-2023,Yes,40,78,879,37,51,Low,Medium
+301,Pennie Zanazzi,Kilkenny,Residential,12-03-2024,No,52,88,850,42,63,Medium,Medium
+302,Jacky Taile,Dublin,Residential,02-11-2023,No,96,72,584,42,89,Medium,High
+303,Arlee Moggie,Kerry,Residential,06-07-2023,No,55,33,358,54,48,Medium,Medium
+304,Fanchette Cunradi,Waterford,Residential,17-03-2025,No,100,48,899,63,84,Medium,High
+305,Zach Pinchback,Waterford,Small Business,19-01-2026,No,2,92,723,36,29,Low,Low
+306,Gale Vaux,Cork,Small Business,25-08-2024,Yes,,95,461,16,29,Low,Low
+307,,Kerry,Small Business,06-07-2023,Yes,2,58,703,42,19,Medium,Low
+308,Diannne Vasenkov,Limerick,Residential,12-12-2024,No,94,50,237,42,81,Medium,High
+309,Ashla Deftie,Limerick,Small Business,19-10-2025,No,11,59,488,45,25,Medium,Low
+310,Faber Antonikov,Kilkenny,Small Business,10-11-2024,No,0,32,892,71,10,High,Low
+311,Robinette McKeown,Donegal,Small Business,13-01-2026,No,59,93,380,25,69,Low,Medium
+312,Timi Behr,Dublin,Residential,17-10-2024,No,9,40,802,64,18,Medium,Low
+313,Elsbeth Trevascus,Cork,Small Business,22-01-2025,No,70,79,980,50,73,Medium,High
+314,Giacomo Reeday,Donegal,Residential,23-07-2023,No,1,44,909,65,14,Medium,Low
+315,Isabella Ivatts,Limerick,Small Business,09-03-2025,Yes,55,16,566,59,28,Medium,Low
+316,Ainslee Mateu,Waterford,Small Business,29-06-2025,No,6,36,816,66,15,Medium,Low
+317,Stephannie Fish,Waterford,Residential,16-04-2023,Yes,51,38,573,48,47,Medium,Medium
+318,Brewster Frany,Cork,Residential,12-10-2023,Yes,97,33,884,60,78,Medium,High
+319,Genovera Baillie,Kilkenny,Residential,10-07-2023,No,7,82,306,28,30,Low,Low
+320,Camala Smithe,Dublin,Small Business,28-06-2023,No,94,5,708,79,52,High,Medium
+321,Ardine Rickword,Mayo,Residential,12-07-2025,No,58,51,711,56,56,Medium,Medium
+322,Ninnette Deverill,,Small Business,16-08-2023,Yes,53,57,138,26,54,Low,Medium
+323,Salim Tingly,Waterford,Residential,02-03-2024,No,77,14,408,65,43,Medium,Medium
+324,Arliene Humber,Dublin,Small Business,22-04-2023,Yes,95,28,981,65,60,Medium,Medium
+325,Erminia Sammes,Limerick,Residential,24-08-2025,No,39,42,750,62,40,Medium,Low
+326,Davy Winfield,Galway,Small Business,08-01-2024,No,2,72,277,32,23,Low,Low
+327,Jean Burnel,Donegal,Small Business,23-01-2025,Yes,,65,212,24,20,Low,Low
+328,Erny Drabble,Donegal,Small Business,26-06-2024,Yes,41,9,430,58,16,Medium,Low
+329,Noby Shorto,Limerick,,02-07-2023,Yes,66,75,403,25,69,Low,Medium
+330,Jacky Popple,Galway,Residential,03-11-2023,No,100,45,723,59,84,Medium,High
+331,Bernie Grigoriev,Cork,Residential,14-04-2023,No,94,36,561,59,77,Medium,High
+332,Malanie Rounsefull,Kilkenny,,26-05-2024,Yes,66,66,231,24,66,Low,Medium
+333,Nancie Lozano,Clare,Small Business,09-03-2025,Yes,62,6,643,66,30,Medium,Low
+334,Thalia Draaisma,Clare,Small Business,20-11-2024,Yes,87,16,765,65,51,Medium,Medium
+335,Kala Writtle,Mayo,Small Business,27-02-2024,No,80,76,485,37,79,Low,High
+336,Northrup Felten,Dublin,Residential,17-09-2024,Yes,30,81,114,13,45,Low,Medium
+337,Lawry Alcoran,Cork,Residential,15-02-2024,Yes,58,9,797,69,28,Medium,Low
+338,Wyn Jiras,Mayo,Small Business,01-12-2023,Yes,70,55,636,42,66,Medium,Medium
+339,Padraig Glowach,Dublin,Small Business,12-06-2024,No,12,32,287,53,18,Medium,Low
+340,Montgomery Doran,Donegal,Residential,15-06-2024,Yes,4,81,214,16,27,Low,Low
+341,Elora Grellis,Clare,Residential,16-12-2023,No,5,63,542,45,22,Medium,Low
+342,Marna Rowesby,Waterford,Residential,23-07-2023,Yes,80,87,583,24,82,Low,High
+343,Frederik Cutcliffe,Donegal,Small Business,10-02-2024,Yes,73,62,465,33,70,Low,Medium
+344,,Dublin,Residential,13-02-2024,Yes,39,21,727,61,19,Medium,Low
+345,Tonnie Leveritt,Dublin,Small Business,19-12-2023,Yes,92,60,900,47,82,Medium,High
+346,Ryley Taft,Kerry,Residential,14-04-2025,Yes,83,72,534,30,80,Low,High
+347,Beverly Mucklo,Galway,Small Business,12-04-2026,No,32,9,405,68,10,Medium,Low
+348,Darb Tiron,Limerick,Small Business,28-06-2024,Yes,59,87,912,34,67,Low,Medium
+349,Diannne MacGillavery,Kilkenny,Small Business,,Yes,86,62,506,34,79,Low,High
+350,Alfons Rooze,Donegal,Residential,06-02-2025,Yes,13,75,124,16,32,Low,Low
+351,Tillie Comar,Mayo,Residential,31-01-2025,No,7,57,331,41,22,Medium,Low
+352,Blythe Pucker,Cork,,05-10-2023,No,72,17,580,69,41,Medium,Medium
+353,Barbaraanne Eley,Limerick,Small Business,12-01-2025,No,74,6,692,78,39,High,Low
+354,Alisander Doggett,Kerry,Residential,15-03-2026,Yes,86,74,103,16,82,Low,High
+355,Donny Espinoy,Dublin,Residential,17-09-2024,Yes,65,0,633,69,31,Medium,Low
+356,Jourdan Skiplorne,Mayo,Residential,11-08-2024,Yes,82,34,443,46,68,Medium,Medium
+357,Gwendolin Rawls,Clare,Residential,19-02-2026,No,63,94,633,32,72,Low,High
+358,Rickert Walby,Galway,Small Business,22-06-2024,Yes,100,75,213,19,93,Low,High
+359,Quinton Himpson,Dublin,Small Business,04-09-2023,No,70,64,424,41,68,Medium,Medium
+360,Anna-maria Donalson,Mayo,Small Business,30-04-2025,No,34,72,621,43,45,Medium,Medium
+361,Simona Sheal,Dublin,Residential,13-01-2026,No,55,70,178,30,60,Low,Medium
+362,Janella Shotbolt,Dublin,Small Business,19-03-2023,Yes,41,84,308,17,54,Low,Medium
+363,Emmey Barrow,Clare,,16-01-2025,Yes,1,77,464,25,24,Low,Low
+364,Woodie Hurdman,Donegal,Small Business,21-04-2025,Yes,29,32,631,53,30,Medium,Low
+365,Hasty Ruddiman,Waterford,Residential,07-11-2023,No,52,92,383,25,64,Low,Medium
+366,Jessica Harmer,Galway,Residential,13-02-2025,No,84,17,838,77,49,High,Medium
+367,Stacey Carmody,Galway,Residential,24-05-2023,No,64,11,668,75,33,High,Low
+368,Tammy Brosius,Waterford,Small Business,25-06-2024,Yes,24,5,627,66,3,Medium,Low
+369,Corena Jacox,Cork,Small Business,31-08-2023,No,31,25,110,51,14,Medium,Low
+370,Neel Cohen,Waterford,Small Business,02-03-2026,No,25,22,858,75,9,High,Low
+371,Shari Wales,Donegal,Residential,12-10-2024,Yes,34,35,329,42,34,Medium,Low
+372,Kalle Blackah,Clare,Residential,19-10-2023,Yes,69,66,649,36,68,Low,Medium
+373,Eveline Burfield,Galway,Residential,,Yes,84,59,687,41,77,Medium,High
+374,Chrystal Gibbs,Kilkenny,Small Business,05-11-2023,Yes,1,23,481,53,0,Medium,Low
+375,Harli Fraine,Donegal,Residential,19-12-2023,Yes,36,94,496,18,53,Low,Medium
+376,Eustacia Durie,Mayo,Small Business,15-08-2024,No,78,34,737,65,65,Medium,Medium
+377,Amandi Kolczynski,Cork,Residential,03-06-2025,No,62,70,905,52,64,Medium,Medium
+378,Chaim Dugdale,Cork,Residential,01-01-2024,Yes,0,76,487,27,23,Low,Low
+379,Rafaelita Boles,,Residential,27-05-2024,No,28,56,162,37,36,Low,Low
+380,Daniele Jenson,Kerry,Small Business,07-05-2024,No,41,47,270,45,43,Medium,Medium
+381,Ranee Robillart,Dublin,Residential,05-12-2023,No,10,0,620,79,0,High,Low
+382,Piotr Landman,Cork,Small Business,23-02-2025,No,39,93,890,40,55,Low,Medium
+383,Lydie Connechy,Waterford,Small Business,20-08-2023,Yes,31,70,400,27,43,Low,Medium
+384,Nickolaus Bergen,Limerick,Residential,31-01-2024,Yes,15,3,991,78,0,High,Low
+385,Grange O'Looney,Limerick,Small Business,11-01-2024,No,79,60,860,56,73,Medium,High
+386,Consalve Greenlees,Donegal,Residential,21-09-2023,Yes,52,7,882,73,24,High,Low
+387,Durand Maps,Dublin,Small Business,10-07-2024,No,43,5,693,78,17,High,Low
+388,Marita Brackley,Dublin,Small Business,26-11-2023,No,10,19,505,66,0,Medium,Low
+389,Terri Kew,Kerry,Small Business,22-10-2023,No,19,77,796,45,36,Medium,Low
+390,Jenda MacBean,Limerick,Residential,23-06-2025,Yes,78,85,658,27,80,Low,High
+391,Margarete Perton,Waterford,Residential,23-04-2024,Yes,59,83,184,14,66,Low,Medium
+392,Giselbert Hanscomb,Limerick,Residential,03-09-2023,No,81,26,398,59,50,Medium,Medium
+393,Jedd Stealy,Waterford,Residential,13-01-2026,Yes,25,56,702,43,34,Medium,Low
+394,Rani Feenan,Waterford,Small Business,18-04-2023,No,97,85,616,36,93,Low,High
+395,Johnny Coote,Kilkenny,,23-10-2025,No,72,56,929,60,67,Medium,Medium
+396,Zabrina Kalkofer,Galway,Small Business,24-03-2025,No,24,26,622,66,10,Medium,Low
+397,Karna Lissandrini,Galway,Small Business,11-10-2024,Yes,35,26,258,45,17,Medium,Low
+398,Rivkah Starkings,Kerry,Small Business,30-06-2023,Yes,52,39,386,42,48,Medium,Medium
+399,Joni Renfield,Donegal,Small Business,13-07-2024,Yes,47,62,664,39,52,Low,Medium
+400,Dave Davana,Mayo,Small Business,04-01-2024,Yes,69,23,967,68,40,Medium,Low
+401,Gwen Datte,Waterford,Residential,17-09-2023,Yes,3,37,137,36,13,Low,Low
+402,,Galway,Residential,22-03-2025,Yes,1,88,456,20,27,Low,Low
+403,Ladonna Eyam,Dublin,Small Business,21-11-2023,No,98,72,153,29,90,Low,High
+404,Normy Grason,Waterford,Small Business,07-09-2023,No,51,88,497,31,62,Low,Medium
+405,Sianna Bulteel,Kilkenny,Residential,29-03-2024,Yes,37,99,596,18,56,Low,Medium
+406,Joline Eamer,Waterford,Residential,06-11-2023,Yes,62,70,120,19,64,Low,Medium
+407,Milissent Lillecrop,Cork,Residential,25-10-2025,Yes,15,95,519,18,39,Low,Low
+408,Salli Brunsdon,Donegal,Residential,06-07-2025,No,50,93,676,34,63,Low,Medium
+409,Glynis Sowley,Kilkenny,Small Business,12-05-2025,Yes,67,11,938,73,35,High,Low
+410,Jehu Schorah,Kerry,Small Business,01-08-2023,Yes,85,68,665,36,80,Low,High
+411,Celestia Palke,Waterford,Small Business,14-07-2024,No,23,81,565,36,40,Low,Low
+412,Elna Ashford,Dublin,Residential,09-06-2023,Yes,53,22,217,46,29,Medium,Low
+413,Alina Schafer,Kerry,Small Business,01-02-2025,Yes,92,34,185,39,75,Low,High
+414,Anderea Reyner,Donegal,Small Business,12-06-2024,No,91,49,512,51,78,Medium,High
+415,Waneta Robilart,Kilkenny,Residential,20-01-2024,Yes,53,89,210,12,64,Low,Medium
+416,Sol Appleford,Cork,Residential,08-06-2023,No,92,64,406,40,84,Low,High
+417,Joaquin Affleck,Kerry,Residential,20-02-2024,No,77,61,637,49,72,Medium,High
+418,Ker Hanigan,Dublin,Residential,09-06-2024,Yes,53,63,235,26,56,Low,Medium
+419,Janaya Mathelon,Limerick,Residential,25-05-2025,Yes,28,20,541,56,11,Medium,Low
+420,Averil Winchurst,Mayo,Residential,01-01-2025,No,46,74,957,52,54,Medium,Medium
+421,Dee dee Durman,Mayo,Residential,25-08-2025,No,16,69,991,55,32,Medium,Low
+422,Audry Snare,Cork,Small Business,13-12-2024,No,72,95,947,41,79,Medium,High
+423,Ange Garm,Kilkenny,Residential,17-05-2023,Yes,77,70,923,43,75,Medium,High
+424,Garrot Laherty,Dublin,Residential,19-05-2024,No,8,50,212,41,21,Medium,Low
+425,Bernard Illem,Galway,Residential,11-10-2023,Yes,83,25,856,63,51,Medium,Medium
+426,Caroljean Snassell,Mayo,Small Business,,Yes,92,76,902,39,87,Low,High
+427,Jaquenetta Lefwich,Mayo,Small Business,26-01-2026,No,55,23,946,77,30,High,Low
+428,Kerrie Perllman,Galway,Residential,26-11-2023,Yes,29,17,110,45,10,Medium,Low
+429,,Cork,Small Business,28-10-2025,No,66,62,157,34,65,Low,Medium
+430,Fey Morecombe,Mayo,Small Business,,No,86,53,561,50,76,Medium,High
+431,Doralynn Trees,Cork,Residential,04-05-2025,Yes,79,81,649,29,80,Low,High
+432,Robin Harrowell,Cork,Small Business,17-03-2026,No,5,5,453,71,0,High,Low
+433,Dawna Broderick,Galway,Small Business,28-11-2024,Yes,34,97,300,11,53,Low,Medium
+434,Sandi Cressey,Clare,Residential,17-04-2024,No,89,70,377,36,83,Low,High
+435,Georgie Ragate,Cork,Small Business,11-03-2024,No,30,83,166,23,46,Low,Medium
+436,Warde Chattington,Clare,Residential,,No,73,34,784,67,61,Medium,Medium
+437,Daron Trundell,Galway,Residential,23-09-2024,Yes,,17,891,68,0,Medium,Low
+438,Quintilla Bohea,Kerry,Residential,01-06-2024,No,14,51,745,57,25,Medium,Low
+439,,Galway,Residential,01-09-2024,No,42,14,286,62,19,Medium,Low
+440,Shea Harriagn,Cork,Small Business,18-09-2023,Yes,40,74,719,35,50,Low,Medium
+441,Ki Amoss,Cork,Small Business,21-03-2025,No,92,3,938,87,50,High,Medium
+442,Isidore Stanbury,Mayo,Small Business,11-07-2024,No,25,17,231,58,8,Medium,Low
+443,Ramsey Mahony,Dublin,Small Business,11-01-2024,No,27,67,848,52,39,Medium,Low
+444,Jerrie Loweth,Galway,Small Business,30-07-2025,Yes,11,50,939,53,23,Medium,Low
+445,Gino Stainton - Skinn,Kilkenny,Small Business,01-02-2025,Yes,29,8,450,60,8,Medium,Low
+446,Tanner Snashall,Kerry,Residential,27-10-2023,No,69,54,706,54,65,Medium,Medium
+447,Royal Atton,Kerry,Small Business,20-02-2024,No,39,1,330,69,13,Medium,Low
+448,Emmanuel Chellingworth,Limerick,Small Business,17-03-2025,No,90,89,411,28,90,Low,High
+449,Tawnya Tick,Dublin,Residential,27-10-2024,Yes,54,80,242,17,62,Low,Medium
+450,Helenelizabeth Wagenen,Kerry,Residential,29-11-2024,Yes,7,73,223,20,27,Low,Low
+451,Garik Putley,Dublin,Small Business,20-11-2025,Yes,55,44,153,33,52,Low,Medium
+452,Taite Demkowicz,Dublin,Small Business,22-10-2025,Yes,32,11,506,60,11,Medium,Low
+453,Stacey MacElroy,Kerry,Small Business,03-05-2024,No,2,46,404,49,15,Medium,Low
+454,Ettie Warbeys,Clare,Small Business,05-10-2024,No,61,9,294,64,30,Medium,Low
+455,Derick Nichols,Limerick,Residential,16-08-2023,No,89,11,300,64,51,Medium,Medium
+456,Shermy Lambird,Waterford,Small Business,08-12-2023,No,59,3,293,67,27,Medium,Low
+457,Fayre Lloyd-Williams,Dublin,Residential,21-12-2023,Yes,,67,801,41,20,Medium,Low
+458,Cathi Woodgate,Clare,Residential,21-11-2025,Yes,52,91,718,26,64,Low,Medium
+459,Gustaf Ruthen,Donegal,Residential,23-01-2024,Yes,93,41,847,55,77,Medium,High
+460,Tremayne Kitteridge,Kerry,Residential,23-04-2025,No,48,65,347,38,53,Low,Medium
+461,Francesca Lalor,Donegal,Small Business,18-09-2024,No,41,72,409,36,50,Low,Medium
+462,Katha Itzakson,Waterford,Small Business,12-09-2025,Yes,24,25,696,58,9,Medium,Low
+463,Dion Bradburn,Donegal,Residential,13-02-2026,Yes,4,17,259,49,0,Medium,Low
+464,Dorri Linfitt,Waterford,Small Business,16-02-2025,No,45,98,592,29,61,Low,Medium
+465,Brenden Aucock,Dublin,Small Business,21-03-2024,No,83,79,231,27,82,Low,High
+466,Way Regnard,Donegal,Small Business,19-03-2024,No,32,29,587,63,16,Medium,Low
+467,Pattie Kiera,Kerry,Small Business,22-07-2024,Yes,27,83,489,23,44,Low,Medium
+468,Nelle Perl,Donegal,Small Business,23-03-2025,No,34,97,660,31,53,Low,Medium
+469,Esther Beckitt,Limerick,Small Business,03-09-2023,Yes,64,6,605,65,32,Medium,Low
+470,Lonnard Eastmead,Limerick,Residential,16-10-2023,No,44,76,411,34,54,Low,Medium
+471,Delcine Deener,Clare,Residential,19-12-2024,No,56,91,626,33,67,Low,Medium
+472,Roda Leathart,Waterford,Residential,02-04-2024,Yes,49,52,754,47,50,Medium,Medium
+473,Sophey Juliff,Clare,Residential,26-07-2023,No,47,16,972,81,23,High,Low
+474,Friedrick Claworth,Galway,Residential,25-12-2023,Yes,16,43,260,36,24,Low,Low
+475,Syd Fishwick,Clare,Residential,19-08-2024,Yes,21,86,775,30,41,Low,Medium
+476,Emmanuel Tolcher,Cork,Residential,05-03-2025,Yes,50,6,124,51,22,Medium,Low
+477,Neddy McGowran,Waterford,Residential,21-01-2025,Yes,0,22,231,46,0,Medium,Low
+478,Patton Leyband,Clare,Small Business,07-07-2023,No,59,28,502,61,35,Medium,Low
+479,Bonnie Parlor,Kilkenny,Small Business,24-05-2025,Yes,56,71,1000,45,61,Medium,Medium
+480,Cherlyn O'Cannon,Donegal,Residential,07-10-2024,No,93,98,330,21,95,Low,High
+481,Godfrey Tremoille,Dublin,Small Business,14-02-2024,No,32,79,288,29,46,Low,Medium
+482,Steward Errichelli,Kerry,Residential,03-07-2024,No,86,5,249,65,47,Medium,Medium
+483,Wait Topham,Limerick,Residential,12-05-2025,Yes,8,50,558,42,21,Medium,Low
+484,Carce Lancaster,Kilkenny,Small Business,04-03-2024,No,6,68,296,35,25,Low,Low
+485,Nickola Graundisson,Dublin,Small Business,05-10-2025,Yes,82,83,467,23,82,Low,High
+486,Krysta Toderini,Kerry,Small Business,22-06-2024,No,84,94,167,18,87,Low,High
+487,Cristabel Strain,Donegal,Residential,15-03-2024,No,88,81,355,30,86,Low,High
+488,Jehanna Monkleigh,Galway,Residential,11-02-2025,Yes,53,39,760,53,49,Medium,Medium
+489,Freddi Cornell,Donegal,Small Business,04-01-2025,No,79,7,573,74,42,High,Medium
+490,Levey Dodshon,Kerry,Small Business,07-10-2024,No,74,21,541,66,43,Medium,Medium
+491,Waylin Defew,Dublin,Residential,31-07-2025,Yes,78,65,221,24,74,Low,High
+492,Nananne Wenderott,Dublin,Small Business,18-01-2026,No,68,32,659,64,57,Medium,Medium
+493,Bette-ann Alenichev,Mayo,Small Business,21-11-2025,No,40,80,702,41,52,Medium,Medium
+494,Mart Manklow,Clare,Residential,02-09-2024,Yes,32,6,999,77,9,High,Low
+495,Gipsy Gaze,,Small Business,22-03-2026,No,19,68,288,35,34,Low,Low
+496,Antonina Whiley,Mayo,Residential,03-02-2024,No,45,79,950,49,55,Medium,Medium
+497,Diann Pettie,Kerry,Residential,22-12-2025,Yes,6,13,515,59,0,Medium,Low
+498,Hadleigh Stillmann,Dublin,Residential,09-07-2023,No,29,34,269,51,31,Medium,Low
+499,Olin Tomlins,Cork,Residential,08-02-2026,No,34,58,242,38,41,Low,Medium
+500,Rowena Chable,Kilkenny,Residential,07-12-2023,No,18,96,802,36,41,Low,Medium
+501,Cori Boydon,Kilkenny,Small Business,07-04-2023,Yes,17,77,685,32,35,Low,Low
+502,Charmion Turtle,Kilkenny,Residential,16-11-2023,No,78,3,546,75,41,High,Medium
+503,Ddene Wreight,Mayo,Small Business,18-10-2024,Yes,76,40,228,37,65,Low,Medium
+504,Maryjane Parvin,Cork,Residential,14-04-2026,Yes,88,30,574,52,71,Medium,High
+505,Deidre Pietrzyk,Galway,Residential,19-03-2025,Yes,74,22,288,48,43,Medium,Medium
+506,Stephana Sexstone,Waterford,Residential,31-12-2024,No,77,43,336,49,67,Medium,Medium
+507,Gerri Staresmeare,Donegal,Small Business,25-07-2023,Yes,93,97,126,5,94,Low,High
+508,Blanche Tummons,Kilkenny,Small Business,10-05-2023,Yes,27,8,800,70,6,Medium,Low
+509,Iolande Maylam,Donegal,Residential,05-07-2024,No,95,26,597,65,59,Medium,Medium
+510,Elinor Genney,Clare,Small Business,11-03-2025,Yes,56,42,955,58,52,Medium,Medium
+511,Rani Edowes,Donegal,Small Business,06-08-2024,No,68,24,546,64,40,Medium,Low
+512,Caryn Ayrton,Mayo,Small Business,15-01-2024,Yes,35,7,890,73,12,High,Low
+513,Mommy Canavan,Cork,Residential,04-11-2023,No,66,89,738,38,73,Low,High
+514,Burg Carass,Galway,Residential,16-07-2024,No,62,69,933,53,64,Medium,Medium
+515,Tanny Fley,Mayo,Small Business,29-08-2025,No,97,58,631,50,85,Medium,High
+516,Dorey Hanvey,Mayo,Residential,04-10-2025,Yes,85,18,754,64,50,Medium,Medium
+517,Roxie Stadden,Clare,Residential,02-08-2025,Yes,86,21,259,47,52,Medium,Medium
+518,Nana Mepham,Donegal,Small Business,17-05-2023,Yes,40,38,932,59,39,Medium,Low
+519,Wilfrid Ralestone,Kilkenny,Small Business,18-07-2025,No,58,12,723,76,29,High,Low
+520,Stephani Colbron,Mayo,Residential,22-02-2025,No,65,11,696,75,34,High,Low
+521,Papageno Waldock,Waterford,Small Business,04-12-2025,Yes,64,90,294,14,72,Low,High
+522,Dominick Hallin,,Small Business,21-11-2024,Yes,68,66,661,37,67,Low,Medium
+523,Petrina Cairns,Dublin,Residential,17-02-2024,Yes,61,71,266,22,64,Low,Medium
+524,Elana Innocent,Kilkenny,Residential,12-01-2024,No,40,23,626,67,20,Medium,Low
+525,Zachery Wheble,Cork,Residential,16-03-2024,No,2,54,556,50,18,Medium,Low
+526,Elsie Wills,Dublin,Residential,19-04-2025,No,33,57,986,61,40,Medium,Low
+527,Bryanty Van Giffen,Dublin,Residential,13-04-2023,No,61,1,624,78,28,High,Low
+528,Liesa Kubera,Kilkenny,Small Business,04-01-2024,Yes,16,52,185,30,27,Low,Low
+529,Johnny Mold,Cork,Small Business,04-03-2025,No,72,68,221,33,71,Low,High
+530,Derrick Dorber,Galway,Small Business,23-11-2025,No,96,29,526,61,61,Medium,Medium
+531,Bondon Nussii,Clare,Residential,29-11-2023,No,40,54,244,40,44,Low,Medium
+532,Elana Bott,Dublin,Small Business,04-11-2023,No,92,9,304,65,52,Medium,Medium
+533,Berte Campelli,Mayo,Residential,31-08-2024,No,65,76,953,51,68,Medium,Medium
+534,Aldridge Cowdrey,Cork,Residential,20-04-2024,No,1,14,232,60,0,Medium,Low
+535,Bastian Cranidge,Kilkenny,Small Business,06-11-2025,Yes,96,51,829,49,83,Medium,High
+536,Durward Goracci,Clare,Small Business,22-05-2024,No,92,14,501,68,54,Medium,Medium
+537,Dylan Fotherby,Clare,Residential,22-05-2023,No,63,73,233,30,66,Low,Medium
+538,Scott Peltzer,Mayo,Small Business,16-07-2025,No,69,46,992,67,62,Medium,Medium
+539,Edgar Heald,Clare,Small Business,11-06-2024,Yes,10,29,417,48,1,Medium,Low
+540,Jaquith Sicely,Dublin,Small Business,17-11-2023,No,62,57,368,43,61,Medium,Medium
+541,Lesli Pill,Kerry,Residential,27-08-2023,No,89,79,148,25,86,Low,High
+542,Deana Cescon,Mayo,Residential,30-11-2023,Yes,82,87,220,13,84,Low,High
+543,Robbie Jellybrand,Donegal,Small Business,17-11-2024,No,4,60,570,47,21,Medium,Low
+544,Lindy Davage,Clare,Small Business,14-03-2026,Yes,48,41,653,49,46,Medium,Medium
+545,Dulce Swalwel,Kerry,Residential,18-11-2025,Yes,17,100,598,18,42,Low,Medium
+546,Debbie Davie,Waterford,Residential,03-09-2025,Yes,45,55,799,46,48,Medium,Medium
+547,Holt Edison,Dublin,Small Business,20-05-2024,Yes,96,16,486,57,57,Medium,Medium
+548,Finlay Iacobassi,Galway,Small Business,13-10-2025,No,21,41,798,63,27,Medium,Low
+549,Brook Fyldes,Cork,Small Business,23-12-2023,Yes,30,80,214,16,45,Low,Medium
+550,,Dublin,Residential,18-10-2025,Yes,78,25,606,56,47,Medium,Medium
+551,Coriss Conneely,Kilkenny,Residential,09-12-2025,Yes,77,22,796,63,46,Medium,Medium
+552,Jesselyn Sunners,Donegal,Residential,15-06-2025,No,20,28,787,70,7,Medium,Low
+553,Marve Gherardelli,Limerick,Residential,04-03-2024,Yes,81,72,622,33,78,Low,High
+554,Haze Furmonger,Limerick,Small Business,23-10-2023,Yes,28,59,320,30,37,Low,Low
+555,Cherie Molyneux,Cork,Small Business,07-02-2025,Yes,3,45,784,51,16,Medium,Low
+556,Julietta Tithacott,Cork,Small Business,29-09-2025,Yes,81,39,327,40,68,Low,Medium
+557,Adelind Paull,Limerick,Residential,09-05-2025,No,89,30,157,50,71,Medium,High
+558,Milton Petrillo,Cork,Small Business,07-05-2025,Yes,20,41,154,34,26,Low,Low
+559,Jaye Sides,Kilkenny,Small Business,21-02-2025,No,35,29,292,54,18,Medium,Low
+560,Terri-jo Thow,Kerry,Residential,02-05-2024,No,20,17,745,74,4,High,Low
+561,Vin Ponten,Limerick,Small Business,18-08-2024,No,92,84,682,38,90,Low,High
+562,Rana Heinreich,Waterford,Residential,08-05-2025,No,60,17,320,61,32,Medium,Low
+563,Austin Emsley,Cork,Residential,23-01-2026,No,69,94,593,31,77,Low,High
+564,Linus Fancet,Dublin,Small Business,05-04-2023,No,92,17,407,64,55,Medium,Medium
+565,Herta Bussetti,Mayo,Residential,30-03-2025,No,40,15,742,75,18,High,Low
+566,Luciano Curr,Galway,Small Business,10-10-2023,Yes,4,10,113,48,0,Medium,Low
+567,Hayes Allonby,Clare,Residential,09-11-2023,Yes,65,20,650,60,37,Medium,Low
+568,Babette Geharke,Limerick,Residential,15-05-2023,No,37,0,492,75,11,High,Low
+569,Jasper Madoc-Jones,Kilkenny,Small Business,25-08-2025,Yes,,25,372,49,0,Medium,Low
+570,Hyacinth Fairlam,Mayo,Residential,,No,49,87,327,26,60,Low,Medium
+571,Orland Churching,Clare,Residential,23-02-2026,No,55,78,232,28,62,Low,Medium
+572,Shae Kaley,Waterford,Residential,24-02-2024,No,11,89,359,26,34,Low,Low
+573,Yancy Cowgill,Donegal,Small Business,28-02-2025,Yes,,27,788,60,0,Medium,Low
+574,Phedra Hainsworth,Cork,Small Business,18-03-2025,Yes,85,25,325,47,52,Medium,Medium
+575,Robbert Conant,Dublin,Residential,13-05-2023,Yes,77,25,290,46,46,Medium,Medium
+576,Bastian Godsil,Clare,Residential,27-03-2025,No,88,88,127,20,88,Low,High
+577,Krysta Babcock,Kerry,Residential,31-07-2025,No,61,17,375,63,33,Medium,Low
+578,Yalonda Boldra,Waterford,Small Business,05-06-2025,No,47,21,839,75,24,High,Low
+579,Batholomew Asp,Dublin,Small Business,03-05-2025,No,40,72,260,32,50,Low,Medium
+580,Ivie Hacard,Dublin,Small Business,13-01-2025,No,84,73,728,45,81,Medium,High
+581,Jordan Harpur,Clare,Residential,16-04-2023,No,30,19,158,55,12,Medium,Low
+582,Stephannie Oneile,Mayo,Small Business,25-05-2024,No,85,64,104,31,79,Low,High
+583,Ernestus Balassi,Clare,Small Business,03-08-2024,No,97,55,564,49,84,Medium,High
+584,Reade Thorley,Cork,Residential,20-10-2024,Yes,74,95,134,7,80,Low,High
+585,Aida Harrington,Waterford,Residential,01-12-2024,No,88,55,629,51,78,Medium,High
+586,Hortensia Kerss,Limerick,Residential,22-04-2024,Yes,32,51,770,48,38,Medium,Low
+587,Glen Cashmore,Clare,Residential,19-09-2025,Yes,29,84,805,32,46,Low,Medium
+588,Olag McIlmorow,Limerick,Residential,08-05-2023,Yes,15,29,467,50,4,Medium,Low
+589,Alverta Brozsset,Dublin,Residential,16-06-2023,Yes,7,18,972,70,0,Medium,Low
+590,Roana Pipe,Clare,Small Business,24-03-2024,Yes,4,94,837,28,31,Low,Low
+591,Jermaine Caygill,Donegal,Small Business,15-10-2023,Yes,54,92,312,13,65,Low,Medium
+592,Jasper Railton,Galway,Small Business,,No,85,30,569,62,69,Medium,Medium
+593,Levon Moneti,Waterford,Small Business,30-09-2023,No,88,24,844,73,54,High,Medium
+594,Giorgi Ketch,Donegal,Residential,08-11-2024,No,27,32,557,61,29,Medium,Low
+595,Zuzana Longland,Mayo,Small Business,13-02-2025,Yes,48,52,683,44,49,Medium,Medium
+596,Lelah Newey,Galway,Small Business,19-10-2023,No,8,68,919,54,26,Medium,Low
+597,Ginnifer Gapper,Waterford,Residential,15-03-2025,Yes,31,89,184,11,48,Low,Medium
+598,Joel De Banke,Donegal,Small Business,14-06-2025,Yes,78,30,633,54,64,Medium,Medium
+599,Sibley Cumberland,Clare,Residential,28-07-2023,No,34,86,232,24,50,Low,Medium
+600,Con Bront,Dublin,Residential,06-05-2025,Yes,23,65,422,30,36,Low,Low
+601,Randolph Shellcross,Waterford,Residential,30-07-2023,No,68,10,944,83,36,High,Low
+602,Herminia Tiptaft,Cork,Residential,15-12-2025,No,29,84,110,21,46,Low,Medium
+603,Alix Wheatman,Donegal,Residential,26-10-2024,Yes,6,62,965,48,23,Medium,Low
+604,Bamby Clausen-Thue,Mayo,Residential,02-02-2025,Yes,37,27,659,56,19,Medium,Low
+605,Fanchon Licciardiello,Kilkenny,Small Business,25-01-2025,Yes,87,6,686,68,48,Medium,Medium
+606,Anatollo Wynne,Kerry,,23-07-2024,No,33,31,240,52,32,Medium,Low
+607,Neala Ames,Mayo,Small Business,23-01-2025,Yes,16,90,533,21,38,Low,Low
+608,Clotilda Mascall,Galway,Small Business,19-08-2025,No,30,59,435,44,39,Medium,Low
+609,Karoly Dufton,Donegal,Small Business,03-04-2023,Yes,57,14,465,57,29,Medium,Low
+610,Dorian Greensides,Kilkenny,Residential,27-06-2025,No,90,64,307,37,82,Low,High
+611,Lenee Rouke,Kerry,Residential,30-11-2023,No,83,29,804,70,52,Medium,Medium
+612,Carlita Morgans,Dublin,Residential,12-12-2023,No,63,67,218,33,64,Low,Medium
+613,Jarret Tatersale,Galway,Residential,08-04-2025,No,8,44,707,59,19,Medium,Low
+614,Cherin Ogers,,Small Business,15-12-2025,Yes,50,12,637,63,24,Medium,Low
+615,Rosabelle Seed,Waterford,,20-05-2023,No,11,69,517,41,28,Medium,Low
+616,Genny Hydes,Donegal,Small Business,11-06-2025,Yes,90,87,638,26,89,Low,High
+617,Maisie Vannoni,Kerry,Residential,26-04-2025,Yes,57,60,778,43,58,Medium,Medium
+618,Genevra Berntsson,Cork,Residential,28-12-2023,No,77,22,805,73,46,High,Medium
+619,Emmaline Boig,Limerick,Small Business,,No,64,72,307,33,66,Low,Medium
+620,Penni Searchfield,Kilkenny,Small Business,02-09-2025,Yes,84,50,429,38,74,Low,High
+621,Cozmo Bendelow,Cork,,26-02-2024,Yes,25,25,893,64,10,Medium,Low
+622,Vanessa Fanti,Donegal,Small Business,,No,43,18,905,78,21,High,Low
+623,Dotty Cornewall,Limerick,Residential,25-07-2025,No,13,20,526,66,0,Medium,Low
+624,Redford Jaggi,Limerick,Small Business,13-11-2025,Yes,88,76,137,16,84,Low,High
+625,Barnebas Mariner,Clare,Small Business,09-01-2026,Yes,100,96,412,14,99,Low,High
+626,Sherwynd Kobu,Kerry,Residential,12-09-2024,Yes,44,38,121,35,42,Low,Medium
+627,Warren Dimmock,Clare,Small Business,10-12-2025,No,72,86,780,40,76,Low,High
+628,Allard Sturmey,Kerry,Small Business,30-01-2024,No,45,58,275,39,49,Low,Medium
+629,Neil Durant,Kerry,Residential,15-10-2023,No,53,21,395,61,28,Medium,Low
+630,Danette Revans,Cork,Residential,22-03-2024,No,77,16,446,65,44,Medium,Medium
+631,Cort Jermey,Dublin,Residential,19-09-2025,Yes,71,98,620,20,79,Low,High
+632,Sybila Driussi,Waterford,Residential,16-02-2025,Yes,96,79,953,39,91,Low,High
+633,Alfi Sawkins,Kilkenny,Small Business,27-05-2024,No,89,20,788,74,53,High,Medium
+634,Thatcher Bathersby,Limerick,Residential,01-07-2025,No,53,11,850,80,25,High,Low
+635,Hamnet McRavey,Limerick,Small Business,26-06-2025,Yes,85,85,522,23,85,Low,High
+636,Fernanda Bigley,Waterford,Small Business,28-03-2026,No,79,82,248,26,80,Low,High
+637,Curr Baudry,Mayo,Residential,12-09-2023,Yes,28,37,615,50,31,Medium,Low
+638,Carolina Iskowicz,Donegal,Small Business,05-10-2024,Yes,71,56,599,40,67,Low,Medium
+639,Alford Frangello,Clare,Residential,17-08-2025,Yes,6,9,195,51,0,Medium,Low
+640,Ysabel Durbann,Galway,Small Business,11-12-2024,Yes,64,7,581,64,32,Medium,Low
+641,,Cork,Small Business,08-11-2023,Yes,50,53,991,53,51,Medium,Medium
+642,Britni Greer,Waterford,Residential,25-10-2024,Yes,22,74,587,31,38,Low,Low
+643,Flori Bolland,Waterford,Residential,15-11-2024,Yes,40,77,197,17,51,Low,Medium
+644,Peirce Koppens,Donegal,Residential,21-01-2025,Yes,53,86,146,11,63,Low,Medium
+645,Sterne Cops,Kerry,Residential,05-04-2025,No,64,99,960,39,75,Low,High
+646,,Limerick,Small Business,17-10-2023,No,,22,287,58,0,Medium,Low
+647,Sophi Velareal,Kilkenny,Residential,18-07-2024,No,85,60,385,42,78,Medium,High
+648,Rozele L' Estrange,Clare,Residential,07-06-2024,Yes,86,84,393,20,85,Low,High
+649,Addi Chawkley,Kilkenny,Small Business,04-08-2023,Yes,43,35,538,49,41,Medium,Medium
+650,Benson Furniss,Mayo,Small Business,18-10-2025,No,87,57,867,58,78,Medium,High
+651,Aurore Shipton,Mayo,Residential,10-01-2025,No,69,14,324,63,38,Medium,Low
+652,Dorolice Barrus,Mayo,Small Business,13-09-2025,Yes,34,46,922,55,38,Medium,Low
+653,Curran Quaif,Cork,Residential,15-02-2026,No,85,73,913,51,81,Medium,High
+654,Hadleigh Girault,Kilkenny,Residential,18-06-2023,No,40,9,975,85,16,High,Low
+655,Sandy Hinkins,Limerick,Residential,01-05-2023,Yes,89,57,772,45,79,Medium,High
+656,Ferris Bonallick,Cork,Small Business,13-12-2023,Yes,85,5,885,74,46,High,Medium
+657,My Sykora,Waterford,Small Business,16-06-2023,Yes,39,85,451,21,53,Low,Medium
+658,Grant Kubczak,Mayo,Small Business,28-03-2024,No,90,78,130,25,86,Low,High
+659,Marthe Bliben,Clare,Small Business,16-11-2025,Yes,71,80,869,36,74,Low,High
+660,Mellisent Feldberg,Kilkenny,Residential,14-08-2024,Yes,87,59,838,46,79,Medium,High
+661,Katharyn Melsome,Waterford,Residential,15-12-2023,Yes,91,36,891,59,75,Medium,High
+662,Gaylord Jedrychowski,Galway,Residential,21-06-2024,Yes,41,43,300,38,42,Low,Medium
+663,Uriah Kilsby,Dublin,Small Business,08-06-2024,No,24,55,395,44,33,Medium,Low
+664,Domingo Hutcheson,Clare,Small Business,01-09-2024,Yes,66,5,141,52,33,Medium,Low
+665,Malory Sante,Galway,Residential,24-11-2023,Yes,65,96,802,26,74,Low,High
+666,Torrance Dutton,Waterford,Small Business,05-07-2025,Yes,90,65,293,26,83,Low,High
+667,Fay Bartley,Galway,Small Business,07-03-2025,No,87,9,513,71,49,High,Medium
+668,Stevana Whild,Galway,Residential,21-06-2025,No,21,60,169,35,33,Low,Low
+669,Vale Brindle,Galway,Small Business,18-12-2024,No,8,3,390,70,0,Medium,Low
+670,Carolan Ruffles,Galway,Small Business,03-10-2023,Yes,16,30,534,51,20,Medium,Low
+671,Letti Rosendahl,Galway,Residential,25-03-2026,Yes,42,86,875,33,55,Low,Medium
+672,Jedidiah Docker,Cork,Small Business,22-11-2025,No,50,97,637,31,64,Low,Medium
+673,Terencio Worman,Clare,Residential,23-01-2024,Yes,21,72,773,37,36,Low,Low
+674,Petey Newbatt,Kilkenny,Residential,15-10-2023,No,28,36,341,52,30,Medium,Low
+675,Netta Seccombe,Cork,Small Business,17-06-2024,No,40,69,420,38,49,Low,Medium
+676,Dona Lutty,Mayo,Residential,25-02-2026,No,90,1,689,80,48,High,Medium
+677,Erika MacKnight,Waterford,Residential,01-04-2024,Yes,59,38,206,37,53,Low,Medium
+678,Nelle Reaper,Donegal,Residential,07-08-2023,Yes,32,31,154,39,32,Low,Low
+679,Noel MacArthur,Donegal,Small Business,21-12-2023,Yes,72,38,245,38,62,Low,Medium
+680,Joyan Saylor,Clare,Residential,06-06-2023,Yes,90,97,786,25,92,Low,High
+681,Desi Messer,Waterford,Residential,30-09-2024,Yes,4,78,897,38,26,Low,Low
+682,Arni Merigon,Donegal,Small Business,07-08-2025,No,44,11,723,76,19,High,Low
+683,Dallas Sandry,Kerry,Small Business,03-11-2023,Yes,25,45,765,50,31,Medium,Low
+684,Norris Odda,Mayo,Residential,27-09-2025,Yes,97,25,505,53,60,Medium,Medium
+685,Glenn Barnfather,Cork,Residential,09-08-2025,No,90,78,645,40,86,Low,High
+686,Amby Poppy,Donegal,Residential,13-11-2025,Yes,99,45,769,51,83,Medium,High
+687,Huntington Grube,Galway,Small Business,12-04-2026,No,32,57,576,49,40,Medium,Low
+688,Standford Toffler,Mayo,Small Business,19-09-2025,Yes,23,86,954,36,42,Low,Medium
+689,Arnuad Joseland,Mayo,Residential,08-05-2023,Yes,91,79,292,19,87,Low,High
+690,Elaina Skentelbery,Dublin,Residential,21-08-2023,No,55,2,513,74,24,High,Low
+691,Waylin Gathercoal,Kerry,Residential,16-07-2025,No,1,8,389,68,0,Medium,Low
+692,Bekki Baudesson,Kerry,Residential,25-08-2025,No,11,12,831,79,0,High,Low
+693,Arty Cringle,Galway,Small Business,14-03-2026,No,3,88,777,39,29,Low,Low
+694,Clarice Illesley,Kilkenny,Residential,11-02-2025,No,73,91,613,33,78,Low,High
+695,Roger Mulcock,Limerick,Residential,13-09-2023,No,21,32,902,71,24,High,Low
+696,Adlai Ivashintsov,Dublin,Small Business,02-07-2025,Yes,82,85,872,34,83,Low,High
+697,Helga Molfino,Kerry,Small Business,02-06-2024,Yes,1,65,675,38,20,Low,Low
+698,David Pee,Donegal,Residential,26-12-2025,No,37,47,916,64,40,Medium,Low
+699,Ellie Bote,Dublin,Residential,20-05-2025,No,75,16,786,76,42,High,Medium
+700,Brok Pryer,Dublin,Residential,14-10-2023,Yes,80,42,547,45,69,Medium,Medium
+701,Shelia Deery,Dublin,Small Business,14-02-2025,Yes,14,54,617,42,26,Medium,Low
+702,Gene Finlayson,Galway,Small Business,25-05-2025,No,2,65,656,47,21,Medium,Low
+703,Benson Lorkins,Mayo,Small Business,09-07-2025,Yes,10,4,178,53,0,Medium,Low
+704,Stephanie Ivamy,Dublin,Small Business,17-03-2024,No,11,50,720,57,23,Medium,Low
+705,Ruthann Brimilcombe,Kilkenny,Residential,05-10-2024,Yes,17,75,657,32,34,Low,Low
+706,Rosabella Farlane,Mayo,Small Business,31-05-2023,No,56,83,813,43,64,Medium,Medium
+707,Terrill Postins,Clare,Small Business,28-08-2023,No,40,99,421,23,58,Low,Medium
+708,Ailsun Gleadhell,Waterford,Small Business,29-11-2025,No,23,26,845,72,9,High,Low
+709,Hubert Qualtro,Cork,Residential,,Yes,46,1,775,73,18,High,Low
+710,Tybi Hallihane,Kerry,Small Business,20-12-2025,No,18,75,371,34,35,Low,Low
+711,Randolph Rasp,Clare,Residential,19-12-2024,Yes,8,13,465,57,0,Medium,Low
+712,Nisse Baldrick,Cork,Residential,22-05-2023,Yes,64,11,505,60,33,Medium,Low
+713,Jeremiah Loughton,Galway,Residential,13-02-2024,Yes,36,100,286,9,55,Low,Medium
+714,Bertina Shark,Kerry,Residential,24-12-2023,No,75,31,537,61,62,Medium,Medium
+715,Dorthea Macon,Kerry,Residential,17-02-2025,No,73,51,963,63,66,Medium,Medium
+716,Patrizia Armes,Dublin,Small Business,21-06-2025,Yes,65,89,655,25,72,Low,High
+717,Shayne McIllrick,Mayo,Residential,28-10-2023,Yes,65,13,847,69,34,Medium,Low
+718,Darnall Rawdales,Waterford,Small Business,06-01-2025,No,86,71,784,48,82,Medium,High
+719,Lauri Linggard,Waterford,Small Business,21-06-2025,Yes,24,30,469,49,26,Medium,Low
+720,Ashlie Ainsley,Kerry,Residential,15-05-2023,Yes,57,94,855,29,68,Low,Medium
+721,Nikoletta Shapera,Limerick,Residential,31-07-2025,Yes,50,46,549,43,49,Medium,Medium
+722,Sylvia Kybbye,Clare,Residential,20-02-2024,Yes,60,1,986,79,27,High,Low
+723,Dorree Gotch,Dublin,Residential,15-03-2023,Yes,95,98,295,10,96,Low,High
+724,Maurise Ratchford,Kilkenny,Residential,31-10-2024,No,23,11,980,84,4,High,Low
+725,Dukey Ricardo,Dublin,Small Business,28-12-2024,Yes,54,76,384,24,61,Low,Medium
+726,Alastair Buyers,Cork,Residential,05-10-2024,No,11,74,518,39,30,Low,Low
+727,Corette Grinston,Clare,Small Business,28-03-2025,No,66,58,681,51,64,Medium,Medium
+728,Allyn Ropp,Cork,Residential,22-08-2025,No,40,15,791,76,18,High,Low
+729,Serena Leet,Galway,Small Business,03-11-2024,No,66,78,342,31,70,Low,Medium
+730,Haze Skittles,Limerick,Small Business,19-02-2026,No,10,99,752,33,37,Low,Low
+731,Gun Rosenthaler,Galway,Residential,24-12-2024,No,59,11,568,72,30,High,Low
+732,Damaris Caddens,Galway,Residential,12-06-2024,Yes,30,37,113,35,32,Low,Low
+733,Trixie Winkworth,Galway,Residential,06-01-2025,Yes,80,1,253,57,41,Medium,Medium
+734,Ransell Penfold,Donegal,Residential,09-02-2026,Yes,93,41,633,48,77,Medium,High
+735,Jerome Crosston,Limerick,Small Business,09-11-2025,Yes,99,74,540,29,92,Low,High
+736,Currie Matias,Waterford,Small Business,,No,31,25,917,75,14,High,Low
+737,Aurore Blenkin,Mayo,Small Business,24-12-2024,No,92,58,996,61,82,Medium,High
+738,Vonny Garlinge,Kilkenny,Small Business,03-09-2025,Yes,,18,308,50,0,Medium,Low
+739,Stanford Hooks,Donegal,Residential,03-11-2025,No,13,41,733,61,21,Medium,Low
+740,Dacie Splevin,Galway,Small Business,18-03-2023,Yes,,26,416,49,0,Medium,Low
+741,Stephie Roughan,Mayo,Small Business,26-08-2025,Yes,45,46,412,39,45,Low,Medium
+742,Sasha Borrows,Donegal,Small Business,25-10-2025,No,21,93,664,33,43,Low,Medium
+743,Cobb Flea,Kilkenny,Residential,03-08-2025,Yes,14,38,383,42,21,Medium,Low
+744,Tamera Fittis,Clare,Residential,25-10-2024,No,73,39,153,45,63,Medium,Medium
+745,Erwin Glewe,Dublin,Small Business,26-07-2025,Yes,72,32,999,64,60,Medium,Medium
+746,Jecho Shakspeare,Mayo,Small Business,01-09-2023,Yes,23,54,438,36,32,Low,Low
+747,Claudie Stithe,Cork,Residential,14-05-2023,No,28,85,973,47,45,Medium,Medium
+748,,Dublin,Residential,07-09-2024,No,74,68,526,42,72,Medium,High
+749,Gaven Wildes,Cork,Residential,,No,55,14,115,56,28,Medium,Low
+750,Roanne Riggulsford,Kilkenny,Small Business,10-10-2024,Yes,40,41,214,36,40,Low,Low
+751,Gale Guswell,Cork,Small Business,19-11-2023,No,18,97,459,25,42,Low,Medium
+752,Glenda Cokayne,Cork,Small Business,09-06-2024,No,40,72,535,40,50,Low,Medium
+753,Bevvy Pudsey,Limerick,Small Business,04-10-2025,No,59,68,424,39,62,Low,Medium
+754,Clio Boutell,Cork,Residential,14-03-2024,No,44,17,680,72,21,High,Low
+755,Rogerio Acuna,Waterford,Residential,14-02-2024,No,73,72,812,48,73,Medium,High
+756,Horst Roly,Mayo,Small Business,23-02-2026,Yes,16,38,673,51,23,Medium,Low
+757,Viviana Impy,Kilkenny,Residential,09-06-2023,No,63,6,621,76,31,High,Low
+758,Carolann Koenen,Kilkenny,Small Business,01-04-2025,No,13,15,951,81,0,High,Low
+759,Aggy Ciobotaru,Galway,Small Business,03-07-2024,Yes,23,50,314,34,31,Low,Low
+760,Thaine Oade,Dublin,Small Business,19-09-2023,No,55,19,450,64,29,Medium,Low
+761,Thalia Tenpenny,Kilkenny,Residential,17-12-2023,Yes,17,18,479,55,2,Medium,Low
+762,Khalil Ballendine,Cork,Small Business,24-10-2024,Yes,65,22,413,51,37,Medium,Low
+763,,Donegal,Small Business,12-10-2023,Yes,53,10,429,58,25,Medium,Low
+764,Maurizio Orford,Clare,Small Business,16-01-2024,No,16,35,209,49,22,Medium,Low
+765,Rahel Marsie,Galway,Small Business,14-05-2023,Yes,68,7,573,64,35,Medium,Low
+766,Cherry Paridge,Limerick,Residential,29-03-2024,Yes,78,93,973,33,83,Low,High
+767,Kalindi Andreuzzi,Cork,Residential,27-01-2026,No,37,73,361,34,48,Low,Medium
+768,Terza Brisland,Donegal,Small Business,22-05-2025,No,54,25,647,67,30,Medium,Low
+769,Raynor Burdass,Waterford,Residential,31-05-2025,Yes,24,9,812,70,5,Medium,Low
+770,Demetra Turfrey,Mayo,Residential,10-06-2024,No,86,91,359,25,88,Low,High
+771,Harvey Balden,Dublin,Residential,24-09-2023,No,16,48,462,50,26,Medium,Low
+772,Myron Rowlatt,Limerick,Residential,21-10-2024,No,8,93,198,19,34,Low,Low
+773,Alysia Gilford,Kerry,Residential,26-09-2024,No,94,84,518,34,91,Low,High
+774,Terencio Gossart,Kerry,Small Business,30-05-2025,Yes,91,94,111,6,92,Low,High
+775,Tobye Mazzei,Clare,Residential,18-09-2025,No,8,54,670,53,22,Medium,Low
+776,Brenna Napoleone,Dublin,Small Business,04-06-2023,No,1,94,195,19,29,Low,Low
+777,Jecho Daveridge,Clare,Small Business,23-08-2024,Yes,93,55,443,36,82,Low,High
+778,Pepillo Housby,Waterford,Small Business,08-03-2024,No,43,92,324,24,58,Low,Medium
+779,Shem Blackston,Limerick,Residential,14-08-2023,Yes,61,18,860,67,33,Medium,Low
+780,Kanya Formby,Donegal,Residential,18-12-2024,Yes,9,1,413,62,0,Medium,Low
+781,Julissa Laverenz,Donegal,Small Business,22-06-2023,Yes,69,39,876,57,60,Medium,Medium
+782,Romonda Scanlan,Waterford,Small Business,25-01-2026,No,98,85,120,21,94,Low,High
+783,Martainn O'Doghesty,Kerry,Residential,30-01-2025,No,57,44,514,53,53,Medium,Medium
+784,Jeffrey Oxby,Cork,Residential,24-10-2025,Yes,21,81,705,31,39,Low,Low
+785,Othelia Dassindale,Clare,Small Business,29-05-2024,No,79,59,486,45,73,Medium,High
+786,Shana Kondrachenko,Kerry,Residential,11-04-2023,No,76,9,838,81,41,High,Medium
+787,Berthe Maltby,Waterford,Residential,01-05-2025,No,64,69,745,48,66,Medium,Medium
+788,Niccolo Grainger,Mayo,Residential,21-10-2023,No,100,50,771,58,85,Medium,High
+789,Kale Debold,Waterford,Residential,29-07-2023,Yes,11,59,312,30,25,Low,Low
+790,Taite Plaxton,,Small Business,23-03-2024,Yes,98,85,408,20,94,Low,High
+791,Orran Mighele,Donegal,Residential,19-07-2024,Yes,51,99,981,30,65,Low,Medium
+792,,Kilkenny,Small Business,18-11-2024,No,27,0,584,78,4,High,Low
+793,Bone Kettles,Waterford,,16-10-2025,Yes,16,3,971,78,0,High,Low
+794,Kahlil Eles,Cork,Small Business,19-01-2025,Yes,2,88,518,22,28,Low,Low
+795,Milli Manueau,Donegal,Residential,09-08-2023,Yes,,35,109,36,11,Low,Low
+796,Nelia Anneslie,Kilkenny,Residential,03-11-2023,No,18,62,498,44,31,Medium,Low
+797,Jewell Renon,Cork,Small Business,14-01-2026,Yes,77,53,150,28,70,Low,Medium
+798,Scarlet Corsan,Cork,Small Business,18-07-2023,Yes,27,14,305,52,8,Medium,Low
+799,Dalton Mardee,Galway,Small Business,10-12-2024,No,72,51,167,40,66,Low,Medium
+800,Moina Salerno,Limerick,Small Business,19-07-2023,No,63,31,288,53,53,Medium,Medium
+801,Darnall Dyson,Kerry,Small Business,22-12-2025,No,58,8,959,85,28,High,Low
+802,Sutherland Paolicchi,Galway,Small Business,23-12-2024,No,12,18,988,81,0,High,Low
+803,Thorin Riddall,Limerick,Small Business,24-07-2023,Yes,4,100,707,21,33,Low,Low
+804,Eirena Dumphrey,Clare,Small Business,29-02-2024,Yes,75,16,240,49,42,Medium,Medium
+805,Rivy Mearns,Kerry,Residential,28-08-2025,No,28,66,465,41,39,Medium,Low
+806,,Cork,Small Business,10-02-2025,No,62,92,687,35,71,Low,High
+807,Eveline Orr,Cork,,08-12-2023,No,89,5,211,64,49,Medium,Medium
+808,Dani Morehall,Cork,Residential,22-06-2024,No,39,47,161,41,41,Medium,Medium
+809,Cissiee Livesey,Waterford,Residential,14-05-2023,Yes,35,66,466,31,44,Low,Medium
+810,Gale Sheldon,Galway,Residential,23-11-2025,Yes,64,1,654,69,30,Medium,Low
+811,Paul Labeuil,Dublin,Residential,26-04-2025,Yes,47,1,647,69,18,Medium,Low
+812,Mindy Blunsum,Waterford,Small Business,16-08-2023,No,68,15,972,82,37,High,Low
+813,Carver Monument,Kilkenny,Residential,25-11-2023,Yes,86,77,184,17,83,Low,High
+814,Hallsy McIvor,Cork,Small Business,07-10-2025,No,41,10,547,71,17,High,Low
+815,Prescott Dunkinson,Kerry,Residential,20-10-2024,Yes,44,22,738,61,22,Medium,Low
+816,Paddie Fittis,Mayo,Residential,14-11-2025,No,88,43,502,54,75,Medium,High
+817,Henri Wicken,Galway,Residential,03-09-2024,No,37,92,106,17,54,Low,Medium
+818,Rena Sikorsky,Galway,Small Business,05-07-2025,Yes,79,27,707,58,48,Medium,Medium
+819,Pierson Luggar,Kerry,Small Business,14-05-2025,Yes,58,38,182,36,52,Low,Medium
+820,Aurel Kelk,Galway,Residential,07-02-2026,No,89,73,791,47,84,Medium,High
+821,Kally Renault,Dublin,Small Business,08-08-2024,Yes,45,99,459,14,61,Low,Medium
+822,Hurlee Ledes,Cork,Small Business,19-03-2024,Yes,69,44,194,34,62,Low,Medium
+823,Munmro Vanshin,Mayo,Small Business,03-12-2024,No,94,40,756,63,78,Medium,High
+824,Demetris Eteen,Galway,Small Business,19-11-2025,Yes,4,32,141,38,12,Low,Low
+825,Shea Harbottle,Dublin,Small Business,14-07-2025,No,14,100,673,30,40,Low,Low
+826,Guinevere De Luna,Galway,Residential,21-10-2023,No,13,19,358,61,0,Medium,Low
+827,Brocky De La Salle,Donegal,Residential,21-10-2025,No,85,69,466,39,80,Low,High
+828,Hoyt Cunney,Clare,Residential,18-02-2025,No,45,60,521,46,50,Medium,Medium
+829,Genna Jirik,Dublin,Residential,09-04-2024,Yes,31,30,151,40,31,Low,Low
+830,Krystyna Goodbourn,Mayo,Residential,27-06-2025,Yes,77,7,472,61,41,Medium,Medium
+831,Jacklyn Terrill,Waterford,Small Business,15-11-2024,Yes,9,9,302,55,0,Medium,Low
+832,Rae Stanaway,Mayo,Residential,18-12-2024,No,66,40,192,46,58,Medium,Medium
+833,Orran Dewitt,Mayo,Small Business,20-04-2025,Yes,3,7,236,54,0,Medium,Low
+834,Geoffrey Longhirst,Clare,Small Business,01-08-2024,Yes,23,42,320,39,29,Low,Low
+835,Ericha Coneau,Donegal,Small Business,09-12-2024,No,49,53,911,61,50,Medium,Medium
+836,Paddie Sawood,Clare,Small Business,05-02-2024,Yes,83,81,166,14,82,Low,High
+837,Deeann Bluett,Kilkenny,Residential,03-07-2023,No,38,25,350,58,19,Medium,Low
+838,Goddard Edwin,Donegal,Residential,09-10-2025,Yes,9,8,395,58,0,Medium,Low
+839,Emera Braban,Dublin,Small Business,16-12-2025,Yes,,52,682,44,16,Medium,Low
+840,Engracia Sale,Clare,Small Business,05-11-2024,Yes,85,23,163,43,51,Medium,Medium
+841,Abagail Bubear,Limerick,Small Business,22-01-2026,Yes,68,27,411,49,41,Medium,Medium
+842,Corabelle Pipping,Kilkenny,Small Business,03-05-2025,No,100,80,364,31,94,Low,High
+843,Letizia Ochterlony,Donegal,Residential,01-03-2024,No,64,64,363,39,64,Low,Medium
+844,Emmie Hellwig,Donegal,Small Business,28-04-2023,No,89,21,961,78,54,High,Medium
+845,Nomi Titterington,Mayo,Residential,10-07-2023,Yes,35,85,612,26,50,Low,Medium
+846,Christophe Pitcaithly,Kerry,Small Business,13-12-2024,No,78,84,184,24,80,Low,High
+847,Erick Joret,Kilkenny,Residential,23-03-2024,No,37,62,952,58,45,Medium,Medium
+848,Sydel Chesters,Mayo,Residential,19-08-2023,Yes,5,26,152,42,0,Medium,Low
+849,Gerhardt Shurman,Waterford,Residential,25-09-2023,No,72,28,254,54,44,Medium,Medium
+850,Herbert Royds,Clare,Small Business,11-02-2024,No,1,35,972,72,11,High,Low
+851,Sandye Barthelme,Clare,Small Business,27-11-2025,No,41,75,937,51,51,Medium,Medium
+852,Dom Aldrin,Limerick,,13-09-2025,Yes,28,21,140,44,11,Medium,Low
+853,Corabel Paydon,Clare,Residential,21-10-2023,Yes,91,95,506,18,92,Low,High
+854,Melisa Coulbeck,Limerick,Small Business,23-05-2024,Yes,17,71,598,32,33,Low,Low
+855,Avery Gealle,Dublin,Small Business,04-04-2026,No,94,9,956,84,54,High,Medium
+856,Jemie Pratton,Galway,Residential,04-05-2024,No,95,66,751,50,86,Medium,High
+857,Barry Garn,Kilkenny,Residential,29-10-2024,No,44,100,882,36,61,Low,Medium
+858,Auria Bryceson,Kilkenny,Residential,29-03-2025,Yes,4,73,667,34,25,Low,Low
+859,Emylee Farish,Dublin,Small Business,25-11-2025,Yes,71,73,306,23,72,Low,High
+860,Agnese Krause,Galway,Residential,31-10-2025,No,65,81,799,43,70,Medium,Medium
+861,Cristie Bumpas,Clare,Residential,31-08-2023,Yes,92,67,615,35,85,Low,High
+862,Michelle Bacup,Galway,Residential,19-01-2025,Yes,64,71,332,24,66,Low,Medium
+863,Faythe Boyan,Waterford,Residential,11-05-2024,Yes,39,64,484,33,47,Low,Medium
+864,Marget Kings,Kilkenny,Residential,22-03-2025,Yes,16,32,176,39,21,Low,Low
+865,Constancy Bickerdicke,Clare,Small Business,13-12-2024,Yes,57,86,614,25,66,Low,Medium
+866,Bernhard Dronsfield,Donegal,Residential,15-10-2024,Yes,54,88,751,29,64,Low,Medium
+867,Kym Davidovsky,Galway,Small Business,29-07-2024,No,48,81,585,37,58,Low,Medium
+868,Merrielle Toothill,Mayo,Residential,17-06-2024,No,57,6,510,72,27,High,Low
+869,Taite Palluschek,Dublin,Small Business,29-11-2024,No,39,79,957,49,51,Medium,Medium
+870,Shawn Copo,Dublin,Residential,14-01-2024,Yes,61,18,688,62,33,Medium,Low
+871,Dagmar Parris,Kerry,Small Business,22-05-2025,Yes,,65,839,43,20,Medium,Low
+872,Rockie McIntosh,Donegal,Residential,10-09-2025,Yes,94,92,977,33,93,Low,High
+873,Brook Jessopp,Dublin,Residential,07-08-2025,Yes,57,68,903,43,60,Medium,Medium
+874,Artemas Carbery,Kerry,Small Business,30-10-2023,No,74,92,423,27,79,Low,High
+875,Devinne Keenan,Galway,Residential,14-02-2026,No,30,94,846,38,49,Low,Medium
+876,Marsiella Abraham,Donegal,Residential,05-05-2024,No,17,15,723,74,1,High,Low
+877,Cecilius Scowcraft,Clare,Small Business,20-12-2025,Yes,22,17,509,57,6,Medium,Low
+878,Timothee Hof,Galway,Residential,19-01-2024,No,58,70,689,46,62,Medium,Medium
+879,Hilary Corey,Clare,Residential,16-01-2025,No,45,35,201,49,42,Medium,Medium
+880,Matti Moen,Dublin,Residential,12-09-2024,No,42,48,804,60,44,Medium,Medium
+881,Gabriela Cahalan,Kilkenny,Residential,10-02-2025,Yes,81,83,958,37,82,Low,High
+882,Horace Nerval,Limerick,Small Business,25-12-2023,Yes,50,98,977,30,64,Low,Medium
+883,Curcio Pilpovic,Galway,Residential,26-03-2024,Yes,53,7,307,56,24,Medium,Low
+884,Sonnie McCotter,Kerry,Residential,28-01-2026,Yes,27,44,587,46,32,Medium,Low
+885,Reina Cadagan,Dublin,Residential,21-07-2024,Yes,95,44,491,43,80,Medium,High
+886,Marney Huguenet,Cork,Residential,18-03-2025,No,66,47,474,51,60,Medium,Medium
+887,Maurita MacMeeking,Donegal,Small Business,26-11-2025,No,40,67,244,34,48,Low,Medium
+888,,Galway,Residential,10-10-2025,Yes,70,56,338,32,66,Low,Medium
+889,Giavani Luggar,Clare,Small Business,07-12-2024,No,73,78,833,46,75,Medium,High
+890,Raff Skilling,Dublin,Small Business,13-07-2024,No,34,14,186,59,13,Medium,Low
+891,Ruddy Wyard,Dublin,Residential,26-11-2024,No,51,89,558,32,62,Low,Medium
+892,Griff Scotson,Donegal,Small Business,25-08-2023,No,38,73,730,45,49,Medium,Medium
+893,Tate Roft,Donegal,Small Business,30-12-2024,Yes,70,79,706,32,73,Low,High
+894,Dani Bradshaw,Waterford,,28-06-2023,Yes,50,75,584,30,58,Low,Medium
+895,Helaina Rickman,,Residential,02-08-2023,No,34,64,784,52,43,Medium,Medium
+896,Ira Elbourn,Mayo,Residential,07-12-2024,Yes,1,51,878,51,16,Medium,Low
+897,Alvinia Danielsen,Clare,Small Business,01-07-2025,No,49,34,948,71,45,High,Medium
+898,Margarete Garrique,Limerick,Residential,06-11-2023,No,30,65,260,35,41,Low,Medium
+899,Aldridge Sowden,Cork,Residential,27-09-2023,No,45,31,314,54,41,Medium,Medium
+900,Sybille Blasoni,Donegal,Residential,04-08-2024,Yes,37,47,849,52,40,Medium,Low
+901,Earl Seccombe,Clare,Small Business,21-01-2026,No,36,79,813,45,49,Medium,Medium
+902,Darius Maytum,Dublin,Residential,27-01-2025,No,48,48,483,50,48,Medium,Medium
+903,Lucina Kinkead,Kerry,Residential,27-03-2023,No,95,11,166,59,55,Medium,Medium
+904,Wat Rubinsky,Clare,Residential,09-01-2025,No,20,26,179,52,7,Medium,Low
+905,Flo Sedgeman,Clare,Small Business,11-04-2025,Yes,,52,269,32,16,Low,Low
+906,Bea Wittrington,Kerry,Small Business,21-06-2023,No,66,36,806,66,57,Medium,Medium
+907,Lorain Ricciardo,,Small Business,15-07-2023,Yes,95,14,784,67,56,Medium,Medium
+908,Barris Arnhold,Mayo,Residential,30-10-2024,No,96,70,307,34,88,Low,High
+909,Kahlil Sugge,Cork,Small Business,29-11-2023,No,21,23,629,67,7,Medium,Low
+910,Alisa Cridland,Kerry,Residential,11-06-2025,Yes,5,3,602,67,0,Medium,Low
+911,Lexy Olrenshaw,Dublin,Residential,20-03-2025,No,64,98,846,36,74,Low,High
+912,Gabi Andino,Dublin,Residential,28-09-2024,No,63,84,963,47,69,Medium,Medium
+913,Ninetta Clitsome,Limerick,Residential,03-06-2023,No,82,40,491,55,69,Medium,Medium
+914,Drake Barns,Donegal,Residential,20-05-2024,No,23,45,198,43,30,Medium,Low
+915,Edna Piddocke,Mayo,Residential,20-07-2025,No,34,6,755,80,11,High,Low
+916,Fran Matis,Clare,Small Business,25-06-2024,No,71,40,115,43,62,Medium,Medium
+917,Kirstyn Dower,Limerick,Small Business,07-11-2025,No,40,12,208,60,17,Medium,Low
+918,Conan Yitzhok,Limerick,Small Business,27-07-2023,No,61,50,829,60,58,Medium,Medium
+919,Ofilia Speke,Cork,Small Business,07-07-2024,Yes,62,78,332,21,67,Low,Medium
+920,Eddie Gerger,Waterford,Small Business,16-06-2025,No,7,83,662,38,30,Low,Low
+921,Donnie Kolodziejski,Kilkenny,Residential,18-06-2025,Yes,50,5,125,51,22,Medium,Low
+922,Conway Alywin,Limerick,Residential,01-07-2025,No,76,10,531,71,41,High,Medium
+923,Dunc Millson,Dublin,Residential,01-09-2025,Yes,13,91,250,12,36,Low,Low
+924,Carly Worsfold,Waterford,Residential,22-01-2025,Yes,76,44,464,42,66,Medium,Medium
+925,Clarine Uttermare,Waterford,Small Business,12-02-2026,Yes,14,61,873,46,28,Medium,Low
+926,Amberly Menary,Kilkenny,Residential,24-06-2023,Yes,12,92,809,28,36,Low,Low
+927,Rhianna Dunbobbin,Clare,Small Business,22-04-2023,Yes,6,49,905,53,19,Medium,Low
+928,Broderic Seabon,Galway,Small Business,13-03-2026,Yes,49,26,502,52,27,Medium,Low
+929,Garrick Sanger,Waterford,Small Business,27-07-2025,No,42,72,228,31,51,Low,Medium
+930,Addi Yashunin,Kerry,Residential,31-03-2024,No,27,65,968,57,38,Medium,Low
+931,Godfree Harse,Cork,Small Business,08-05-2024,No,61,31,132,48,52,Medium,Medium
+932,Jerald Batting,Cork,Small Business,13-12-2025,Yes,63,57,793,45,61,Medium,Medium
+933,Hartwell Lethlay,Kilkenny,Residential,07-08-2025,No,54,68,564,43,58,Medium,Medium
+934,Taryn Sergant,Kerry,Small Business,03-02-2025,No,12,68,768,49,29,Medium,Low
+935,Mildred Naile,Kerry,Residential,08-01-2025,Yes,28,11,405,57,8,Medium,Low
+936,Luis Dewane,Galway,Residential,20-03-2024,No,,5,444,71,0,High,Low
+937,,Cork,Small Business,16-09-2025,No,19,77,514,37,36,Low,Low
+938,Eada Hotton,Kerry,Residential,27-06-2023,Yes,82,64,803,42,77,Medium,High
+939,Paulita Miguel,Kerry,Residential,06-06-2025,Yes,42,48,562,43,44,Medium,Medium
+940,Gwynne Branca,Kilkenny,Residential,24-11-2023,No,11,5,340,68,0,Medium,Low
+941,Guido Melross,Kilkenny,Residential,30-07-2023,Yes,2,99,650,20,31,Low,Low
+942,Simonne Merrison,,Small Business,25-07-2025,Yes,0,75,726,34,23,Low,Low
+943,Jeannie Cowdery,Limerick,Residential,25-10-2025,Yes,56,84,726,30,64,Low,Medium
+944,Fabiano Peracco,Mayo,Small Business,19-01-2024,No,48,79,102,24,57,Low,Medium
+945,Den Durdle,Limerick,Residential,21-08-2025,Yes,46,49,887,52,47,Medium,Medium
+946,,Kerry,Small Business,24-05-2024,No,17,10,624,74,0,High,Low
+947,Nananne Fynan,Clare,Small Business,05-01-2025,Yes,98,39,812,55,80,Medium,High
+948,Clarinda Kennefick,Donegal,Residential,02-02-2026,Yes,76,95,142,7,82,Low,High
+949,Julio Mulholland,Galway,Small Business,15-04-2026,Yes,32,34,786,57,33,Medium,Low
+950,Reynard Lestor,,Small Business,19-04-2023,No,79,80,784,44,79,Medium,High
+951,Cobby Faley,Cork,Small Business,05-10-2023,No,48,83,401,31,59,Low,Medium
+952,Hyman Thouless,Clare,Residential,31-07-2024,No,76,85,928,45,79,Medium,High
+953,Edythe Ambrogelli,Donegal,Small Business,14-05-2024,Yes,58,14,484,58,30,Medium,Low
+954,Tresa Blaydon,Limerick,Small Business,05-08-2023,Yes,92,63,715,40,83,Low,High
+955,Edie Meadway,Waterford,Small Business,10-03-2024,Yes,19,61,993,49,32,Medium,Low
+956,,Limerick,Residential,28-09-2024,No,85,21,557,66,51,Medium,Medium
+957,Fidelity Dahlen,Kilkenny,Residential,09-04-2025,No,52,74,594,41,59,Medium,Medium
+958,Toddy Guisot,Clare,Small Business,30-09-2025,No,91,21,492,64,55,Medium,Medium
+959,Bjorn Camplejohn,Cork,Small Business,10-06-2023,Yes,48,9,355,56,21,Medium,Low
+960,Myrtle Stirman,Kilkenny,Small Business,29-09-2023,Yes,11,97,265,9,37,Low,Low
+961,Marion Hevey,Galway,Residential,21-11-2025,No,59,100,313,19,71,Low,High
+962,Emmet Alcalde,Donegal,Residential,10-09-2023,Yes,98,47,231,33,83,Low,High
+963,Bambie Lurner,Kilkenny,Small Business,05-02-2025,No,81,97,298,20,86,Low,High
+964,Gilberte Novic,Waterford,Small Business,23-05-2023,Yes,79,29,721,57,49,Medium,Medium
+965,Seka Heck,Cork,Residential,28-10-2025,No,95,19,999,80,57,High,Medium
+966,Aliza Sighart,Dublin,Small Business,21-02-2026,No,3,7,113,60,0,Medium,Low
+967,Lemmie Ranner,Galway,Residential,27-02-2026,No,97,2,608,77,54,High,Medium
+968,Kasper Flint,Galway,Small Business,12-01-2026,Yes,24,95,191,8,45,Low,Medium
+969,Elianore Snedker,Kilkenny,Residential,19-12-2024,Yes,3,44,463,42,15,Medium,Low
+970,Aeriell Comfort,Galway,Small Business,09-11-2023,No,,81,612,38,24,Low,Low
+971,Barbabas Pavelka,Kerry,Residential,11-04-2025,Yes,49,24,1000,68,27,Medium,Low
+972,Marian Barnardo,Galway,Residential,25-09-2023,Yes,76,56,450,36,70,Low,Medium
+973,Byrom Dufall,Mayo,Residential,21-10-2024,Yes,49,57,467,36,51,Low,Medium
+974,Wallache Akerman,Donegal,Small Business,01-07-2023,Yes,11,76,975,41,31,Medium,Low
+975,Hazel Twitty,Galway,,05-06-2024,No,18,3,375,70,0,Medium,Low
+976,Tabina MacSwayde,Kerry,Small Business,28-01-2026,No,69,93,676,34,76,Low,High
+977,Stirling Rickeard,Donegal,Residential,12-08-2025,No,6,42,645,58,17,Medium,Low
+978,Wilie Crombleholme,Galway,Residential,21-02-2026,Yes,77,7,305,56,41,Medium,Medium
+979,Padriac Haworth,Dublin,Residential,26-06-2024,Yes,16,78,469,25,35,Low,Low
+980,Fred Poyner,Mayo,Small Business,21-01-2026,No,86,33,926,71,70,High,Medium
+981,Nobe Gegay,Kilkenny,Small Business,07-07-2023,Yes,21,22,372,50,6,Medium,Low
+982,Andonis Timeby,Donegal,Residential,19-11-2024,Yes,23,24,126,42,8,Medium,Low
+983,Krissy Lillecrap,Clare,Small Business,18-07-2025,No,87,59,342,41,79,Medium,High
+984,Gwendolin Clinnick,Galway,Residential,09-02-2025,Yes,76,66,959,46,73,Medium,High
+985,Zacharia McRuvie,Kerry,Residential,29-11-2024,No,67,66,598,45,67,Medium,Medium
+986,Emlynn Eyres,Clare,Small Business,29-08-2025,Yes,65,66,648,36,65,Low,Medium
+987,Symon Speeks,Cork,Small Business,14-12-2023,No,33,99,588,28,53,Low,Medium
+988,,Donegal,Small Business,21-05-2023,Yes,4,58,135,25,20,Low,Low
+989,Georgine Bellamy,Clare,Residential,30-07-2024,Yes,73,5,108,51,38,Medium,Low
+990,Salim Chelley,Dublin,Small Business,02-12-2025,Yes,7,47,651,46,19,Medium,Low
+991,Kristi Breitling,Waterford,Small Business,26-01-2026,No,4,25,513,63,0,Medium,Low
+992,Baron Bulteel,Kilkenny,Residential,30-07-2025,Yes,10,87,982,36,33,Low,Low
+993,Alwyn Doge,Kilkenny,Residential,05-02-2025,Yes,79,18,567,58,46,Medium,Medium
+994,Innis Comini,Dublin,Residential,30-10-2024,Yes,6,98,862,27,34,Low,Low
+995,Katleen Vergine,Dublin,Small Business,05-10-2025,Yes,18,5,716,69,0,Medium,Low
+996,Aubert Cappineer,Clare,Small Business,29-11-2025,No,2,38,467,55,13,Medium,Low
+997,Greg Gierck,Donegal,Residential,11-11-2024,No,86,9,710,77,48,High,Medium
+998,Martha O'Towey,Donegal,Small Business,15-11-2024,No,69,32,298,53,58,Medium,Medium
+999,Kevyn Metzig,Waterford,,05-05-2024,Yes,27,87,527,22,45,Low,Medium
+1000,Tad Giamitti,Cork,Small Business,15-06-2024,Yes,43,3,718,70,16,Medium,Low

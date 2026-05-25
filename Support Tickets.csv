@@ -1,0 +1,2001 @@
+Ticket_ID,Customer_ID,Issue_Type,Priority,Status,Created_Date,Closed_Date,Resolution_Time_Days,Escalated_Flag,Ticket_Channel
+1,502,Service Outage,Low,Closed,21-11-2025,22-11-2025,1,No,Email
+2,123,Meter Problem,Medium,Closed,07-10-2026,11-10-2026,4,Yes,Phone
+3,864,Billing Issue,Low,Open,03-08-2023,,,Yes,Email
+4,711,General Query,High,Closed,15-07-2024,20-07-2024,5,Yes,Web Form
+5,431,Billing Issue,Medium,Closed,02-04-2025,05-04-2025,3,No,Web Form
+6,180,General Query,Low,Closed,20-08-2025,24-08-2025,4,Yes,Web Form
+7,502,Service Outage,Medium,Closed,02-03-2026,03-03-2026,1,No,Email
+8,423,General Query,High,Closed,12-08-2023,16-08-2023,4,Yes,Email
+9,325,General Query,Low,Closed,07-02-2023,10-02-2023,3,No,Web Form
+10,589,General Query,High,Open,28-02-2024,,,Yes,Email
+11,937,Billing Issue,Medium,Closed,10-04-2026,13-04-2026,3,No,Email
+12,835,Service Outage,High,Open,21-07-2026,,,Yes,Web Form
+13,580,General Query,Medium,Closed,06-04-2023,09-04-2023,3,No,Web Form
+14,477,Meter Problem,Medium,Closed,11-01-2023,13-01-2023,2,No,Email
+15,375,Meter Problem,High,Closed,21-10-2026,23-10-2026,2,Yes,Email
+16,548,General Query,Medium,Open,15-01-2025,,,Yes,Email
+17,178,Billing Issue,High,Closed,21-08-2025,22-08-2025,1,Yes,Email
+18,66,Service Outage,High,Open,06-03-2025,,,Yes,Email
+19,240,Meter Problem,Low,Closed,04-06-2024,05-06-2024,1,No,Email
+20,240,Billing Issue,Low,Closed,12-02-2025,13-02-2025,1,No,Phone
+21,590,Service Outage,Medium,Closed,16-05-2026,18-05-2026,2,No,Phone
+22,917,Payment Issue,High,Open,08-02-2025,,,Yes,Phone
+23,345,Payment Issue,Medium,Closed,07-12-2023,11-12-2023,4,Yes,Web Form
+24,881,Payment Issue,High,Open,24-01-2024,,,Yes,Web Form
+25,209,Service Outage,Medium,Closed,03-04-2023,07-04-2023,4,Yes,Email
+26,859,Service Outage,High,Closed,12-10-2024,15-10-2024,3,Yes,Email
+27,241,Billing Issue,High,Open,16-07-2025,,,Yes,Email
+28,347,Billing Issue,Medium,Closed,15-06-2026,19-06-2026,4,Yes,Phone
+29,102,General Query,High,Open,02-03-2025,,,Yes,Phone
+30,108,Meter Problem,Medium,Closed,12-02-2024,16-02-2024,4,Yes,Phone
+31,463,Meter Problem,High,Closed,06-01-2026,10-01-2026,4,Yes,Web Form
+32,917,Service Outage,Medium,Open,17-02-2024,,,Yes,Email
+33,807,Billing Issue,Medium,Closed,20-06-2025,23-06-2025,3,No,Email
+34,44,Payment Issue,Medium,Closed,13-09-2023,17-09-2023,4,Yes,Email
+35,106,Payment Issue,Low,Open,07-03-2026,,,Yes,Email
+36,372,General Query,Low,Open,22-11-2023,,,Yes,Phone
+37,17,Meter Problem,Low,Open,21-12-2025,,,Yes,Web Form
+38,17,Payment Issue,Low,Closed,21-02-2026,24-02-2026,3,No,Phone
+39,366,Payment Issue,Medium,Open,27-04-2025,,,Yes,Web Form
+40,732,General Query,Low,Closed,17-06-2023,21-06-2023,4,Yes,Email
+41,670,Meter Problem,High,Open,07-01-2023,,,Yes,Email
+42,29,Billing Issue,High,Open,17-07-2024,,,Yes,Email
+43,952,Service Outage,Medium,Closed,07-03-2023,09-03-2023,2,No,Email
+44,256,Payment Issue,Low,Closed,13-03-2024,15-03-2024,2,No,Email
+45,824,Meter Problem,High,Closed,08-02-2025,13-02-2025,5,Yes,Phone
+46,815,Billing Issue,Low,Closed,25-10-2026,30-10-2026,5,Yes,Email
+47,9,Payment Issue,Medium,Closed,05-07-2024,09-07-2024,4,Yes,Phone
+48,672,Payment Issue,Medium,Open,17-07-2023,,,Yes,Web Form
+49,587,Payment Issue,Low,Open,23-09-2026,,,No,Phone
+50,202,General Query,High,Closed,15-02-2023,16-02-2023,1,Yes,Phone
+51,374,Billing Issue,High,Open,03-05-2024,,,Yes,Web Form
+52,324,Service Outage,Low,Closed,02-10-2026,07-10-2026,5,Yes,Web Form
+53,556,Billing Issue,Low,Closed,26-04-2025,29-04-2025,3,No,Email
+54,208,Billing Issue,Medium,Open,12-06-2024,,,Yes,Email
+55,553,Billing Issue,Medium,Closed,11-09-2023,12-09-2023,1,No,Phone
+56,334,Service Outage,High,Closed,10-12-2026,12-12-2026,2,Yes,Phone
+57,230,Service Outage,High,Closed,28-10-2024,30-10-2024,2,Yes,Email
+58,260,Service Outage,Low,Open,28-02-2023,,,Yes,Email
+59,7,Billing Issue,Low,Open,01-02-2026,,,Yes,Web Form
+60,900,Service Outage,Low,Open,16-02-2026,,,Yes,Email
+61,703,Service Outage,Medium,Closed,21-02-2023,22-02-2023,1,No,Email
+62,801,General Query,Low,Open,12-10-2024,,,Yes,Email
+63,928,Meter Problem,Medium,Open,22-09-2026,,,No,Email
+64,957,Service Outage,Low,Open,16-09-2024,,,Yes,Email
+65,274,Payment Issue,Medium,Closed,25-02-2024,27-02-2024,2,No,Phone
+66,751,Service Outage,Medium,Closed,24-09-2025,28-09-2025,4,Yes,Phone
+67,402,Meter Problem,Low,Closed,13-02-2026,17-02-2026,4,Yes,Phone
+68,426,Meter Problem,High,Open,02-06-2023,,,Yes,Web Form
+69,565,Billing Issue,Low,Open,04-09-2026,,,No,Email
+70,550,Payment Issue,Medium,Closed,06-03-2023,09-03-2023,3,No,Email
+71,522,Service Outage,High,Open,06-10-2024,,,Yes,Phone
+72,818,General Query,High,Closed,17-12-2025,18-12-2025,1,Yes,Phone
+73,892,Billing Issue,Medium,Open,18-03-2024,,,Yes,Phone
+74,721,Payment Issue,High,Open,19-02-2024,,,Yes,Email
+75,714,Payment Issue,Medium,Open,17-10-2025,,,Yes,Email
+76,21,Meter Problem,Low,Closed,01-11-2023,03-11-2023,2,No,Web Form
+77,788,Service Outage,High,Open,04-07-2024,,,Yes,Phone
+78,601,Meter Problem,Medium,Open,12-07-2025,,,Yes,Phone
+79,583,Service Outage,High,Closed,26-01-2024,31-01-2024,5,Yes,Web Form
+80,700,Payment Issue,High,Closed,19-11-2023,23-11-2023,4,Yes,Phone
+81,498,Payment Issue,High,Closed,16-06-2025,18-06-2025,2,Yes,Phone
+82,364,Billing Issue,Low,Closed,06-01-2026,11-01-2026,5,Yes,Email
+83,278,General Query,Low,Open,27-06-2026,,,No,Web Form
+84,643,Service Outage,High,Closed,04-08-2024,09-08-2024,5,Yes,Email
+85,219,General Query,Low,Closed,12-03-2026,13-03-2026,1,No,Email
+86,532,Payment Issue,Medium,Closed,24-04-2026,26-04-2026,2,No,Web Form
+87,668,Payment Issue,Low,Closed,14-07-2024,17-07-2024,3,No,Web Form
+88,585,Payment Issue,Medium,Closed,28-01-2026,31-01-2026,3,No,Web Form
+89,882,Billing Issue,Low,Open,22-03-2025,,,Yes,Web Form
+90,485,General Query,High,Closed,17-09-2024,19-09-2024,2,Yes,Phone
+91,313,Meter Problem,Low,Closed,25-06-2023,29-06-2023,4,Yes,Web Form
+92,914,Payment Issue,Medium,Closed,05-03-2023,09-03-2023,4,Yes,Email
+93,68,Service Outage,Low,Closed,05-04-2026,10-04-2026,5,Yes,Email
+94,958,Payment Issue,Low,Open,07-10-2024,,,Yes,Phone
+95,31,Billing Issue,Medium,Closed,08-11-2024,09-11-2024,1,No,Email
+96,746,Service Outage,Medium,Closed,01-08-2025,02-08-2025,1,No,Email
+97,530,Meter Problem,Low,Open,16-08-2024,,,Yes,Phone
+98,868,Payment Issue,Low,Closed,02-09-2026,04-09-2026,2,No,Email
+99,6,Payment Issue,Low,Open,23-06-2025,,,Yes,Phone
+100,830,Payment Issue,Low,Closed,10-11-2026,11-11-2026,1,No,Web Form
+101,169,Meter Problem,Low,Open,08-04-2024,,,Yes,Email
+102,785,Service Outage,Low,Closed,22-01-2023,26-01-2023,4,Yes,Phone
+103,146,Meter Problem,Low,Closed,09-03-2023,10-03-2023,1,No,Email
+104,638,Payment Issue,Medium,Open,10-05-2024,,,Yes,Web Form
+105,248,General Query,Low,Closed,11-12-2024,15-12-2024,4,Yes,Phone
+106,323,Meter Problem,Low,Open,12-01-2025,,,Yes,Phone
+107,717,Meter Problem,Medium,Closed,16-01-2025,19-01-2025,3,No,Email
+108,782,Payment Issue,Low,Closed,03-04-2025,04-04-2025,1,No,Email
+109,254,Meter Problem,Medium,Open,03-08-2025,,,Yes,Web Form
+110,475,Payment Issue,Medium,Open,24-04-2026,,,No,Email
+111,30,Payment Issue,Medium,Closed,15-01-2026,17-01-2026,2,No,Email
+112,37,Service Outage,Medium,Closed,19-11-2026,22-11-2026,3,No,Phone
+113,608,Meter Problem,Low,Closed,21-07-2024,23-07-2024,2,No,Phone
+114,931,Meter Problem,Low,Closed,26-03-2025,27-03-2025,1,No,Phone
+115,3,Service Outage,Medium,Closed,25-05-2023,27-05-2023,2,No,Web Form
+116,51,Billing Issue,High,Open,12-05-2023,,,Yes,Email
+117,524,Meter Problem,Medium,Closed,21-02-2026,23-02-2026,2,No,Web Form
+118,309,General Query,Medium,Open,28-05-2023,,,Yes,Web Form
+119,374,General Query,Low,Closed,21-08-2025,22-08-2025,1,No,Phone
+120,601,General Query,Medium,Closed,25-08-2024,30-08-2024,5,Yes,Email
+121,500,Payment Issue,Medium,Open,08-10-2024,,,Yes,Email
+122,999,Service Outage,Medium,Open,12-05-2025,,,Yes,Email
+123,456,Billing Issue,High,Closed,08-03-2024,13-03-2024,5,Yes,Phone
+124,706,Service Outage,Low,Closed,24-07-2025,25-07-2025,1,No,Phone
+125,190,Billing Issue,Low,Closed,03-07-2025,07-07-2025,4,Yes,Email
+126,95,Payment Issue,Low,Open,19-08-2023,,,Yes,Web Form
+127,804,General Query,High,Closed,09-11-2024,14-11-2024,5,Yes,Web Form
+128,898,Service Outage,High,Open,17-06-2024,,,Yes,Web Form
+129,855,Payment Issue,High,Closed,25-04-2024,29-04-2024,4,Yes,Email
+130,470,Billing Issue,High,Open,21-10-2026,,,Yes,Phone
+131,204,Billing Issue,High,Closed,24-12-2026,28-12-2026,4,Yes,Web Form
+132,447,General Query,High,Open,18-03-2025,,,Yes,Email
+133,285,Meter Problem,Low,Open,25-10-2023,,,Yes,Phone
+134,58,General Query,Medium,Open,26-12-2026,,,No,Phone
+135,680,Payment Issue,Medium,Closed,24-10-2025,28-10-2025,4,Yes,Email
+136,141,Billing Issue,Low,Open,07-09-2023,,,Yes,Email
+137,511,Billing Issue,Medium,Closed,05-04-2026,08-04-2026,3,No,Phone
+138,768,Service Outage,Medium,Closed,20-02-2025,25-02-2025,5,Yes,Web Form
+139,262,Service Outage,Low,Open,17-08-2024,,,Yes,Email
+140,664,Billing Issue,High,Open,15-03-2024,,,Yes,Web Form
+141,416,Service Outage,High,Closed,11-05-2026,13-05-2026,2,Yes,Email
+142,372,Payment Issue,Low,Open,04-12-2025,,,Yes,Phone
+143,244,Service Outage,Medium,Open,02-06-2024,,,Yes,Phone
+144,719,Billing Issue,High,Open,12-12-2026,,,Yes,Web Form
+145,482,Meter Problem,Medium,Open,13-11-2026,,,No,Phone
+146,685,Payment Issue,Medium,Closed,27-12-2024,30-12-2024,3,No,Web Form
+147,416,Billing Issue,Low,Closed,12-12-2025,14-12-2025,2,No,Phone
+148,678,Meter Problem,Low,Open,26-05-2024,,,Yes,Phone
+149,837,General Query,High,Open,16-04-2024,,,Yes,Web Form
+150,633,Payment Issue,Medium,Closed,11-01-2023,16-01-2023,5,Yes,Email
+151,251,General Query,Medium,Closed,23-04-2023,27-04-2023,4,Yes,Web Form
+152,690,General Query,High,Closed,02-05-2026,07-05-2026,5,Yes,Web Form
+153,795,Payment Issue,Medium,Open,02-11-2025,,,Yes,Email
+154,581,Service Outage,Low,Closed,25-12-2026,28-12-2026,3,No,Phone
+155,214,Payment Issue,Low,Open,28-10-2025,,,Yes,Email
+156,422,Meter Problem,Medium,Closed,22-01-2024,23-01-2024,1,No,Email
+157,731,Service Outage,High,Closed,18-02-2023,20-02-2023,2,Yes,Web Form
+158,903,Billing Issue,Low,Open,21-03-2026,,,Yes,Phone
+159,483,Payment Issue,Medium,Closed,21-10-2024,26-10-2024,5,Yes,Phone
+160,741,Payment Issue,Low,Open,22-04-2025,,,Yes,Web Form
+161,776,Payment Issue,Medium,Closed,05-06-2025,09-06-2025,4,Yes,Web Form
+162,438,Billing Issue,High,Open,21-04-2023,,,Yes,Web Form
+163,469,Service Outage,High,Open,13-10-2026,,,Yes,Phone
+164,371,Payment Issue,Medium,Open,27-08-2024,,,Yes,Email
+165,497,Meter Problem,Low,Open,10-08-2026,,,No,Email
+166,885,General Query,High,Closed,11-03-2026,14-03-2026,3,Yes,Email
+167,496,Billing Issue,High,Closed,14-10-2023,19-10-2023,5,Yes,Web Form
+168,256,Payment Issue,Low,Closed,09-09-2026,10-09-2026,1,No,Web Form
+169,854,Meter Problem,Medium,Open,05-06-2026,,,No,Web Form
+170,918,Service Outage,High,Open,18-12-2025,,,Yes,Web Form
+171,776,Meter Problem,Medium,Closed,03-11-2026,04-11-2026,1,No,Web Form
+172,964,Payment Issue,Medium,Open,10-05-2024,,,Yes,Phone
+173,17,Billing Issue,High,Open,06-11-2024,,,Yes,Email
+174,803,Meter Problem,High,Open,27-09-2023,,,Yes,Phone
+175,112,Service Outage,High,Open,05-07-2026,,,Yes,Web Form
+176,78,General Query,Low,Open,16-10-2023,,,Yes,Email
+177,176,Billing Issue,Low,Open,10-06-2024,,,Yes,Web Form
+178,805,Payment Issue,Medium,Open,03-03-2026,,,Yes,Web Form
+179,884,General Query,Low,Closed,23-03-2024,24-03-2024,1,No,Web Form
+180,563,General Query,High,Closed,14-06-2026,16-06-2026,2,Yes,Email
+181,84,Payment Issue,Medium,Closed,24-05-2026,27-05-2026,3,No,Phone
+182,703,Payment Issue,Low,Open,10-04-2024,,,Yes,Phone
+183,535,General Query,Medium,Open,02-05-2025,,,Yes,Phone
+184,466,Payment Issue,High,Closed,13-10-2025,14-10-2025,1,Yes,Web Form
+185,160,Billing Issue,Low,Open,25-09-2023,,,Yes,Email
+186,507,Billing Issue,Medium,Closed,04-02-2023,07-02-2023,3,No,Email
+187,706,General Query,High,Open,12-03-2026,,,Yes,Web Form
+188,1,Payment Issue,High,Open,05-02-2024,,,Yes,Web Form
+189,881,Service Outage,High,Closed,20-07-2024,23-07-2024,3,Yes,Web Form
+190,222,Payment Issue,Low,Closed,03-02-2024,04-02-2024,1,No,Email
+191,800,Service Outage,Medium,Open,18-07-2024,,,Yes,Web Form
+192,902,General Query,High,Closed,16-03-2024,19-03-2024,3,Yes,Phone
+193,115,Meter Problem,High,Closed,11-05-2023,12-05-2023,1,Yes,Phone
+194,39,Payment Issue,Low,Closed,09-12-2023,11-12-2023,2,No,Web Form
+195,245,Billing Issue,Medium,Open,10-10-2023,,,Yes,Email
+196,198,Payment Issue,High,Closed,05-06-2025,09-06-2025,4,Yes,Phone
+197,828,Billing Issue,Medium,Closed,12-10-2023,13-10-2023,1,No,Web Form
+198,422,Service Outage,High,Closed,20-02-2023,25-02-2023,5,Yes,Web Form
+199,520,Meter Problem,Low,Closed,11-04-2025,13-04-2025,2,No,Phone
+200,762,Payment Issue,Low,Open,25-07-2023,,,Yes,Email
+201,50,General Query,Medium,Closed,20-03-2025,22-03-2025,2,No,Email
+202,563,General Query,Medium,Closed,07-04-2024,10-04-2024,3,No,Email
+203,573,Billing Issue,Low,Open,25-12-2025,,,Yes,Phone
+204,75,Billing Issue,Low,Closed,01-02-2026,06-02-2026,5,Yes,Web Form
+205,90,General Query,High,Open,09-12-2024,,,Yes,Phone
+206,63,Billing Issue,Medium,Open,23-10-2026,,,No,Phone
+207,731,Meter Problem,High,Closed,02-11-2024,05-11-2024,3,Yes,Email
+208,760,General Query,Medium,Open,14-05-2026,,,No,Phone
+209,211,Payment Issue,Medium,Open,24-04-2024,,,Yes,Web Form
+210,880,General Query,Medium,Open,20-09-2024,,,Yes,Web Form
+211,16,Billing Issue,Medium,Open,27-02-2024,,,Yes,Phone
+212,273,Payment Issue,Medium,Open,09-07-2026,,,No,Email
+213,867,Meter Problem,High,Closed,15-03-2023,18-03-2023,3,Yes,Email
+214,654,Payment Issue,Low,Closed,27-11-2024,28-11-2024,1,No,Web Form
+215,641,Billing Issue,Low,Closed,10-05-2023,14-05-2023,4,Yes,Web Form
+216,393,Billing Issue,High,Closed,12-11-2024,17-11-2024,5,Yes,Email
+217,142,Payment Issue,High,Open,06-02-2025,,,Yes,Email
+218,732,Service Outage,Low,Closed,18-07-2025,21-07-2025,3,No,Web Form
+219,333,Meter Problem,High,Open,06-11-2024,,,Yes,Email
+220,621,Service Outage,Low,Closed,12-04-2026,15-04-2026,3,No,Phone
+221,460,Meter Problem,Low,Closed,23-07-2026,25-07-2026,2,No,Email
+222,750,General Query,High,Closed,06-03-2024,07-03-2024,1,Yes,Web Form
+223,7,Service Outage,Medium,Open,14-03-2025,,,Yes,Phone
+224,159,Meter Problem,Low,Closed,02-02-2026,06-02-2026,4,Yes,Web Form
+225,950,Service Outage,Low,Open,23-06-2025,,,Yes,Email
+226,125,General Query,Low,Open,14-12-2025,,,Yes,Email
+227,173,General Query,Medium,Open,21-01-2024,,,Yes,Phone
+228,165,Meter Problem,Medium,Closed,11-07-2024,15-07-2024,4,Yes,Phone
+229,450,Meter Problem,Medium,Closed,11-01-2023,14-01-2023,3,No,Phone
+230,512,Service Outage,Medium,Open,12-06-2026,,,No,Web Form
+231,625,Meter Problem,Low,Closed,21-09-2024,24-09-2024,3,No,Email
+232,137,Billing Issue,Medium,Closed,13-02-2023,15-02-2023,2,No,Web Form
+233,88,Payment Issue,Low,Open,13-10-2024,,,Yes,Web Form
+234,296,Billing Issue,High,Closed,19-11-2025,22-11-2025,3,Yes,Email
+235,734,Service Outage,Low,Closed,09-01-2025,11-01-2025,2,No,Web Form
+236,671,Meter Problem,High,Closed,04-05-2025,06-05-2025,2,Yes,Web Form
+237,870,Payment Issue,Medium,Closed,26-02-2023,01-03-2023,3,No,Web Form
+238,998,Meter Problem,Low,Open,24-05-2024,,,Yes,Email
+239,614,Service Outage,Low,Closed,28-04-2025,29-04-2025,1,No,Web Form
+240,931,Billing Issue,Low,Open,07-12-2025,,,Yes,Email
+241,195,General Query,Medium,Closed,04-06-2024,09-06-2024,5,Yes,Email
+242,144,General Query,High,Open,01-09-2024,,,Yes,Email
+243,817,Billing Issue,High,Open,15-08-2026,,,Yes,Email
+244,330,Payment Issue,Low,Open,14-07-2023,,,Yes,Web Form
+245,302,General Query,High,Open,11-03-2025,,,Yes,Email
+246,312,Billing Issue,High,Closed,20-10-2023,24-10-2023,4,Yes,Web Form
+247,121,Service Outage,Medium,Closed,15-11-2023,20-11-2023,5,Yes,Web Form
+248,972,General Query,Low,Closed,07-07-2025,09-07-2025,2,No,Web Form
+249,901,General Query,High,Closed,03-03-2025,08-03-2025,5,Yes,Phone
+250,308,Meter Problem,High,Open,22-03-2026,,,Yes,Email
+251,668,Billing Issue,High,Closed,11-09-2023,13-09-2023,2,Yes,Email
+252,740,General Query,High,Closed,11-09-2025,12-09-2025,1,Yes,Email
+253,405,Service Outage,Low,Closed,15-10-2023,17-10-2023,2,No,Web Form
+254,985,Meter Problem,Low,Open,18-09-2025,,,Yes,Phone
+255,958,Payment Issue,Medium,Open,07-08-2026,,,No,Phone
+256,667,Meter Problem,Low,Open,24-09-2026,,,No,Email
+257,67,Service Outage,Low,Closed,17-03-2024,20-03-2024,3,No,Email
+258,105,General Query,High,Closed,19-10-2025,20-10-2025,1,Yes,Email
+259,875,Service Outage,Medium,Closed,20-01-2024,21-01-2024,1,No,Web Form
+260,656,Billing Issue,Medium,Open,11-11-2024,,,Yes,Phone
+261,603,Meter Problem,High,Open,13-02-2025,,,Yes,Phone
+262,136,Service Outage,High,Closed,28-09-2026,02-10-2026,4,Yes,Email
+263,240,General Query,Low,Closed,08-05-2025,12-05-2025,4,Yes,Web Form
+264,308,Billing Issue,Low,Closed,21-09-2024,24-09-2024,3,No,Phone
+265,413,Service Outage,Medium,Closed,17-05-2023,19-05-2023,2,No,Phone
+266,292,Service Outage,High,Closed,06-06-2024,11-06-2024,5,Yes,Web Form
+267,145,General Query,High,Closed,28-01-2023,29-01-2023,1,Yes,Phone
+268,153,Service Outage,Medium,Closed,07-01-2025,12-01-2025,5,Yes,Web Form
+269,881,Meter Problem,High,Open,09-12-2023,,,Yes,Web Form
+270,583,Billing Issue,Medium,Open,07-03-2023,,,Yes,Web Form
+271,40,Service Outage,Medium,Open,17-01-2026,,,Yes,Phone
+272,187,Billing Issue,High,Open,14-07-2026,,,Yes,Phone
+273,587,Meter Problem,High,Closed,15-06-2023,18-06-2023,3,Yes,Web Form
+274,681,Meter Problem,Low,Closed,15-10-2023,17-10-2023,2,No,Phone
+275,85,Meter Problem,Medium,Closed,28-05-2026,01-06-2026,4,Yes,Email
+276,448,Meter Problem,Medium,Closed,05-05-2024,09-05-2024,4,Yes,Email
+277,447,Service Outage,Medium,Open,25-06-2025,,,Yes,Email
+278,745,Billing Issue,High,Closed,19-01-2023,24-01-2023,5,Yes,Phone
+279,803,General Query,High,Open,14-01-2026,,,Yes,Email
+280,963,Payment Issue,High,Open,07-09-2023,,,Yes,Web Form
+281,386,Payment Issue,Low,Closed,27-05-2024,29-05-2024,2,No,Web Form
+282,150,Meter Problem,High,Open,14-08-2026,,,Yes,Phone
+283,860,Service Outage,Low,Open,26-06-2025,,,Yes,Email
+284,253,Meter Problem,Medium,Closed,27-09-2026,29-09-2026,2,No,Email
+285,204,Billing Issue,Medium,Closed,03-10-2026,04-10-2026,1,No,Email
+286,932,Service Outage,Medium,Open,18-10-2025,,,Yes,Web Form
+287,930,General Query,Low,Open,14-08-2025,,,Yes,Phone
+288,310,Service Outage,Medium,Closed,12-09-2023,15-09-2023,3,No,Phone
+289,617,Payment Issue,High,Open,14-05-2023,,,Yes,Web Form
+290,207,General Query,Medium,Closed,11-04-2023,14-04-2023,3,No,Web Form
+291,477,Billing Issue,High,Open,11-05-2025,,,Yes,Email
+292,658,Service Outage,Medium,Closed,08-05-2026,11-05-2026,3,No,Web Form
+293,536,General Query,Low,Closed,15-11-2024,20-11-2024,5,Yes,Phone
+294,895,Service Outage,Medium,Closed,18-03-2026,19-03-2026,1,No,Web Form
+295,450,General Query,Medium,Open,23-12-2023,,,Yes,Phone
+296,100,Meter Problem,High,Closed,10-10-2025,15-10-2025,5,Yes,Email
+297,998,Billing Issue,Low,Closed,10-02-2026,12-02-2026,2,No,Email
+298,895,Billing Issue,Low,Closed,22-05-2024,26-05-2024,4,Yes,Phone
+299,123,General Query,Medium,Closed,19-05-2025,21-05-2025,2,No,Email
+300,26,Meter Problem,Medium,Closed,09-03-2024,10-03-2024,1,No,Web Form
+301,194,General Query,Low,Closed,15-11-2024,19-11-2024,4,Yes,Email
+302,480,Meter Problem,Medium,Open,08-05-2024,,,Yes,Email
+303,351,Billing Issue,Low,Closed,21-05-2026,25-05-2026,4,Yes,Web Form
+304,222,Billing Issue,Low,Open,26-08-2026,,,No,Web Form
+305,895,Meter Problem,Low,Closed,07-07-2023,10-07-2023,3,No,Phone
+306,643,Meter Problem,Medium,Closed,19-09-2025,24-09-2025,5,Yes,Email
+307,662,Service Outage,High,Open,02-04-2024,,,Yes,Phone
+308,932,Billing Issue,Low,Closed,08-07-2026,10-07-2026,2,No,Email
+309,898,Service Outage,Low,Closed,24-10-2023,28-10-2023,4,Yes,Web Form
+310,951,General Query,Medium,Closed,15-03-2026,19-03-2026,4,Yes,Phone
+311,621,Meter Problem,Low,Closed,17-01-2025,20-01-2025,3,No,Phone
+312,794,Service Outage,High,Open,16-10-2024,,,Yes,Web Form
+313,174,General Query,High,Open,24-01-2024,,,Yes,Phone
+314,577,Billing Issue,Low,Open,09-10-2023,,,Yes,Web Form
+315,58,General Query,High,Open,25-06-2026,,,Yes,Phone
+316,7,General Query,High,Closed,17-12-2024,22-12-2024,5,Yes,Web Form
+317,340,Service Outage,Low,Closed,13-07-2025,17-07-2025,4,Yes,Phone
+318,557,Payment Issue,Medium,Closed,14-08-2025,19-08-2025,5,Yes,Web Form
+319,686,General Query,High,Open,07-10-2026,,,Yes,Phone
+320,210,Billing Issue,Medium,Closed,28-12-2023,30-12-2023,2,No,Web Form
+321,290,Service Outage,Medium,Open,07-07-2026,,,No,Phone
+322,924,Payment Issue,Low,Closed,17-10-2025,20-10-2025,3,No,Email
+323,208,Meter Problem,High,Closed,28-12-2025,02-01-2026,5,Yes,Email
+324,961,Meter Problem,Low,Open,03-04-2024,,,Yes,Email
+325,426,General Query,Medium,Open,14-08-2024,,,Yes,Phone
+326,783,Payment Issue,High,Open,03-06-2025,,,Yes,Email
+327,826,General Query,Medium,Closed,26-01-2023,30-01-2023,4,Yes,Email
+328,109,Billing Issue,High,Open,22-05-2023,,,Yes,Phone
+329,436,General Query,Low,Closed,17-07-2026,22-07-2026,5,Yes,Phone
+330,167,Service Outage,High,Closed,01-11-2025,06-11-2025,5,Yes,Phone
+331,663,Meter Problem,High,Closed,21-07-2023,26-07-2023,5,Yes,Phone
+332,686,Billing Issue,Low,Closed,08-05-2025,13-05-2025,5,Yes,Email
+333,202,General Query,Low,Closed,24-03-2026,29-03-2026,5,Yes,Phone
+334,575,Billing Issue,High,Open,09-07-2025,,,Yes,Email
+335,333,Meter Problem,Low,Closed,19-05-2024,20-05-2024,1,No,Phone
+336,517,Service Outage,Medium,Closed,23-01-2026,26-01-2026,3,No,Phone
+337,415,Service Outage,Medium,Open,10-10-2023,,,Yes,Web Form
+338,566,Service Outage,High,Closed,16-02-2024,17-02-2024,1,Yes,Phone
+339,326,Service Outage,Medium,Closed,26-08-2025,31-08-2025,5,Yes,Web Form
+340,215,Payment Issue,Low,Closed,20-08-2026,22-08-2026,2,No,Web Form
+341,829,General Query,Low,Closed,03-11-2024,07-11-2024,4,Yes,Phone
+342,143,Meter Problem,Low,Open,25-03-2024,,,Yes,Phone
+343,731,General Query,Low,Closed,26-01-2024,31-01-2024,5,Yes,Phone
+344,512,Billing Issue,High,Open,08-04-2026,,,Yes,Web Form
+345,576,General Query,High,Open,16-08-2024,,,Yes,Web Form
+346,607,Meter Problem,High,Closed,03-10-2026,06-10-2026,3,Yes,Web Form
+347,501,Payment Issue,Medium,Closed,20-01-2024,24-01-2024,4,Yes,Email
+348,629,Billing Issue,High,Open,11-04-2026,,,Yes,Email
+349,884,Meter Problem,High,Closed,13-05-2025,17-05-2025,4,Yes,Phone
+350,642,Meter Problem,Low,Closed,13-04-2024,14-04-2024,1,No,Web Form
+351,191,Billing Issue,Medium,Open,12-12-2024,,,Yes,Email
+352,955,Billing Issue,Medium,Open,02-10-2026,,,No,Email
+353,689,Meter Problem,Low,Open,13-11-2024,,,Yes,Phone
+354,836,Service Outage,High,Open,21-03-2023,,,Yes,Phone
+355,308,Meter Problem,Low,Closed,10-12-2026,13-12-2026,3,No,Phone
+356,386,Payment Issue,Medium,Open,27-11-2024,,,Yes,Email
+357,167,Meter Problem,High,Closed,07-10-2023,08-10-2023,1,Yes,Email
+358,551,Payment Issue,Medium,Closed,10-09-2026,13-09-2026,3,No,Phone
+359,638,Service Outage,Medium,Closed,10-01-2025,13-01-2025,3,No,Web Form
+360,617,Meter Problem,High,Closed,11-08-2025,16-08-2025,5,Yes,Email
+361,865,Payment Issue,Medium,Closed,21-04-2026,24-04-2026,3,No,Email
+362,895,Service Outage,Low,Open,19-10-2024,,,Yes,Web Form
+363,603,General Query,Low,Closed,04-02-2026,09-02-2026,5,Yes,Web Form
+364,853,Billing Issue,High,Closed,15-08-2026,18-08-2026,3,Yes,Phone
+365,398,Billing Issue,High,Closed,12-01-2025,15-01-2025,3,Yes,Phone
+366,366,General Query,High,Open,17-04-2026,,,Yes,Web Form
+367,847,Meter Problem,High,Open,16-05-2025,,,Yes,Email
+368,667,Billing Issue,Low,Open,28-07-2025,,,Yes,Web Form
+369,297,Payment Issue,Low,Open,21-08-2023,,,Yes,Phone
+370,716,Billing Issue,Low,Open,22-05-2023,,,Yes,Email
+371,138,General Query,High,Open,24-11-2026,,,Yes,Phone
+372,948,Billing Issue,Low,Open,08-05-2023,,,Yes,Web Form
+373,626,Meter Problem,Low,Closed,19-03-2025,20-03-2025,1,No,Web Form
+374,941,Meter Problem,Low,Open,09-01-2023,,,Yes,Phone
+375,482,General Query,Low,Closed,16-03-2026,18-03-2026,2,No,Web Form
+376,848,Meter Problem,High,Closed,25-02-2025,01-03-2025,4,Yes,Web Form
+377,490,General Query,Low,Open,19-12-2023,,,Yes,Web Form
+378,854,General Query,Medium,Closed,21-05-2024,26-05-2024,5,Yes,Email
+379,72,General Query,High,Closed,10-10-2026,13-10-2026,3,Yes,Web Form
+380,65,General Query,Medium,Open,10-02-2024,,,Yes,Email
+381,78,Meter Problem,Medium,Open,11-03-2023,,,Yes,Web Form
+382,184,Billing Issue,Low,Closed,15-01-2025,20-01-2025,5,Yes,Phone
+383,573,Service Outage,High,Closed,08-11-2024,13-11-2024,5,Yes,Email
+384,879,Meter Problem,Medium,Open,14-06-2026,,,No,Email
+385,978,Service Outage,Low,Open,11-06-2023,,,Yes,Phone
+386,815,General Query,Low,Closed,26-04-2023,28-04-2023,2,No,Web Form
+387,514,Service Outage,High,Closed,22-12-2025,23-12-2025,1,Yes,Web Form
+388,787,General Query,High,Open,24-06-2026,,,Yes,Phone
+389,590,Payment Issue,High,Closed,13-11-2023,17-11-2023,4,Yes,Phone
+390,338,General Query,Low,Open,28-04-2024,,,Yes,Phone
+391,380,Payment Issue,Low,Open,07-08-2023,,,Yes,Web Form
+392,30,General Query,Medium,Open,12-08-2023,,,Yes,Phone
+393,655,Payment Issue,Low,Closed,04-03-2025,07-03-2025,3,No,Email
+394,627,Payment Issue,High,Closed,13-06-2025,14-06-2025,1,Yes,Web Form
+395,935,Service Outage,Medium,Open,18-08-2024,,,Yes,Web Form
+396,588,Service Outage,High,Closed,07-06-2024,08-06-2024,1,Yes,Email
+397,412,Service Outage,High,Closed,27-07-2024,29-07-2024,2,Yes,Phone
+398,16,General Query,Medium,Open,03-03-2023,,,Yes,Email
+399,816,General Query,High,Open,08-08-2025,,,Yes,Web Form
+400,842,Billing Issue,Low,Closed,12-09-2023,13-09-2023,1,No,Web Form
+401,828,Payment Issue,Medium,Open,21-09-2026,,,No,Email
+402,128,General Query,Medium,Closed,08-01-2024,12-01-2024,4,Yes,Email
+403,469,Meter Problem,Low,Closed,22-10-2024,25-10-2024,3,No,Phone
+404,822,General Query,Low,Closed,19-07-2023,23-07-2023,4,Yes,Phone
+405,399,Billing Issue,High,Closed,21-03-2025,23-03-2025,2,Yes,Web Form
+406,825,General Query,Medium,Closed,26-08-2024,30-08-2024,4,Yes,Phone
+407,466,Service Outage,Medium,Open,13-06-2023,,,Yes,Phone
+408,396,Billing Issue,High,Open,15-12-2024,,,Yes,Phone
+409,714,Payment Issue,Medium,Open,28-01-2026,,,Yes,Phone
+410,824,Service Outage,Low,Open,23-06-2025,,,Yes,Web Form
+411,888,Meter Problem,Medium,Open,19-08-2024,,,Yes,Web Form
+412,31,Meter Problem,High,Open,28-01-2026,,,Yes,Web Form
+413,729,Billing Issue,Low,Open,03-10-2025,,,Yes,Web Form
+414,408,General Query,High,Open,12-12-2025,,,Yes,Phone
+415,191,Payment Issue,Low,Closed,17-09-2023,19-09-2023,2,No,Web Form
+416,707,General Query,Low,Closed,22-11-2024,24-11-2024,2,No,Phone
+417,865,Billing Issue,High,Open,02-10-2024,,,Yes,Email
+418,994,Billing Issue,High,Closed,20-11-2025,25-11-2025,5,Yes,Web Form
+419,910,General Query,Medium,Open,24-07-2026,,,No,Web Form
+420,322,Meter Problem,Medium,Closed,04-07-2025,07-07-2025,3,No,Web Form
+421,481,Meter Problem,Medium,Closed,20-05-2025,21-05-2025,1,No,Web Form
+422,949,Billing Issue,Medium,Closed,12-10-2025,16-10-2025,4,Yes,Phone
+423,45,Meter Problem,High,Closed,09-07-2024,13-07-2024,4,Yes,Email
+424,60,Service Outage,Medium,Open,14-04-2025,,,Yes,Email
+425,925,General Query,Medium,Open,09-08-2023,,,Yes,Phone
+426,488,Payment Issue,Medium,Open,12-08-2023,,,Yes,Phone
+427,777,Meter Problem,Low,Closed,12-09-2024,17-09-2024,5,Yes,Phone
+428,672,General Query,Low,Closed,11-11-2025,12-11-2025,1,No,Web Form
+429,586,Billing Issue,High,Closed,17-02-2025,18-02-2025,1,Yes,Web Form
+430,602,Billing Issue,Medium,Closed,12-08-2026,16-08-2026,4,Yes,Web Form
+431,326,Meter Problem,Low,Open,03-11-2026,,,No,Phone
+432,913,Billing Issue,Low,Open,01-09-2024,,,Yes,Email
+433,889,Payment Issue,High,Closed,15-02-2024,18-02-2024,3,Yes,Web Form
+434,871,Service Outage,Medium,Open,09-10-2026,,,No,Email
+435,512,Payment Issue,High,Open,12-11-2026,,,Yes,Web Form
+436,719,Service Outage,High,Closed,06-09-2025,08-09-2025,2,Yes,Web Form
+437,188,Payment Issue,High,Closed,06-09-2025,09-09-2025,3,Yes,Phone
+438,637,General Query,Low,Closed,24-07-2025,25-07-2025,1,No,Email
+439,911,Service Outage,High,Closed,10-07-2023,11-07-2023,1,Yes,Phone
+440,673,Meter Problem,Low,Open,20-04-2025,,,Yes,Web Form
+441,168,Billing Issue,Low,Closed,23-06-2024,26-06-2024,3,No,Web Form
+442,198,General Query,Medium,Closed,02-08-2026,07-08-2026,5,Yes,Email
+443,717,General Query,Low,Closed,18-11-2025,21-11-2025,3,No,Web Form
+444,601,Payment Issue,High,Open,19-01-2024,,,Yes,Phone
+445,485,Meter Problem,Low,Closed,21-10-2023,23-10-2023,2,No,Email
+446,803,Payment Issue,High,Closed,24-10-2024,25-10-2024,1,Yes,Phone
+447,924,Billing Issue,Medium,Open,08-01-2024,,,Yes,Web Form
+448,201,Service Outage,Low,Closed,17-08-2023,20-08-2023,3,No,Email
+449,567,General Query,Low,Open,26-07-2023,,,Yes,Phone
+450,347,General Query,High,Open,09-03-2024,,,Yes,Email
+451,422,Service Outage,High,Open,27-12-2026,,,Yes,Phone
+452,432,Payment Issue,Low,Closed,09-04-2025,11-04-2025,2,No,Web Form
+453,628,General Query,High,Open,02-04-2024,,,Yes,Web Form
+454,531,Service Outage,Medium,Closed,20-02-2025,22-02-2025,2,No,Email
+455,342,Billing Issue,Low,Closed,09-06-2025,12-06-2025,3,No,Phone
+456,500,Meter Problem,Low,Closed,03-04-2025,05-04-2025,2,No,Phone
+457,507,Payment Issue,Medium,Closed,20-09-2026,22-09-2026,2,No,Phone
+458,534,Service Outage,Medium,Open,04-06-2025,,,Yes,Web Form
+459,836,Payment Issue,Low,Open,11-08-2025,,,Yes,Email
+460,469,Payment Issue,Low,Closed,10-07-2023,14-07-2023,4,Yes,Web Form
+461,537,General Query,Low,Open,02-04-2026,,,Yes,Web Form
+462,325,Service Outage,High,Closed,10-04-2023,15-04-2023,5,Yes,Phone
+463,468,Payment Issue,High,Closed,10-05-2025,12-05-2025,2,Yes,Phone
+464,726,Payment Issue,Medium,Closed,19-01-2024,22-01-2024,3,No,Web Form
+465,60,Service Outage,Low,Open,02-12-2025,,,Yes,Web Form
+466,902,Payment Issue,Low,Closed,22-10-2025,23-10-2025,1,No,Phone
+467,239,Payment Issue,High,Open,15-01-2025,,,Yes,Web Form
+468,276,General Query,Low,Closed,05-10-2024,06-10-2024,1,No,Web Form
+469,259,Payment Issue,Low,Open,26-10-2026,,,No,Phone
+470,879,Payment Issue,Medium,Closed,14-03-2024,19-03-2024,5,Yes,Web Form
+471,367,Meter Problem,Medium,Open,17-11-2024,,,Yes,Web Form
+472,815,Payment Issue,Medium,Open,24-12-2025,,,Yes,Phone
+473,914,General Query,Medium,Closed,19-06-2026,22-06-2026,3,No,Email
+474,563,General Query,High,Closed,21-04-2025,25-04-2025,4,Yes,Email
+475,480,Service Outage,High,Open,10-03-2026,,,Yes,Email
+476,613,Meter Problem,Medium,Open,04-08-2023,,,Yes,Email
+477,342,General Query,Low,Closed,26-02-2026,01-03-2026,3,No,Web Form
+478,625,Payment Issue,Low,Closed,01-06-2025,03-06-2025,2,No,Phone
+479,61,Billing Issue,Low,Open,16-08-2025,,,Yes,Phone
+480,781,General Query,Medium,Closed,01-03-2023,05-03-2023,4,Yes,Email
+481,702,General Query,Medium,Closed,01-11-2025,06-11-2025,5,Yes,Web Form
+482,353,Payment Issue,Low,Open,10-11-2023,,,Yes,Phone
+483,108,General Query,Low,Closed,18-08-2025,22-08-2025,4,Yes,Email
+484,693,General Query,Low,Open,16-10-2025,,,Yes,Email
+485,381,Payment Issue,Medium,Closed,27-12-2023,30-12-2023,3,No,Web Form
+486,86,Service Outage,Medium,Closed,17-01-2023,20-01-2023,3,No,Phone
+487,594,Billing Issue,Medium,Closed,17-12-2024,20-12-2024,3,No,Email
+488,702,Service Outage,High,Closed,11-04-2025,16-04-2025,5,Yes,Web Form
+489,290,Billing Issue,High,Closed,25-11-2025,30-11-2025,5,Yes,Email
+490,933,General Query,High,Closed,18-02-2025,23-02-2025,5,Yes,Web Form
+491,252,Payment Issue,High,Closed,23-03-2024,25-03-2024,2,Yes,Email
+492,863,General Query,Medium,Open,21-04-2025,,,Yes,Email
+493,376,General Query,Low,Closed,14-06-2026,19-06-2026,5,Yes,Web Form
+494,740,Meter Problem,Medium,Closed,13-09-2025,14-09-2025,1,No,Web Form
+495,595,Payment Issue,High,Closed,09-07-2025,10-07-2025,1,Yes,Email
+496,73,Service Outage,High,Closed,21-05-2023,22-05-2023,1,Yes,Phone
+497,813,General Query,Low,Open,25-11-2024,,,Yes,Email
+498,546,Service Outage,Low,Open,10-06-2024,,,Yes,Phone
+499,97,Service Outage,Low,Closed,19-10-2026,24-10-2026,5,Yes,Phone
+500,900,Payment Issue,Low,Closed,13-08-2023,17-08-2023,4,Yes,Web Form
+501,420,Meter Problem,Low,Open,05-02-2023,,,Yes,Email
+502,178,Meter Problem,High,Open,05-03-2024,,,Yes,Phone
+503,816,Payment Issue,High,Closed,01-06-2023,05-06-2023,4,Yes,Phone
+504,663,Service Outage,Medium,Closed,17-05-2025,18-05-2025,1,No,Web Form
+505,723,Service Outage,High,Open,23-07-2025,,,Yes,Email
+506,721,Service Outage,Low,Closed,20-06-2025,24-06-2025,4,Yes,Email
+507,241,Service Outage,Medium,Closed,18-06-2025,22-06-2025,4,Yes,Email
+508,83,Service Outage,Medium,Open,06-08-2023,,,Yes,Phone
+509,791,Billing Issue,High,Open,16-04-2024,,,Yes,Web Form
+510,671,Service Outage,Medium,Open,13-07-2026,,,No,Phone
+511,988,Payment Issue,Low,Closed,08-07-2023,12-07-2023,4,Yes,Email
+512,169,Payment Issue,Low,Open,12-10-2023,,,Yes,Phone
+513,692,Payment Issue,Medium,Closed,20-06-2025,24-06-2025,4,Yes,Web Form
+514,113,Billing Issue,Low,Closed,09-01-2025,12-01-2025,3,No,Web Form
+515,272,Payment Issue,High,Closed,17-12-2025,20-12-2025,3,Yes,Email
+516,989,Meter Problem,Low,Closed,07-01-2025,11-01-2025,4,Yes,Phone
+517,579,Service Outage,Medium,Closed,15-12-2026,20-12-2026,5,Yes,Phone
+518,221,Meter Problem,High,Closed,04-09-2025,09-09-2025,5,Yes,Phone
+519,723,Service Outage,Low,Open,09-10-2025,,,Yes,Web Form
+520,383,Meter Problem,Medium,Open,07-11-2024,,,Yes,Web Form
+521,233,Billing Issue,Low,Open,07-01-2026,,,Yes,Web Form
+522,567,Meter Problem,Medium,Closed,11-12-2025,12-12-2025,1,No,Phone
+523,269,General Query,High,Open,06-06-2026,,,Yes,Phone
+524,259,Meter Problem,High,Closed,25-08-2025,26-08-2025,1,Yes,Phone
+525,926,Payment Issue,Low,Open,05-03-2025,,,Yes,Phone
+526,690,General Query,High,Open,23-02-2026,,,Yes,Web Form
+527,395,Billing Issue,Medium,Open,04-10-2023,,,Yes,Phone
+528,91,General Query,Medium,Open,18-11-2023,,,Yes,Email
+529,274,Service Outage,Medium,Closed,18-07-2025,20-07-2025,2,No,Phone
+530,941,General Query,Low,Open,15-05-2026,,,No,Web Form
+531,200,Payment Issue,Medium,Open,06-06-2024,,,Yes,Web Form
+532,725,General Query,Medium,Open,17-07-2026,,,No,Web Form
+533,867,Payment Issue,Medium,Open,21-11-2024,,,Yes,Web Form
+534,646,Payment Issue,Low,Closed,27-10-2024,31-10-2024,4,Yes,Phone
+535,917,Meter Problem,Low,Closed,23-06-2024,26-06-2024,3,No,Web Form
+536,768,Service Outage,High,Closed,06-03-2026,11-03-2026,5,Yes,Phone
+537,160,Billing Issue,Medium,Closed,05-12-2025,09-12-2025,4,Yes,Web Form
+538,763,Service Outage,Medium,Closed,21-09-2025,25-09-2025,4,Yes,Web Form
+539,122,Meter Problem,High,Closed,04-05-2023,07-05-2023,3,Yes,Email
+540,998,General Query,Medium,Closed,04-08-2026,09-08-2026,5,Yes,Email
+541,376,Meter Problem,Low,Closed,23-06-2024,25-06-2024,2,No,Web Form
+542,949,Billing Issue,Low,Closed,10-04-2023,13-04-2023,3,No,Web Form
+543,51,Meter Problem,Low,Closed,01-09-2026,05-09-2026,4,Yes,Web Form
+544,557,General Query,Low,Open,16-06-2025,,,Yes,Phone
+545,176,Meter Problem,High,Closed,03-09-2023,06-09-2023,3,Yes,Web Form
+546,609,Billing Issue,Medium,Closed,22-06-2026,25-06-2026,3,No,Email
+547,276,General Query,High,Closed,17-03-2025,19-03-2025,2,Yes,Phone
+548,564,Service Outage,High,Closed,16-08-2023,21-08-2023,5,Yes,Web Form
+549,925,Billing Issue,Medium,Closed,06-10-2025,08-10-2025,2,No,Phone
+550,762,Billing Issue,Medium,Closed,20-08-2026,21-08-2026,1,No,Phone
+551,562,Billing Issue,High,Closed,04-04-2024,07-04-2024,3,Yes,Email
+552,330,Service Outage,Medium,Closed,10-10-2023,13-10-2023,3,No,Web Form
+553,994,Billing Issue,High,Open,08-09-2026,,,Yes,Web Form
+554,600,Service Outage,Medium,Closed,14-10-2025,15-10-2025,1,No,Web Form
+555,473,Billing Issue,High,Open,24-07-2025,,,Yes,Web Form
+556,696,Service Outage,Low,Open,07-05-2025,,,Yes,Web Form
+557,343,General Query,Low,Open,12-03-2025,,,Yes,Email
+558,390,Service Outage,Medium,Closed,18-08-2026,20-08-2026,2,No,Phone
+559,672,Meter Problem,High,Closed,10-07-2024,12-07-2024,2,Yes,Phone
+560,802,Meter Problem,Medium,Open,06-02-2024,,,Yes,Web Form
+561,92,Billing Issue,High,Closed,16-08-2026,20-08-2026,4,Yes,Email
+562,186,Billing Issue,High,Open,10-06-2025,,,Yes,Phone
+563,121,Service Outage,Low,Open,06-04-2023,,,Yes,Phone
+564,419,Billing Issue,Low,Closed,24-09-2026,27-09-2026,3,No,Phone
+565,81,General Query,Medium,Closed,14-03-2024,16-03-2024,2,No,Email
+566,8,Payment Issue,Low,Closed,14-09-2025,18-09-2025,4,Yes,Web Form
+567,144,General Query,High,Open,07-01-2023,,,Yes,Web Form
+568,958,General Query,Medium,Closed,04-03-2025,05-03-2025,1,No,Email
+569,633,Billing Issue,Low,Closed,17-07-2026,20-07-2026,3,No,Web Form
+570,113,Meter Problem,Medium,Open,01-09-2026,,,No,Email
+571,107,General Query,Low,Closed,20-02-2024,22-02-2024,2,No,Phone
+572,813,Service Outage,Low,Closed,24-05-2026,27-05-2026,3,No,Phone
+573,315,General Query,Low,Closed,25-12-2025,29-12-2025,4,Yes,Phone
+574,450,Payment Issue,High,Closed,28-08-2026,29-08-2026,1,Yes,Phone
+575,664,Service Outage,Low,Closed,02-02-2026,07-02-2026,5,Yes,Phone
+576,783,Payment Issue,Low,Closed,02-06-2023,06-06-2023,4,Yes,Web Form
+577,240,Service Outage,Medium,Open,04-01-2025,,,Yes,Phone
+578,209,Meter Problem,Medium,Open,07-10-2023,,,Yes,Phone
+579,61,General Query,Medium,Open,06-02-2024,,,Yes,Email
+580,330,Meter Problem,Medium,Closed,13-05-2024,16-05-2024,3,No,Phone
+581,283,Billing Issue,Low,Open,25-12-2023,,,Yes,Phone
+582,957,Payment Issue,Low,Closed,26-09-2023,28-09-2023,2,No,Phone
+583,900,Service Outage,Medium,Closed,22-05-2023,25-05-2023,3,No,Web Form
+584,146,Payment Issue,Low,Closed,01-03-2023,03-03-2023,2,No,Phone
+585,853,Service Outage,High,Closed,13-10-2023,17-10-2023,4,Yes,Phone
+586,93,Service Outage,Medium,Closed,19-04-2026,24-04-2026,5,Yes,Phone
+587,827,Billing Issue,Low,Open,12-01-2026,,,Yes,Email
+588,564,General Query,Low,Closed,14-03-2023,19-03-2023,5,Yes,Email
+589,942,Meter Problem,High,Closed,04-06-2025,08-06-2025,4,Yes,Phone
+590,723,Billing Issue,High,Open,02-03-2023,,,Yes,Phone
+591,39,Payment Issue,Medium,Open,13-02-2026,,,Yes,Phone
+592,418,General Query,Low,Closed,08-12-2025,10-12-2025,2,No,Email
+593,295,Service Outage,Low,Closed,11-10-2025,16-10-2025,5,Yes,Phone
+594,741,Payment Issue,Low,Closed,12-12-2023,16-12-2023,4,Yes,Phone
+595,77,Payment Issue,Medium,Closed,26-05-2024,30-05-2024,4,Yes,Email
+596,671,Meter Problem,Low,Open,11-10-2024,,,Yes,Phone
+597,931,Billing Issue,Medium,Closed,23-05-2023,25-05-2023,2,No,Web Form
+598,58,General Query,Medium,Open,06-08-2026,,,No,Web Form
+599,820,Payment Issue,High,Closed,22-04-2025,25-04-2025,3,Yes,Email
+600,844,Billing Issue,High,Closed,27-03-2024,28-03-2024,1,Yes,Web Form
+601,410,Meter Problem,Medium,Open,20-07-2025,,,Yes,Email
+602,636,General Query,High,Closed,05-12-2025,08-12-2025,3,Yes,Phone
+603,613,Payment Issue,Low,Closed,22-03-2024,23-03-2024,1,No,Web Form
+604,472,Service Outage,Medium,Closed,03-01-2024,05-01-2024,2,No,Phone
+605,201,Billing Issue,High,Closed,07-01-2024,10-01-2024,3,Yes,Web Form
+606,983,General Query,High,Open,13-11-2026,,,Yes,Web Form
+607,527,Billing Issue,High,Closed,11-06-2023,12-06-2023,1,Yes,Phone
+608,189,Service Outage,Medium,Closed,17-12-2025,18-12-2025,1,No,Email
+609,31,Payment Issue,Low,Closed,20-11-2024,21-11-2024,1,No,Email
+610,496,Service Outage,Low,Closed,10-11-2024,11-11-2024,1,No,Phone
+611,53,Billing Issue,High,Open,08-02-2026,,,Yes,Phone
+612,338,Payment Issue,High,Open,09-03-2025,,,Yes,Web Form
+613,311,General Query,High,Open,22-11-2026,,,Yes,Web Form
+614,211,General Query,High,Closed,06-07-2023,10-07-2023,4,Yes,Phone
+615,127,Service Outage,Medium,Open,18-05-2025,,,Yes,Web Form
+616,463,Meter Problem,High,Open,06-12-2024,,,Yes,Web Form
+617,102,Payment Issue,Low,Closed,12-10-2023,13-10-2023,1,No,Email
+618,460,Billing Issue,High,Open,28-08-2025,,,Yes,Email
+619,671,Billing Issue,Medium,Closed,20-01-2023,21-01-2023,1,No,Email
+620,479,Meter Problem,Low,Closed,27-12-2024,01-01-2025,5,Yes,Web Form
+621,334,Service Outage,Medium,Closed,17-08-2025,20-08-2025,3,No,Phone
+622,475,Service Outage,Medium,Closed,15-07-2025,20-07-2025,5,Yes,Email
+623,13,Service Outage,Medium,Closed,07-10-2025,11-10-2025,4,Yes,Web Form
+624,237,General Query,High,Closed,22-12-2026,24-12-2026,2,Yes,Web Form
+625,308,General Query,Medium,Open,12-01-2025,,,Yes,Email
+626,187,General Query,High,Closed,18-04-2024,22-04-2024,4,Yes,Phone
+627,698,Service Outage,High,Closed,26-04-2024,27-04-2024,1,Yes,Web Form
+628,770,Payment Issue,Medium,Closed,14-12-2023,19-12-2023,5,Yes,Phone
+629,85,Service Outage,Medium,Closed,22-04-2025,23-04-2025,1,No,Web Form
+630,13,Billing Issue,High,Open,04-01-2026,,,Yes,Phone
+631,722,Payment Issue,High,Closed,06-03-2024,11-03-2024,5,Yes,Phone
+632,230,Service Outage,High,Closed,28-12-2026,01-01-2027,4,Yes,Web Form
+633,399,Payment Issue,Medium,Closed,10-01-2024,11-01-2024,1,No,Web Form
+634,240,Service Outage,High,Closed,25-05-2025,29-05-2025,4,Yes,Email
+635,835,Service Outage,Low,Open,09-03-2025,,,Yes,Web Form
+636,710,Payment Issue,Medium,Closed,06-06-2024,10-06-2024,4,Yes,Web Form
+637,246,Meter Problem,Medium,Open,17-04-2026,,,No,Email
+638,97,Payment Issue,Low,Open,22-03-2023,,,Yes,Web Form
+639,544,Service Outage,Low,Closed,01-01-2023,03-01-2023,2,No,Email
+640,924,Service Outage,Medium,Closed,04-06-2026,09-06-2026,5,Yes,Email
+641,389,Meter Problem,High,Open,06-02-2023,,,Yes,Web Form
+642,111,Billing Issue,Medium,Open,13-01-2023,,,Yes,Web Form
+643,575,Meter Problem,Low,Closed,05-02-2026,06-02-2026,1,No,Web Form
+644,903,Service Outage,Medium,Closed,21-11-2025,24-11-2025,3,No,Phone
+645,529,Service Outage,Medium,Open,04-08-2024,,,Yes,Phone
+646,737,Service Outage,High,Closed,27-05-2026,28-05-2026,1,Yes,Email
+647,923,Meter Problem,High,Closed,20-09-2024,22-09-2024,2,Yes,Phone
+648,953,General Query,High,Closed,11-05-2023,15-05-2023,4,Yes,Web Form
+649,339,Meter Problem,High,Closed,06-05-2024,10-05-2024,4,Yes,Email
+650,369,General Query,Medium,Open,12-11-2023,,,Yes,Email
+651,571,Meter Problem,High,Open,11-02-2023,,,Yes,Phone
+652,328,Meter Problem,Medium,Closed,07-02-2024,08-02-2024,1,No,Phone
+653,632,Payment Issue,Low,Open,10-01-2025,,,Yes,Web Form
+654,31,Service Outage,High,Closed,06-11-2024,11-11-2024,5,Yes,Web Form
+655,683,Billing Issue,Low,Open,02-06-2023,,,Yes,Phone
+656,809,Service Outage,Medium,Closed,03-06-2025,07-06-2025,4,Yes,Web Form
+657,41,Payment Issue,Medium,Open,07-06-2023,,,Yes,Web Form
+658,700,Service Outage,Medium,Open,21-01-2026,,,Yes,Phone
+659,233,Payment Issue,Low,Open,06-12-2023,,,Yes,Web Form
+660,326,Service Outage,Low,Closed,28-08-2025,01-09-2025,4,Yes,Web Form
+661,198,Meter Problem,High,Closed,17-06-2024,22-06-2024,5,Yes,Email
+662,510,Billing Issue,Low,Open,16-07-2025,,,Yes,Email
+663,385,Billing Issue,Medium,Open,01-08-2024,,,Yes,Web Form
+664,592,Meter Problem,High,Open,08-03-2024,,,Yes,Web Form
+665,895,Service Outage,High,Closed,09-02-2024,10-02-2024,1,Yes,Web Form
+666,951,Service Outage,Medium,Closed,22-06-2024,26-06-2024,4,Yes,Email
+667,769,Service Outage,High,Closed,20-12-2026,24-12-2026,4,Yes,Phone
+668,10,General Query,Medium,Closed,19-10-2024,24-10-2024,5,Yes,Web Form
+669,145,Meter Problem,High,Open,07-09-2026,,,Yes,Email
+670,898,Billing Issue,High,Open,09-10-2023,,,Yes,Phone
+671,263,Billing Issue,High,Closed,24-06-2023,26-06-2023,2,Yes,Phone
+672,277,Billing Issue,Low,Closed,13-11-2024,15-11-2024,2,No,Web Form
+673,305,Meter Problem,High,Closed,28-03-2026,30-03-2026,2,Yes,Phone
+674,610,Meter Problem,Low,Open,13-08-2025,,,Yes,Email
+675,411,Payment Issue,High,Closed,23-05-2025,27-05-2025,4,Yes,Email
+676,479,Meter Problem,Low,Closed,04-07-2023,09-07-2023,5,Yes,Web Form
+677,878,General Query,Low,Closed,22-09-2024,26-09-2024,4,Yes,Email
+678,761,Meter Problem,Medium,Open,27-11-2026,,,No,Email
+679,644,Billing Issue,Low,Closed,22-05-2026,25-05-2026,3,No,Web Form
+680,70,Service Outage,Low,Open,07-08-2025,,,Yes,Email
+681,523,Payment Issue,Low,Closed,17-03-2024,22-03-2024,5,Yes,Web Form
+682,553,Meter Problem,Low,Closed,22-11-2025,23-11-2025,1,No,Web Form
+683,242,Meter Problem,Medium,Closed,06-11-2024,11-11-2024,5,Yes,Phone
+684,61,General Query,High,Closed,23-08-2024,27-08-2024,4,Yes,Email
+685,626,General Query,Medium,Closed,12-04-2026,16-04-2026,4,Yes,Web Form
+686,310,General Query,Medium,Closed,13-05-2025,15-05-2025,2,No,Email
+687,646,Payment Issue,Low,Closed,27-02-2023,28-02-2023,1,No,Email
+688,922,General Query,Low,Open,19-03-2025,,,Yes,Email
+689,358,Payment Issue,Medium,Closed,13-12-2025,15-12-2025,2,No,Web Form
+690,8,Meter Problem,Medium,Closed,24-06-2024,25-06-2024,1,No,Web Form
+691,71,Billing Issue,High,Closed,18-08-2024,20-08-2024,2,Yes,Email
+692,46,General Query,Medium,Open,18-08-2026,,,No,Web Form
+693,867,Billing Issue,Low,Closed,11-01-2023,16-01-2023,5,Yes,Email
+694,872,Service Outage,High,Open,12-02-2024,,,Yes,Phone
+695,666,Service Outage,Medium,Closed,25-11-2025,30-11-2025,5,Yes,Phone
+696,176,Meter Problem,High,Open,03-01-2025,,,Yes,Web Form
+697,26,Billing Issue,High,Closed,07-08-2023,09-08-2023,2,Yes,Web Form
+698,517,Meter Problem,High,Open,05-03-2026,,,Yes,Email
+699,434,Payment Issue,Low,Open,08-01-2026,,,Yes,Web Form
+700,211,General Query,Low,Closed,13-04-2023,15-04-2023,2,No,Phone
+701,59,Billing Issue,Medium,Closed,14-09-2025,15-09-2025,1,No,Phone
+702,23,Meter Problem,Low,Closed,28-03-2023,29-03-2023,1,No,Web Form
+703,871,Service Outage,Low,Closed,05-04-2023,06-04-2023,1,No,Email
+704,132,Payment Issue,High,Open,05-06-2026,,,Yes,Phone
+705,509,General Query,Medium,Closed,19-10-2025,20-10-2025,1,No,Phone
+706,694,Meter Problem,Low,Closed,05-08-2025,07-08-2025,2,No,Phone
+707,613,Meter Problem,High,Open,17-03-2026,,,Yes,Email
+708,110,Billing Issue,Low,Closed,21-10-2025,24-10-2025,3,No,Phone
+709,295,Billing Issue,High,Open,16-02-2026,,,Yes,Phone
+710,314,Service Outage,Low,Closed,22-02-2025,27-02-2025,5,Yes,Phone
+711,662,General Query,Low,Closed,10-11-2025,11-11-2025,1,No,Phone
+712,895,Service Outage,High,Open,28-09-2026,,,Yes,Email
+713,933,Billing Issue,Medium,Closed,01-05-2026,05-05-2026,4,Yes,Email
+714,753,Service Outage,Low,Open,08-06-2023,,,Yes,Phone
+715,548,Billing Issue,Medium,Closed,12-07-2026,14-07-2026,2,No,Email
+716,957,Payment Issue,Low,Closed,02-05-2024,04-05-2024,2,No,Phone
+717,45,Service Outage,High,Closed,25-01-2026,26-01-2026,1,Yes,Web Form
+718,682,Payment Issue,Low,Open,23-10-2024,,,Yes,Phone
+719,510,Service Outage,High,Closed,23-08-2023,27-08-2023,4,Yes,Phone
+720,181,Meter Problem,High,Closed,11-08-2024,15-08-2024,4,Yes,Web Form
+721,783,Billing Issue,Low,Open,24-04-2025,,,Yes,Phone
+722,292,Service Outage,Medium,Open,14-01-2024,,,Yes,Phone
+723,211,Billing Issue,Low,Closed,02-07-2025,07-07-2025,5,Yes,Phone
+724,888,Service Outage,High,Closed,03-03-2025,07-03-2025,4,Yes,Web Form
+725,904,Payment Issue,Low,Closed,12-08-2025,15-08-2025,3,No,Email
+726,890,General Query,Medium,Open,17-09-2024,,,Yes,Web Form
+727,647,Payment Issue,Low,Open,23-09-2025,,,Yes,Email
+728,334,General Query,Medium,Open,05-08-2025,,,Yes,Email
+729,970,General Query,High,Closed,27-05-2025,29-05-2025,2,Yes,Email
+730,560,Meter Problem,Low,Closed,02-01-2026,03-01-2026,1,No,Email
+731,191,Billing Issue,Medium,Closed,09-06-2023,12-06-2023,3,No,Web Form
+732,638,Billing Issue,Medium,Closed,25-06-2026,27-06-2026,2,No,Email
+733,856,General Query,High,Closed,05-06-2024,07-06-2024,2,Yes,Email
+734,854,General Query,Medium,Closed,14-01-2025,17-01-2025,3,No,Email
+735,708,Service Outage,Medium,Closed,02-10-2026,05-10-2026,3,No,Web Form
+736,616,Service Outage,Medium,Closed,03-10-2024,05-10-2024,2,No,Email
+737,134,Payment Issue,Low,Open,01-04-2025,,,Yes,Phone
+738,112,Service Outage,High,Closed,15-11-2025,16-11-2025,1,Yes,Phone
+739,196,Billing Issue,High,Open,08-01-2025,,,Yes,Phone
+740,522,General Query,High,Closed,26-06-2023,01-07-2023,5,Yes,Phone
+741,782,General Query,Medium,Open,08-10-2024,,,Yes,Phone
+742,319,Meter Problem,Low,Open,13-11-2023,,,Yes,Phone
+743,959,Service Outage,Low,Open,19-03-2023,,,Yes,Email
+744,566,Billing Issue,High,Closed,18-08-2023,22-08-2023,4,Yes,Web Form
+745,740,Meter Problem,Medium,Closed,18-04-2024,20-04-2024,2,No,Email
+746,841,Service Outage,High,Closed,15-01-2026,17-01-2026,2,Yes,Web Form
+747,723,Payment Issue,Medium,Closed,23-06-2024,24-06-2024,1,No,Web Form
+748,931,Service Outage,High,Open,06-06-2025,,,Yes,Phone
+749,106,Service Outage,High,Closed,25-04-2024,30-04-2024,5,Yes,Phone
+750,264,General Query,Low,Closed,26-04-2023,27-04-2023,1,No,Email
+751,222,Service Outage,Medium,Open,02-09-2024,,,Yes,Email
+752,68,General Query,High,Open,22-08-2025,,,Yes,Phone
+753,326,General Query,Low,Open,04-06-2025,,,Yes,Phone
+754,76,Billing Issue,Medium,Open,06-06-2023,,,Yes,Phone
+755,752,Service Outage,Low,Open,04-12-2026,,,No,Email
+756,809,Billing Issue,High,Closed,15-08-2025,18-08-2025,3,Yes,Web Form
+757,221,General Query,Medium,Closed,18-12-2026,19-12-2026,1,No,Web Form
+758,971,Service Outage,Medium,Closed,14-10-2024,16-10-2024,2,No,Phone
+759,431,General Query,Medium,Closed,10-12-2024,14-12-2024,4,Yes,Phone
+760,832,General Query,Medium,Closed,09-06-2024,12-06-2024,3,No,Phone
+761,43,Meter Problem,Medium,Closed,15-06-2023,17-06-2023,2,No,Phone
+762,458,Billing Issue,High,Open,12-11-2024,,,Yes,Email
+763,981,Billing Issue,Low,Closed,01-10-2024,03-10-2024,2,No,Web Form
+764,728,Meter Problem,Medium,Open,12-03-2023,,,Yes,Web Form
+765,575,Billing Issue,Medium,Closed,21-04-2025,24-04-2025,3,No,Web Form
+766,921,Service Outage,High,Closed,07-01-2024,08-01-2024,1,Yes,Phone
+767,94,Service Outage,Medium,Closed,13-01-2024,15-01-2024,2,No,Email
+768,113,Billing Issue,Low,Closed,03-03-2024,06-03-2024,3,No,Email
+769,903,Service Outage,Low,Closed,09-11-2024,13-11-2024,4,Yes,Phone
+770,27,Billing Issue,Medium,Closed,23-05-2025,28-05-2025,5,Yes,Phone
+771,234,Billing Issue,Medium,Open,08-01-2024,,,Yes,Phone
+772,82,Billing Issue,High,Closed,07-12-2026,09-12-2026,2,Yes,Web Form
+773,441,General Query,Medium,Open,15-05-2025,,,Yes,Phone
+774,188,Payment Issue,Low,Closed,11-10-2024,16-10-2024,5,Yes,Web Form
+775,532,Service Outage,Low,Closed,24-02-2023,27-02-2023,3,No,Web Form
+776,718,General Query,Medium,Closed,03-08-2026,04-08-2026,1,No,Email
+777,640,Billing Issue,High,Open,09-04-2023,,,Yes,Phone
+778,335,Billing Issue,Medium,Closed,25-01-2023,28-01-2023,3,No,Phone
+779,210,Service Outage,High,Open,07-02-2023,,,Yes,Phone
+780,800,General Query,Low,Closed,07-07-2023,10-07-2023,3,No,Email
+781,421,Payment Issue,Medium,Closed,24-01-2024,29-01-2024,5,Yes,Web Form
+782,197,Meter Problem,Medium,Closed,06-04-2023,09-04-2023,3,No,Web Form
+783,466,General Query,High,Closed,27-05-2025,28-05-2025,1,Yes,Email
+784,475,General Query,Low,Closed,01-10-2025,04-10-2025,3,No,Phone
+785,510,Payment Issue,High,Closed,19-04-2025,22-04-2025,3,Yes,Phone
+786,706,General Query,Low,Open,05-02-2024,,,Yes,Phone
+787,102,Billing Issue,High,Closed,02-10-2024,07-10-2024,5,Yes,Email
+788,236,Payment Issue,High,Closed,14-09-2024,15-09-2024,1,Yes,Web Form
+789,652,Billing Issue,High,Closed,24-11-2026,25-11-2026,1,Yes,Web Form
+790,362,Billing Issue,Low,Closed,07-07-2026,12-07-2026,5,Yes,Email
+791,712,Service Outage,High,Open,22-05-2026,,,Yes,Email
+792,23,Payment Issue,High,Open,06-08-2024,,,Yes,Phone
+793,882,Meter Problem,Low,Open,14-05-2025,,,Yes,Web Form
+794,611,General Query,High,Open,18-12-2023,,,Yes,Web Form
+795,325,Meter Problem,Low,Open,10-11-2025,,,Yes,Email
+796,272,Billing Issue,Medium,Closed,06-05-2023,09-05-2023,3,No,Phone
+797,410,Billing Issue,High,Closed,09-04-2024,11-04-2024,2,Yes,Phone
+798,175,Payment Issue,Low,Open,22-05-2025,,,Yes,Phone
+799,594,Meter Problem,Low,Closed,21-02-2026,25-02-2026,4,Yes,Email
+800,86,Billing Issue,Low,Closed,23-03-2026,24-03-2026,1,No,Web Form
+801,654,Service Outage,High,Open,23-04-2023,,,Yes,Email
+802,449,Payment Issue,High,Closed,17-06-2024,18-06-2024,1,Yes,Email
+803,81,General Query,Medium,Open,10-05-2025,,,Yes,Email
+804,540,Meter Problem,Low,Open,09-12-2026,,,No,Email
+805,188,Meter Problem,Low,Open,20-06-2024,,,Yes,Email
+806,161,Payment Issue,High,Closed,07-04-2023,08-04-2023,1,Yes,Phone
+807,25,Billing Issue,Low,Open,26-09-2023,,,Yes,Phone
+808,44,Service Outage,High,Open,27-10-2023,,,Yes,Phone
+809,861,Service Outage,Medium,Closed,18-08-2023,21-08-2023,3,No,Email
+810,562,General Query,Low,Closed,26-12-2023,28-12-2023,2,No,Phone
+811,813,Billing Issue,Low,Closed,19-05-2024,22-05-2024,3,No,Email
+812,179,Service Outage,Low,Open,04-09-2025,,,Yes,Web Form
+813,70,General Query,Medium,Open,27-06-2026,,,No,Phone
+814,776,Meter Problem,Medium,Open,12-05-2025,,,Yes,Web Form
+815,97,Payment Issue,Medium,Closed,16-02-2023,17-02-2023,1,No,Email
+816,168,Meter Problem,Medium,Closed,18-02-2024,21-02-2024,3,No,Web Form
+817,441,General Query,Low,Closed,24-03-2026,28-03-2026,4,Yes,Phone
+818,594,Service Outage,Low,Open,27-03-2024,,,Yes,Phone
+819,200,Billing Issue,High,Closed,08-03-2025,10-03-2025,2,Yes,Phone
+820,286,General Query,Medium,Closed,22-12-2026,25-12-2026,3,No,Email
+821,356,Meter Problem,Medium,Closed,04-05-2026,09-05-2026,5,Yes,Phone
+822,461,Billing Issue,High,Closed,07-12-2026,12-12-2026,5,Yes,Web Form
+823,606,Service Outage,High,Closed,12-06-2026,17-06-2026,5,Yes,Email
+824,844,Service Outage,High,Closed,06-12-2023,08-12-2023,2,Yes,Web Form
+825,816,Payment Issue,High,Closed,16-04-2025,17-04-2025,1,Yes,Email
+826,755,Payment Issue,Medium,Open,14-12-2026,,,No,Email
+827,942,Payment Issue,Low,Closed,14-06-2026,18-06-2026,4,Yes,Web Form
+828,44,Meter Problem,High,Open,27-11-2023,,,Yes,Phone
+829,894,Meter Problem,High,Open,13-12-2024,,,Yes,Email
+830,957,General Query,Medium,Closed,15-05-2024,16-05-2024,1,No,Email
+831,886,General Query,Low,Open,12-05-2023,,,Yes,Email
+832,237,General Query,Low,Closed,19-03-2024,22-03-2024,3,No,Phone
+833,869,Service Outage,High,Closed,05-07-2023,06-07-2023,1,Yes,Web Form
+834,230,Service Outage,Medium,Open,01-09-2025,,,Yes,Web Form
+835,872,Billing Issue,High,Closed,28-02-2023,03-03-2023,3,Yes,Web Form
+836,271,Meter Problem,Low,Closed,05-09-2024,09-09-2024,4,Yes,Email
+837,752,Service Outage,Medium,Closed,05-08-2023,10-08-2023,5,Yes,Phone
+838,279,Payment Issue,Low,Open,10-04-2023,,,Yes,Email
+839,472,General Query,High,Closed,23-08-2024,28-08-2024,5,Yes,Web Form
+840,69,General Query,Medium,Closed,20-03-2025,21-03-2025,1,No,Email
+841,576,Service Outage,Low,Open,20-05-2023,,,Yes,Phone
+842,147,Meter Problem,High,Closed,28-12-2024,30-12-2024,2,Yes,Email
+843,538,Service Outage,Low,Closed,13-09-2026,14-09-2026,1,No,Phone
+844,885,Payment Issue,Low,Open,10-12-2023,,,Yes,Phone
+845,781,Billing Issue,High,Closed,07-01-2025,12-01-2025,5,Yes,Web Form
+846,535,Meter Problem,High,Open,04-06-2024,,,Yes,Web Form
+847,637,Service Outage,Low,Closed,07-12-2024,10-12-2024,3,No,Web Form
+848,966,Payment Issue,High,Closed,28-12-2024,31-12-2024,3,Yes,Phone
+849,688,Service Outage,High,Open,19-11-2023,,,Yes,Email
+850,561,Service Outage,Medium,Open,02-05-2025,,,Yes,Phone
+851,315,Billing Issue,Low,Open,02-06-2023,,,Yes,Email
+852,893,Billing Issue,Medium,Open,15-08-2023,,,Yes,Phone
+853,668,Meter Problem,Low,Closed,19-11-2024,22-11-2024,3,No,Web Form
+854,823,Billing Issue,Medium,Closed,28-08-2026,31-08-2026,3,No,Phone
+855,99,Payment Issue,Medium,Closed,05-12-2026,06-12-2026,1,No,Web Form
+856,205,General Query,Low,Closed,02-09-2023,06-09-2023,4,Yes,Email
+857,800,Payment Issue,Low,Open,20-10-2026,,,No,Email
+858,780,Billing Issue,Medium,Closed,18-06-2024,20-06-2024,2,No,Web Form
+859,547,General Query,High,Open,01-03-2023,,,Yes,Web Form
+860,967,Meter Problem,High,Open,03-12-2025,,,Yes,Email
+861,506,Billing Issue,Low,Closed,24-09-2023,28-09-2023,4,Yes,Web Form
+862,797,Meter Problem,High,Closed,21-07-2024,25-07-2024,4,Yes,Email
+863,337,Payment Issue,High,Open,21-08-2025,,,Yes,Phone
+864,445,Billing Issue,Low,Open,23-01-2025,,,Yes,Web Form
+865,221,Payment Issue,High,Closed,25-04-2023,26-04-2023,1,Yes,Email
+866,534,Service Outage,Medium,Closed,22-09-2023,25-09-2023,3,No,Email
+867,312,Meter Problem,Low,Closed,25-05-2023,29-05-2023,4,Yes,Email
+868,781,Service Outage,Medium,Closed,25-01-2025,26-01-2025,1,No,Email
+869,451,Meter Problem,High,Closed,23-02-2026,27-02-2026,4,Yes,Phone
+870,472,Billing Issue,Low,Open,26-06-2023,,,Yes,Web Form
+871,669,Meter Problem,Medium,Closed,02-06-2024,05-06-2024,3,No,Email
+872,90,General Query,Low,Closed,23-10-2025,28-10-2025,5,Yes,Phone
+873,490,Billing Issue,High,Open,28-08-2024,,,Yes,Phone
+874,281,Billing Issue,Low,Closed,28-12-2023,01-01-2024,4,Yes,Email
+875,492,Service Outage,High,Closed,15-10-2026,19-10-2026,4,Yes,Web Form
+876,769,Payment Issue,Medium,Closed,14-10-2025,16-10-2025,2,No,Phone
+877,79,Payment Issue,Low,Closed,19-11-2023,21-11-2023,2,No,Phone
+878,986,General Query,Medium,Closed,18-12-2025,23-12-2025,5,Yes,Email
+879,404,General Query,Low,Closed,06-10-2024,09-10-2024,3,No,Email
+880,624,Meter Problem,Medium,Closed,19-10-2026,22-10-2026,3,No,Email
+881,936,Meter Problem,Medium,Open,05-07-2025,,,Yes,Web Form
+882,206,Meter Problem,Low,Closed,11-08-2025,15-08-2025,4,Yes,Email
+883,209,Service Outage,High,Closed,19-03-2026,23-03-2026,4,Yes,Phone
+884,257,Billing Issue,Medium,Open,20-07-2024,,,Yes,Phone
+885,99,Billing Issue,Low,Open,24-12-2026,,,No,Web Form
+886,453,Payment Issue,Low,Open,01-01-2025,,,Yes,Email
+887,203,General Query,Low,Closed,26-01-2026,27-01-2026,1,No,Email
+888,741,General Query,Low,Closed,01-12-2026,04-12-2026,3,No,Web Form
+889,421,Service Outage,High,Closed,01-01-2026,03-01-2026,2,Yes,Email
+890,662,Payment Issue,Medium,Open,21-02-2024,,,Yes,Phone
+891,859,Meter Problem,High,Closed,03-01-2026,05-01-2026,2,Yes,Email
+892,354,General Query,Low,Closed,14-10-2024,19-10-2024,5,Yes,Web Form
+893,887,Service Outage,Low,Closed,19-06-2023,22-06-2023,3,No,Web Form
+894,439,Billing Issue,High,Closed,16-04-2026,17-04-2026,1,Yes,Web Form
+895,212,Service Outage,High,Open,14-12-2023,,,Yes,Phone
+896,817,Service Outage,Low,Closed,18-08-2023,19-08-2023,1,No,Email
+897,714,Payment Issue,Medium,Closed,12-05-2023,13-05-2023,1,No,Email
+898,317,General Query,Low,Open,10-09-2024,,,Yes,Phone
+899,83,Service Outage,Low,Open,13-11-2024,,,Yes,Phone
+900,860,Billing Issue,Low,Closed,26-01-2024,27-01-2024,1,No,Phone
+901,173,General Query,Low,Open,21-02-2026,,,Yes,Phone
+902,828,General Query,Low,Closed,08-07-2023,11-07-2023,3,No,Phone
+903,777,General Query,Low,Closed,28-11-2023,02-12-2023,4,Yes,Web Form
+904,946,Meter Problem,Low,Open,03-09-2026,,,No,Web Form
+905,903,Service Outage,High,Open,09-03-2026,,,Yes,Email
+906,113,Meter Problem,Medium,Closed,02-03-2023,07-03-2023,5,Yes,Web Form
+907,651,Meter Problem,Low,Closed,02-01-2023,06-01-2023,4,Yes,Email
+908,571,Meter Problem,Medium,Closed,11-01-2025,14-01-2025,3,No,Phone
+909,440,Service Outage,High,Closed,22-08-2024,24-08-2024,2,Yes,Email
+910,284,Payment Issue,High,Open,19-12-2024,,,Yes,Phone
+911,328,Billing Issue,High,Closed,06-08-2023,11-08-2023,5,Yes,Web Form
+912,549,Billing Issue,Medium,Closed,04-01-2023,08-01-2023,4,Yes,Web Form
+913,209,Billing Issue,Low,Closed,23-01-2023,26-01-2023,3,No,Phone
+914,719,General Query,High,Open,03-02-2025,,,Yes,Email
+915,374,Payment Issue,Medium,Open,08-07-2024,,,Yes,Web Form
+916,497,General Query,Medium,Closed,21-07-2024,26-07-2024,5,Yes,Email
+917,842,Payment Issue,High,Closed,04-02-2023,06-02-2023,2,Yes,Web Form
+918,402,Billing Issue,Low,Closed,14-03-2024,18-03-2024,4,Yes,Email
+919,145,Payment Issue,Medium,Closed,11-03-2026,16-03-2026,5,Yes,Email
+920,134,Billing Issue,Medium,Closed,14-09-2025,19-09-2025,5,Yes,Phone
+921,501,Payment Issue,Medium,Open,23-06-2026,,,No,Web Form
+922,177,Billing Issue,Medium,Closed,17-05-2024,20-05-2024,3,No,Web Form
+923,583,General Query,Low,Closed,27-06-2025,02-07-2025,5,Yes,Phone
+924,433,Payment Issue,High,Closed,09-04-2023,11-04-2023,2,Yes,Email
+925,437,Billing Issue,Low,Closed,02-09-2023,05-09-2023,3,No,Phone
+926,50,Service Outage,Low,Closed,03-06-2023,04-06-2023,1,No,Web Form
+927,684,Billing Issue,High,Closed,21-01-2024,23-01-2024,2,Yes,Web Form
+928,206,General Query,Low,Closed,11-05-2023,14-05-2023,3,No,Phone
+929,870,Billing Issue,Medium,Open,27-08-2026,,,No,Web Form
+930,778,General Query,Low,Closed,19-08-2025,24-08-2025,5,Yes,Phone
+931,160,Service Outage,Low,Closed,06-10-2023,10-10-2023,4,Yes,Phone
+932,175,Billing Issue,Medium,Closed,19-08-2026,21-08-2026,2,No,Web Form
+933,22,Meter Problem,Low,Closed,19-12-2025,24-12-2025,5,Yes,Phone
+934,790,Meter Problem,Low,Closed,24-11-2023,29-11-2023,5,Yes,Phone
+935,605,General Query,Low,Open,11-07-2025,,,Yes,Web Form
+936,966,Meter Problem,High,Closed,02-04-2025,05-04-2025,3,Yes,Email
+937,757,Meter Problem,Medium,Closed,11-01-2025,15-01-2025,4,Yes,Web Form
+938,190,Payment Issue,High,Open,19-12-2024,,,Yes,Email
+939,494,Billing Issue,Medium,Open,08-02-2023,,,Yes,Email
+940,770,Meter Problem,Low,Closed,08-05-2026,10-05-2026,2,No,Phone
+941,866,Billing Issue,High,Closed,21-04-2023,26-04-2023,5,Yes,Phone
+942,611,Service Outage,Medium,Closed,22-03-2025,27-03-2025,5,Yes,Email
+943,694,Meter Problem,High,Closed,26-07-2025,31-07-2025,5,Yes,Phone
+944,616,Service Outage,Medium,Closed,08-12-2025,13-12-2025,5,Yes,Email
+945,345,Meter Problem,Medium,Closed,14-05-2025,19-05-2025,5,Yes,Email
+946,382,Payment Issue,High,Closed,27-09-2026,02-10-2026,5,Yes,Phone
+947,406,General Query,Low,Open,15-04-2026,,,Yes,Email
+948,790,Billing Issue,Medium,Closed,09-03-2025,12-03-2025,3,No,Phone
+949,494,Service Outage,High,Open,22-08-2026,,,Yes,Email
+950,560,General Query,High,Open,03-05-2025,,,Yes,Web Form
+951,705,Service Outage,Low,Closed,07-05-2025,09-05-2025,2,No,Email
+952,286,Service Outage,High,Open,11-07-2026,,,Yes,Email
+953,121,Payment Issue,High,Closed,04-07-2024,06-07-2024,2,Yes,Phone
+954,213,Billing Issue,High,Open,16-06-2026,,,Yes,Web Form
+955,918,General Query,Medium,Open,20-11-2026,,,No,Phone
+956,697,Payment Issue,High,Closed,13-03-2025,16-03-2025,3,Yes,Phone
+957,877,General Query,High,Open,01-03-2024,,,Yes,Web Form
+958,9,Service Outage,Medium,Open,24-12-2025,,,Yes,Email
+959,934,Billing Issue,Low,Open,04-03-2024,,,Yes,Phone
+960,74,General Query,High,Closed,06-09-2026,09-09-2026,3,Yes,Email
+961,599,Meter Problem,Medium,Closed,01-05-2024,05-05-2024,4,Yes,Web Form
+962,728,Service Outage,Low,Closed,12-10-2026,14-10-2026,2,No,Web Form
+963,909,Meter Problem,Medium,Closed,16-11-2023,18-11-2023,2,No,Web Form
+964,834,Meter Problem,Low,Open,15-03-2024,,,Yes,Email
+965,788,Service Outage,Medium,Closed,01-01-2026,03-01-2026,2,No,Phone
+966,814,Service Outage,High,Closed,01-06-2026,05-06-2026,4,Yes,Email
+967,21,Service Outage,Low,Closed,15-12-2023,19-12-2023,4,Yes,Phone
+968,240,Service Outage,High,Open,10-01-2025,,,Yes,Phone
+969,299,General Query,Medium,Open,09-07-2025,,,Yes,Web Form
+970,829,Payment Issue,Medium,Open,17-11-2026,,,No,Web Form
+971,906,Service Outage,Low,Open,11-07-2023,,,Yes,Email
+972,774,Payment Issue,High,Closed,16-04-2024,19-04-2024,3,Yes,Web Form
+973,405,Meter Problem,Low,Closed,03-01-2023,07-01-2023,4,Yes,Email
+974,799,Service Outage,High,Closed,10-04-2026,12-04-2026,2,Yes,Email
+975,144,General Query,Medium,Open,07-09-2023,,,Yes,Web Form
+976,182,Meter Problem,High,Closed,20-03-2026,25-03-2026,5,Yes,Email
+977,609,Meter Problem,High,Closed,07-06-2023,10-06-2023,3,Yes,Phone
+978,43,Meter Problem,High,Closed,03-11-2026,07-11-2026,4,Yes,Email
+979,323,Service Outage,Medium,Open,26-06-2026,,,No,Phone
+980,722,General Query,Low,Open,01-03-2025,,,Yes,Email
+981,259,General Query,Medium,Open,06-09-2026,,,No,Email
+982,134,Payment Issue,Low,Open,18-09-2024,,,Yes,Phone
+983,669,Payment Issue,Low,Closed,04-03-2023,05-03-2023,1,No,Phone
+984,37,Payment Issue,Low,Open,15-12-2023,,,Yes,Web Form
+985,709,General Query,High,Closed,26-07-2026,31-07-2026,5,Yes,Phone
+986,187,General Query,Low,Closed,14-01-2026,17-01-2026,3,No,Email
+987,952,Service Outage,Low,Closed,09-02-2024,12-02-2024,3,No,Phone
+988,459,Meter Problem,High,Open,28-02-2025,,,Yes,Email
+989,766,General Query,Low,Open,01-06-2025,,,Yes,Web Form
+990,460,Service Outage,High,Open,03-02-2024,,,Yes,Web Form
+991,741,Payment Issue,Low,Closed,07-02-2025,12-02-2025,5,Yes,Email
+992,504,General Query,Low,Open,07-02-2023,,,Yes,Phone
+993,39,Service Outage,Medium,Closed,18-01-2023,20-01-2023,2,No,Email
+994,100,Meter Problem,Medium,Open,28-07-2026,,,No,Phone
+995,744,General Query,Medium,Open,07-04-2025,,,Yes,Phone
+996,674,Meter Problem,High,Closed,28-03-2023,01-04-2023,4,Yes,Email
+997,718,Service Outage,High,Open,12-02-2025,,,Yes,Email
+998,253,Meter Problem,High,Open,17-10-2024,,,Yes,Phone
+999,171,Payment Issue,Low,Open,15-09-2024,,,Yes,Web Form
+1000,43,Billing Issue,High,Closed,08-11-2024,12-11-2024,4,Yes,Web Form
+1001,419,Payment Issue,Medium,Open,22-08-2023,,,Yes,Web Form
+1002,763,Service Outage,Medium,Closed,04-02-2025,09-02-2025,5,Yes,Phone
+1003,426,General Query,Medium,Closed,19-12-2025,21-12-2025,2,No,Web Form
+1004,818,Meter Problem,High,Closed,10-02-2024,11-02-2024,1,Yes,Email
+1005,532,Billing Issue,Low,Open,04-11-2026,,,No,Phone
+1006,551,Billing Issue,Low,Open,18-01-2023,,,Yes,Email
+1007,155,General Query,Medium,Closed,13-05-2025,17-05-2025,4,Yes,Phone
+1008,713,Billing Issue,High,Closed,09-12-2025,10-12-2025,1,Yes,Email
+1009,128,Billing Issue,Medium,Closed,11-08-2024,14-08-2024,3,No,Web Form
+1010,706,Meter Problem,High,Open,18-09-2023,,,Yes,Phone
+1011,411,Meter Problem,High,Closed,16-02-2026,19-02-2026,3,Yes,Web Form
+1012,690,Meter Problem,Low,Open,13-08-2023,,,Yes,Email
+1013,460,Payment Issue,Low,Closed,14-06-2026,19-06-2026,5,Yes,Email
+1014,451,Meter Problem,High,Open,01-11-2025,,,Yes,Web Form
+1015,401,Billing Issue,Medium,Closed,04-12-2025,05-12-2025,1,No,Email
+1016,921,Payment Issue,Low,Closed,25-05-2026,27-05-2026,2,No,Phone
+1017,693,Payment Issue,Low,Open,06-01-2023,,,Yes,Web Form
+1018,661,Meter Problem,Medium,Open,02-09-2026,,,No,Web Form
+1019,605,Billing Issue,High,Open,09-05-2024,,,Yes,Web Form
+1020,655,Meter Problem,High,Closed,17-03-2026,21-03-2026,4,Yes,Email
+1021,755,Service Outage,High,Closed,04-11-2024,09-11-2024,5,Yes,Web Form
+1022,946,Billing Issue,High,Open,17-10-2024,,,Yes,Email
+1023,566,Meter Problem,Low,Open,27-12-2023,,,Yes,Email
+1024,953,Payment Issue,High,Open,12-09-2023,,,Yes,Web Form
+1025,802,Meter Problem,High,Open,04-12-2025,,,Yes,Email
+1026,769,General Query,Low,Open,27-10-2025,,,Yes,Web Form
+1027,408,Meter Problem,High,Open,10-12-2025,,,Yes,Web Form
+1028,334,Service Outage,Low,Closed,10-01-2025,12-01-2025,2,No,Email
+1029,958,Service Outage,High,Closed,09-05-2023,12-05-2023,3,Yes,Web Form
+1030,829,Billing Issue,High,Closed,18-12-2024,23-12-2024,5,Yes,Phone
+1031,329,Payment Issue,High,Open,15-04-2026,,,Yes,Web Form
+1032,746,Meter Problem,Low,Closed,14-07-2023,18-07-2023,4,Yes,Phone
+1033,890,Service Outage,High,Closed,06-01-2023,11-01-2023,5,Yes,Web Form
+1034,163,Payment Issue,Medium,Closed,11-04-2026,14-04-2026,3,No,Phone
+1035,51,Service Outage,High,Closed,23-07-2024,26-07-2024,3,Yes,Web Form
+1036,600,Payment Issue,Medium,Open,01-12-2024,,,Yes,Email
+1037,308,General Query,High,Closed,23-05-2025,26-05-2025,3,Yes,Web Form
+1038,424,Meter Problem,Medium,Closed,01-09-2023,05-09-2023,4,Yes,Web Form
+1039,377,Payment Issue,Medium,Open,26-01-2024,,,Yes,Email
+1040,591,Service Outage,Medium,Open,02-10-2026,,,No,Web Form
+1041,667,Service Outage,High,Open,05-09-2026,,,Yes,Email
+1042,751,Meter Problem,High,Closed,21-12-2024,22-12-2024,1,Yes,Email
+1043,628,Billing Issue,Low,Closed,15-01-2025,18-01-2025,3,No,Web Form
+1044,103,Billing Issue,Medium,Open,23-04-2023,,,Yes,Phone
+1045,335,Payment Issue,Low,Closed,09-09-2025,14-09-2025,5,Yes,Web Form
+1046,748,Service Outage,Medium,Closed,27-06-2023,02-07-2023,5,Yes,Web Form
+1047,12,General Query,High,Closed,02-05-2025,06-05-2025,4,Yes,Web Form
+1048,810,Service Outage,High,Open,27-05-2023,,,Yes,Web Form
+1049,343,Meter Problem,High,Open,26-11-2026,,,Yes,Phone
+1050,294,Billing Issue,Medium,Closed,16-06-2024,18-06-2024,2,No,Phone
+1051,971,General Query,High,Closed,16-09-2024,21-09-2024,5,Yes,Phone
+1052,235,Meter Problem,Low,Open,07-05-2023,,,Yes,Phone
+1053,338,General Query,Low,Open,28-07-2023,,,Yes,Phone
+1054,300,Service Outage,Low,Closed,15-05-2026,20-05-2026,5,Yes,Phone
+1055,213,Meter Problem,High,Open,07-05-2023,,,Yes,Email
+1056,696,Meter Problem,High,Closed,11-11-2023,13-11-2023,2,Yes,Web Form
+1057,334,Service Outage,High,Open,10-07-2026,,,Yes,Web Form
+1058,149,Meter Problem,High,Open,18-08-2023,,,Yes,Phone
+1059,630,General Query,Medium,Open,15-03-2024,,,Yes,Email
+1060,463,Meter Problem,High,Closed,18-08-2025,21-08-2025,3,Yes,Web Form
+1061,244,Payment Issue,Medium,Closed,13-03-2024,15-03-2024,2,No,Web Form
+1062,222,General Query,High,Closed,14-01-2026,16-01-2026,2,Yes,Email
+1063,899,General Query,Low,Closed,07-11-2025,08-11-2025,1,No,Phone
+1064,592,Billing Issue,High,Closed,02-03-2024,05-03-2024,3,Yes,Phone
+1065,344,General Query,Medium,Closed,03-11-2024,05-11-2024,2,No,Phone
+1066,963,Payment Issue,Medium,Closed,02-01-2023,06-01-2023,4,Yes,Phone
+1067,580,Payment Issue,Low,Closed,03-11-2023,08-11-2023,5,Yes,Phone
+1068,127,Service Outage,Low,Closed,21-01-2026,23-01-2026,2,No,Web Form
+1069,570,Billing Issue,Low,Closed,07-07-2025,10-07-2025,3,No,Email
+1070,925,Service Outage,High,Open,05-04-2026,,,Yes,Web Form
+1071,647,Billing Issue,Medium,Open,24-05-2026,,,No,Web Form
+1072,815,Meter Problem,Low,Open,20-03-2026,,,Yes,Email
+1073,329,Billing Issue,High,Closed,06-04-2025,09-04-2025,3,Yes,Email
+1074,28,Service Outage,Low,Open,08-12-2025,,,Yes,Phone
+1075,360,General Query,Medium,Open,01-12-2026,,,No,Web Form
+1076,189,Meter Problem,High,Closed,21-04-2023,23-04-2023,2,Yes,Phone
+1077,446,Meter Problem,High,Closed,11-03-2024,12-03-2024,1,Yes,Phone
+1078,944,Payment Issue,Low,Open,03-09-2025,,,Yes,Web Form
+1079,814,Payment Issue,High,Open,18-04-2024,,,Yes,Web Form
+1080,347,Meter Problem,High,Closed,15-10-2024,20-10-2024,5,Yes,Email
+1081,914,Service Outage,High,Closed,03-09-2024,06-09-2024,3,Yes,Email
+1082,666,General Query,High,Open,01-11-2024,,,Yes,Email
+1083,553,Service Outage,High,Closed,24-11-2025,27-11-2025,3,Yes,Phone
+1084,870,Billing Issue,Low,Closed,01-12-2026,02-12-2026,1,No,Phone
+1085,46,Billing Issue,Low,Closed,11-11-2025,12-11-2025,1,No,Phone
+1086,908,Billing Issue,Medium,Closed,01-02-2023,02-02-2023,1,No,Phone
+1087,406,Service Outage,High,Open,17-01-2024,,,Yes,Email
+1088,671,Meter Problem,High,Open,17-12-2025,,,Yes,Email
+1089,426,Service Outage,Medium,Open,18-06-2024,,,Yes,Web Form
+1090,219,General Query,Low,Open,16-12-2024,,,Yes,Phone
+1091,50,General Query,Medium,Closed,20-03-2026,23-03-2026,3,No,Web Form
+1092,758,Meter Problem,Low,Closed,24-12-2023,26-12-2023,2,No,Web Form
+1093,440,Meter Problem,High,Open,06-07-2023,,,Yes,Email
+1094,149,Payment Issue,High,Open,11-01-2023,,,Yes,Email
+1095,831,Meter Problem,High,Closed,27-01-2026,28-01-2026,1,Yes,Web Form
+1096,165,Payment Issue,Medium,Closed,15-04-2024,18-04-2024,3,No,Web Form
+1097,74,General Query,High,Open,05-12-2026,,,Yes,Web Form
+1098,31,Meter Problem,High,Open,12-11-2026,,,Yes,Phone
+1099,125,Payment Issue,Medium,Closed,26-05-2023,27-05-2023,1,No,Web Form
+1100,973,Service Outage,Low,Open,11-10-2024,,,Yes,Email
+1101,37,Meter Problem,Low,Closed,01-01-2023,06-01-2023,5,Yes,Email
+1102,856,Payment Issue,High,Open,20-09-2023,,,Yes,Phone
+1103,700,General Query,High,Closed,10-11-2023,15-11-2023,5,Yes,Phone
+1104,164,Payment Issue,Low,Closed,03-10-2024,06-10-2024,3,No,Phone
+1105,707,General Query,Medium,Closed,15-03-2025,19-03-2025,4,Yes,Email
+1106,494,Billing Issue,High,Closed,19-03-2025,24-03-2025,5,Yes,Web Form
+1107,913,Billing Issue,Low,Closed,24-03-2025,28-03-2025,4,Yes,Email
+1108,616,Service Outage,Medium,Open,18-06-2023,,,Yes,Phone
+1109,572,General Query,Low,Open,19-12-2026,,,No,Email
+1110,329,General Query,High,Closed,09-01-2023,10-01-2023,1,Yes,Phone
+1111,594,Meter Problem,Medium,Open,07-12-2026,,,No,Web Form
+1112,340,Payment Issue,High,Closed,27-11-2025,29-11-2025,2,Yes,Phone
+1113,679,Billing Issue,Low,Closed,28-09-2026,01-10-2026,3,No,Phone
+1114,309,Payment Issue,Medium,Open,28-11-2024,,,Yes,Phone
+1115,350,Billing Issue,Medium,Closed,09-11-2024,13-11-2024,4,Yes,Phone
+1116,246,Meter Problem,Low,Closed,04-06-2023,06-06-2023,2,No,Email
+1117,697,Payment Issue,Low,Open,13-01-2023,,,Yes,Email
+1118,756,General Query,High,Open,11-01-2026,,,Yes,Email
+1119,56,Billing Issue,High,Closed,23-11-2026,24-11-2026,1,Yes,Phone
+1120,16,Meter Problem,Low,Closed,27-11-2024,29-11-2024,2,No,Email
+1121,150,Service Outage,Medium,Closed,26-06-2026,28-06-2026,2,No,Web Form
+1122,21,Payment Issue,Medium,Closed,27-12-2025,29-12-2025,2,No,Phone
+1123,281,General Query,Low,Closed,14-02-2026,17-02-2026,3,No,Web Form
+1124,299,Billing Issue,Medium,Closed,21-03-2023,24-03-2023,3,No,Email
+1125,649,Meter Problem,Medium,Open,02-02-2023,,,Yes,Web Form
+1126,156,Billing Issue,Medium,Open,01-12-2026,,,No,Phone
+1127,639,Service Outage,High,Open,19-10-2026,,,Yes,Web Form
+1128,295,Service Outage,High,Closed,11-02-2024,14-02-2024,3,Yes,Email
+1129,406,Billing Issue,High,Closed,23-12-2026,26-12-2026,3,Yes,Phone
+1130,794,Billing Issue,Low,Open,17-06-2024,,,Yes,Web Form
+1131,758,Billing Issue,High,Closed,14-09-2023,18-09-2023,4,Yes,Email
+1132,81,Service Outage,High,Closed,03-06-2024,05-06-2024,2,Yes,Web Form
+1133,759,Billing Issue,Medium,Closed,23-03-2023,27-03-2023,4,Yes,Web Form
+1134,29,Payment Issue,Low,Closed,11-03-2026,16-03-2026,5,Yes,Email
+1135,712,Billing Issue,High,Closed,16-11-2024,20-11-2024,4,Yes,Web Form
+1136,179,Meter Problem,High,Closed,01-07-2025,06-07-2025,5,Yes,Phone
+1137,744,Meter Problem,High,Closed,20-12-2023,22-12-2023,2,Yes,Email
+1138,649,Payment Issue,Medium,Closed,22-02-2025,27-02-2025,5,Yes,Web Form
+1139,800,General Query,Low,Closed,15-04-2023,16-04-2023,1,No,Phone
+1140,305,Meter Problem,Low,Closed,19-07-2025,23-07-2025,4,Yes,Web Form
+1141,892,General Query,Low,Open,08-06-2025,,,Yes,Phone
+1142,470,Meter Problem,High,Closed,13-09-2025,15-09-2025,2,Yes,Web Form
+1143,46,Billing Issue,Low,Open,04-04-2026,,,Yes,Web Form
+1144,692,Payment Issue,Low,Closed,16-06-2025,21-06-2025,5,Yes,Email
+1145,864,Service Outage,Low,Closed,28-04-2026,30-04-2026,2,No,Web Form
+1146,185,Service Outage,High,Open,01-05-2025,,,Yes,Email
+1147,16,General Query,Low,Closed,12-12-2026,16-12-2026,4,Yes,Phone
+1148,137,Payment Issue,Medium,Closed,18-06-2025,19-06-2025,1,No,Phone
+1149,395,Billing Issue,Low,Open,06-12-2025,,,Yes,Email
+1150,558,Billing Issue,High,Closed,20-04-2024,23-04-2024,3,Yes,Phone
+1151,382,Service Outage,High,Closed,18-11-2024,20-11-2024,2,Yes,Web Form
+1152,435,Meter Problem,High,Closed,17-11-2024,20-11-2024,3,Yes,Web Form
+1153,91,Billing Issue,Medium,Closed,22-02-2026,24-02-2026,2,No,Web Form
+1154,358,Meter Problem,Low,Closed,15-03-2025,17-03-2025,2,No,Phone
+1155,637,General Query,Medium,Closed,27-01-2023,31-01-2023,4,Yes,Phone
+1156,460,Billing Issue,Low,Open,13-08-2024,,,Yes,Web Form
+1157,804,Payment Issue,Low,Open,27-11-2025,,,Yes,Phone
+1158,779,Meter Problem,High,Closed,20-10-2025,24-10-2025,4,Yes,Web Form
+1159,561,Service Outage,High,Closed,18-02-2024,20-02-2024,2,Yes,Web Form
+1160,319,Meter Problem,Low,Open,15-07-2024,,,Yes,Phone
+1161,819,General Query,Low,Closed,21-01-2026,24-01-2026,3,No,Phone
+1162,481,Billing Issue,Low,Closed,17-01-2024,19-01-2024,2,No,Web Form
+1163,617,Service Outage,Medium,Closed,20-06-2026,23-06-2026,3,No,Email
+1164,243,Billing Issue,Medium,Closed,04-03-2025,05-03-2025,1,No,Phone
+1165,51,Service Outage,Low,Closed,04-12-2025,05-12-2025,1,No,Email
+1166,795,Meter Problem,Medium,Closed,28-03-2026,31-03-2026,3,No,Email
+1167,608,Payment Issue,Low,Open,07-08-2024,,,Yes,Phone
+1168,383,Meter Problem,High,Open,23-07-2024,,,Yes,Email
+1169,342,General Query,Low,Closed,12-01-2024,14-01-2024,2,No,Phone
+1170,823,General Query,High,Closed,02-07-2023,04-07-2023,2,Yes,Phone
+1171,739,Billing Issue,High,Open,17-09-2025,,,Yes,Web Form
+1172,425,Meter Problem,Medium,Closed,10-12-2025,15-12-2025,5,Yes,Phone
+1173,94,Billing Issue,Low,Open,14-08-2024,,,Yes,Email
+1174,824,Payment Issue,High,Closed,19-03-2024,24-03-2024,5,Yes,Web Form
+1175,105,Payment Issue,High,Closed,24-03-2023,26-03-2023,2,Yes,Email
+1176,400,Service Outage,Medium,Closed,17-12-2026,22-12-2026,5,Yes,Email
+1177,297,Payment Issue,Medium,Closed,13-08-2023,17-08-2023,4,Yes,Phone
+1178,823,General Query,Medium,Open,02-01-2024,,,Yes,Web Form
+1179,364,Payment Issue,Medium,Open,26-07-2025,,,Yes,Web Form
+1180,764,General Query,Low,Closed,08-03-2025,09-03-2025,1,No,Phone
+1181,881,General Query,Medium,Closed,05-12-2023,10-12-2023,5,Yes,Phone
+1182,187,Payment Issue,Low,Closed,17-01-2026,20-01-2026,3,No,Phone
+1183,870,Service Outage,Medium,Open,20-01-2024,,,Yes,Email
+1184,541,Billing Issue,Low,Open,15-12-2025,,,Yes,Web Form
+1185,474,Service Outage,Medium,Closed,06-10-2024,11-10-2024,5,Yes,Email
+1186,865,Billing Issue,Low,Open,23-11-2026,,,No,Email
+1187,507,Payment Issue,Medium,Closed,08-03-2024,12-03-2024,4,Yes,Web Form
+1188,109,Billing Issue,High,Closed,14-12-2024,15-12-2024,1,Yes,Email
+1189,668,Meter Problem,Low,Closed,07-02-2024,10-02-2024,3,No,Phone
+1190,395,Service Outage,Medium,Closed,19-11-2023,20-11-2023,1,No,Email
+1191,924,General Query,High,Open,18-06-2026,,,Yes,Phone
+1192,523,Payment Issue,Low,Open,02-01-2025,,,Yes,Web Form
+1193,867,General Query,Medium,Open,09-09-2024,,,Yes,Web Form
+1194,611,Service Outage,Low,Open,03-07-2025,,,Yes,Web Form
+1195,972,Service Outage,High,Open,24-09-2026,,,Yes,Phone
+1196,842,Meter Problem,Low,Open,11-01-2025,,,Yes,Phone
+1197,3,Payment Issue,High,Closed,08-03-2025,12-03-2025,4,Yes,Web Form
+1198,540,Payment Issue,High,Closed,05-05-2025,06-05-2025,1,Yes,Web Form
+1199,459,General Query,Low,Closed,08-02-2026,10-02-2026,2,No,Phone
+1200,423,Service Outage,High,Closed,28-07-2026,29-07-2026,1,Yes,Email
+1201,522,Billing Issue,High,Closed,24-04-2025,25-04-2025,1,Yes,Web Form
+1202,927,Billing Issue,Low,Closed,06-01-2023,11-01-2023,5,Yes,Phone
+1203,7,Service Outage,Low,Closed,19-03-2023,21-03-2023,2,No,Email
+1204,678,Meter Problem,Low,Closed,10-11-2023,15-11-2023,5,Yes,Email
+1205,757,Payment Issue,Medium,Open,06-12-2025,,,Yes,Email
+1206,532,Service Outage,Medium,Open,18-04-2025,,,Yes,Email
+1207,103,Payment Issue,Low,Open,14-04-2026,,,Yes,Phone
+1208,524,Billing Issue,Medium,Closed,09-04-2023,10-04-2023,1,No,Email
+1209,284,Meter Problem,Low,Closed,19-08-2026,23-08-2026,4,Yes,Email
+1210,460,General Query,High,Open,23-10-2026,,,Yes,Web Form
+1211,699,Billing Issue,High,Closed,05-10-2024,08-10-2024,3,Yes,Web Form
+1212,666,General Query,High,Open,06-01-2025,,,Yes,Phone
+1213,461,Payment Issue,High,Open,25-12-2025,,,Yes,Phone
+1214,603,Service Outage,Low,Closed,20-11-2023,25-11-2023,5,Yes,Phone
+1215,608,Meter Problem,High,Closed,13-12-2025,17-12-2025,4,Yes,Phone
+1216,736,General Query,Medium,Closed,17-01-2026,22-01-2026,5,Yes,Web Form
+1217,871,Billing Issue,Low,Open,13-07-2023,,,Yes,Web Form
+1218,991,Meter Problem,Low,Closed,16-05-2023,21-05-2023,5,Yes,Email
+1219,754,Meter Problem,High,Closed,15-11-2025,18-11-2025,3,Yes,Phone
+1220,305,Service Outage,Medium,Closed,15-05-2025,17-05-2025,2,No,Email
+1221,73,Service Outage,Medium,Closed,07-09-2024,11-09-2024,4,Yes,Phone
+1222,981,Meter Problem,Medium,Open,23-04-2023,,,Yes,Phone
+1223,866,Billing Issue,Low,Closed,18-02-2023,20-02-2023,2,No,Email
+1224,317,General Query,High,Closed,27-05-2025,29-05-2025,2,Yes,Web Form
+1225,148,Service Outage,High,Open,07-03-2023,,,Yes,Phone
+1226,974,General Query,Medium,Closed,01-10-2023,02-10-2023,1,No,Web Form
+1227,864,Meter Problem,Low,Closed,06-02-2026,11-02-2026,5,Yes,Email
+1228,794,Billing Issue,High,Open,04-04-2023,,,Yes,Web Form
+1229,20,Meter Problem,Low,Open,12-11-2025,,,Yes,Email
+1230,356,Payment Issue,Medium,Open,05-05-2023,,,Yes,Email
+1231,555,General Query,Medium,Closed,24-09-2026,28-09-2026,4,Yes,Phone
+1232,353,General Query,Low,Closed,18-11-2025,19-11-2025,1,No,Phone
+1233,378,Meter Problem,High,Closed,03-04-2025,06-04-2025,3,Yes,Web Form
+1234,506,Billing Issue,High,Open,17-04-2024,,,Yes,Email
+1235,160,General Query,Medium,Closed,19-04-2024,23-04-2024,4,Yes,Phone
+1236,219,Billing Issue,Low,Closed,01-10-2026,03-10-2026,2,No,Email
+1237,832,Meter Problem,High,Closed,23-01-2023,25-01-2023,2,Yes,Phone
+1238,764,Service Outage,High,Closed,27-07-2023,28-07-2023,1,Yes,Email
+1239,702,Service Outage,High,Open,07-08-2026,,,Yes,Phone
+1240,286,Billing Issue,High,Open,19-04-2024,,,Yes,Email
+1241,16,Billing Issue,High,Closed,24-08-2023,25-08-2023,1,Yes,Email
+1242,102,Service Outage,Medium,Open,01-02-2023,,,Yes,Email
+1243,521,Payment Issue,Low,Closed,27-01-2024,28-01-2024,1,No,Email
+1244,182,Billing Issue,Low,Closed,12-04-2026,17-04-2026,5,Yes,Email
+1245,421,Billing Issue,Medium,Closed,23-09-2025,24-09-2025,1,No,Web Form
+1246,87,General Query,Medium,Closed,28-08-2026,02-09-2026,5,Yes,Web Form
+1247,768,Meter Problem,Low,Closed,10-09-2023,12-09-2023,2,No,Web Form
+1248,640,Billing Issue,Medium,Closed,18-10-2025,23-10-2025,5,Yes,Web Form
+1249,855,Payment Issue,High,Open,14-04-2023,,,Yes,Email
+1250,833,Service Outage,Medium,Open,06-07-2024,,,Yes,Phone
+1251,852,Payment Issue,Low,Closed,02-06-2026,03-06-2026,1,No,Web Form
+1252,680,Billing Issue,Medium,Closed,13-11-2025,14-11-2025,1,No,Web Form
+1253,644,General Query,Low,Closed,28-01-2024,01-02-2024,4,Yes,Web Form
+1254,281,Payment Issue,Low,Closed,18-11-2026,21-11-2026,3,No,Phone
+1255,750,General Query,High,Closed,03-09-2023,05-09-2023,2,Yes,Email
+1256,461,Meter Problem,Low,Closed,24-06-2026,28-06-2026,4,Yes,Phone
+1257,741,Payment Issue,Medium,Open,21-04-2026,,,No,Phone
+1258,672,General Query,Low,Closed,19-05-2024,24-05-2024,5,Yes,Email
+1259,47,Meter Problem,Medium,Open,20-09-2024,,,Yes,Email
+1260,738,Service Outage,High,Closed,10-05-2023,13-05-2023,3,Yes,Email
+1261,804,Billing Issue,Medium,Open,19-08-2024,,,Yes,Email
+1262,48,Meter Problem,Low,Open,09-05-2025,,,Yes,Phone
+1263,429,General Query,High,Open,14-10-2025,,,Yes,Phone
+1264,601,Service Outage,Medium,Open,05-02-2024,,,Yes,Web Form
+1265,492,Billing Issue,High,Closed,18-11-2023,23-11-2023,5,Yes,Email
+1266,790,Payment Issue,High,Closed,01-06-2026,06-06-2026,5,Yes,Email
+1267,235,General Query,Medium,Closed,25-10-2025,27-10-2025,2,No,Phone
+1268,919,Service Outage,High,Closed,22-11-2024,24-11-2024,2,Yes,Email
+1269,849,General Query,Low,Open,10-06-2023,,,Yes,Email
+1270,764,Billing Issue,High,Closed,02-01-2025,06-01-2025,4,Yes,Phone
+1271,6,General Query,Medium,Closed,12-07-2024,13-07-2024,1,No,Web Form
+1272,376,Service Outage,Low,Closed,09-10-2024,11-10-2024,2,No,Web Form
+1273,768,General Query,Low,Closed,17-02-2025,21-02-2025,4,Yes,Web Form
+1274,683,Meter Problem,Medium,Open,07-02-2024,,,Yes,Web Form
+1275,720,Service Outage,Medium,Open,01-06-2024,,,Yes,Phone
+1276,527,Billing Issue,Medium,Open,17-04-2026,,,No,Phone
+1277,567,Payment Issue,High,Open,08-08-2024,,,Yes,Web Form
+1278,164,Billing Issue,Medium,Closed,05-07-2024,08-07-2024,3,No,Email
+1279,4,Payment Issue,High,Open,26-05-2026,,,Yes,Email
+1280,542,Payment Issue,Medium,Open,14-06-2025,,,Yes,Email
+1281,766,General Query,Medium,Closed,11-08-2026,14-08-2026,3,No,Email
+1282,278,Meter Problem,Low,Closed,27-08-2026,31-08-2026,4,Yes,Email
+1283,391,Payment Issue,High,Closed,17-01-2024,19-01-2024,2,Yes,Web Form
+1284,909,Meter Problem,Low,Open,08-12-2023,,,Yes,Phone
+1285,154,Meter Problem,High,Closed,27-05-2024,30-05-2024,3,Yes,Email
+1286,317,Billing Issue,Medium,Closed,24-07-2024,29-07-2024,5,Yes,Email
+1287,126,General Query,Low,Open,01-01-2024,,,Yes,Email
+1288,998,Meter Problem,High,Closed,19-01-2026,24-01-2026,5,Yes,Web Form
+1289,794,Meter Problem,Medium,Closed,07-03-2023,12-03-2023,5,Yes,Phone
+1290,681,Meter Problem,Low,Closed,03-06-2026,07-06-2026,4,Yes,Email
+1291,883,Service Outage,Low,Closed,13-10-2026,14-10-2026,1,No,Web Form
+1292,250,Meter Problem,High,Open,08-06-2026,,,Yes,Web Form
+1293,849,Payment Issue,High,Closed,27-09-2026,28-09-2026,1,Yes,Web Form
+1294,788,Service Outage,Low,Closed,15-06-2025,19-06-2025,4,Yes,Web Form
+1295,673,Billing Issue,Medium,Closed,17-01-2024,19-01-2024,2,No,Web Form
+1296,734,General Query,High,Closed,15-09-2025,17-09-2025,2,Yes,Phone
+1297,147,Service Outage,High,Closed,18-09-2023,19-09-2023,1,Yes,Phone
+1298,333,Meter Problem,Medium,Closed,23-12-2023,25-12-2023,2,No,Email
+1299,491,Service Outage,Low,Closed,11-08-2024,16-08-2024,5,Yes,Phone
+1300,33,Service Outage,Low,Closed,18-10-2023,19-10-2023,1,No,Web Form
+1301,510,General Query,Low,Open,12-03-2026,,,Yes,Web Form
+1302,781,Service Outage,Low,Closed,28-12-2026,31-12-2026,3,No,Web Form
+1303,467,Meter Problem,High,Closed,09-05-2023,13-05-2023,4,Yes,Web Form
+1304,998,Meter Problem,High,Closed,22-11-2026,24-11-2026,2,Yes,Web Form
+1305,250,Service Outage,Low,Closed,15-12-2023,17-12-2023,2,No,Phone
+1306,649,Service Outage,Medium,Closed,17-03-2024,20-03-2024,3,No,Web Form
+1307,762,Meter Problem,Low,Open,03-04-2026,,,Yes,Email
+1308,807,Payment Issue,Medium,Open,20-04-2025,,,Yes,Phone
+1309,533,Payment Issue,Low,Open,08-09-2023,,,Yes,Email
+1310,190,Meter Problem,Low,Closed,15-07-2024,20-07-2024,5,Yes,Phone
+1311,660,Billing Issue,High,Closed,27-02-2026,04-03-2026,5,Yes,Email
+1312,20,General Query,High,Closed,11-09-2025,12-09-2025,1,Yes,Email
+1313,929,Billing Issue,High,Closed,11-08-2023,13-08-2023,2,Yes,Email
+1314,193,Service Outage,Low,Open,28-03-2026,,,Yes,Web Form
+1315,430,Billing Issue,Low,Open,18-12-2024,,,Yes,Web Form
+1316,391,General Query,High,Open,23-07-2025,,,Yes,Email
+1317,65,Payment Issue,Medium,Open,05-06-2026,,,No,Phone
+1318,747,Billing Issue,High,Open,12-05-2026,,,Yes,Web Form
+1319,110,Billing Issue,Low,Open,17-01-2025,,,Yes,Web Form
+1320,741,Service Outage,Low,Closed,22-01-2024,25-01-2024,3,No,Phone
+1321,46,Payment Issue,Medium,Closed,27-05-2026,28-05-2026,1,No,Phone
+1322,286,Service Outage,High,Closed,03-08-2024,07-08-2024,4,Yes,Phone
+1323,256,Service Outage,Medium,Closed,18-06-2024,22-06-2024,4,Yes,Email
+1324,797,General Query,Low,Closed,26-09-2026,28-09-2026,2,No,Email
+1325,994,Billing Issue,Low,Closed,07-09-2026,10-09-2026,3,No,Web Form
+1326,75,General Query,High,Closed,20-10-2023,24-10-2023,4,Yes,Email
+1327,230,Meter Problem,High,Open,05-01-2023,,,Yes,Phone
+1328,225,General Query,Low,Closed,16-07-2024,20-07-2024,4,Yes,Web Form
+1329,713,General Query,Medium,Closed,12-03-2024,17-03-2024,5,Yes,Phone
+1330,747,General Query,High,Open,07-08-2026,,,Yes,Phone
+1331,10,General Query,Medium,Open,09-01-2026,,,Yes,Phone
+1332,158,Billing Issue,High,Closed,11-11-2023,16-11-2023,5,Yes,Web Form
+1333,62,Billing Issue,Low,Open,27-02-2024,,,Yes,Web Form
+1334,533,Payment Issue,Low,Open,23-12-2026,,,No,Phone
+1335,758,General Query,Medium,Open,07-12-2025,,,Yes,Email
+1336,376,Payment Issue,Low,Closed,18-04-2026,19-04-2026,1,No,Phone
+1337,914,General Query,Low,Closed,24-06-2023,26-06-2023,2,No,Phone
+1338,979,Billing Issue,Low,Closed,14-06-2026,15-06-2026,1,No,Phone
+1339,847,Meter Problem,High,Closed,22-12-2023,25-12-2023,3,Yes,Email
+1340,601,Meter Problem,High,Closed,18-06-2026,23-06-2026,5,Yes,Phone
+1341,445,Service Outage,High,Closed,10-07-2024,15-07-2024,5,Yes,Web Form
+1342,150,Meter Problem,Medium,Closed,07-11-2025,09-11-2025,2,No,Phone
+1343,545,Payment Issue,Low,Open,09-07-2024,,,Yes,Email
+1344,17,Meter Problem,Medium,Open,03-02-2025,,,Yes,Web Form
+1345,741,Meter Problem,Low,Closed,08-05-2025,10-05-2025,2,No,Email
+1346,709,Billing Issue,Low,Closed,03-04-2026,07-04-2026,4,Yes,Email
+1347,641,Payment Issue,Medium,Open,05-06-2023,,,Yes,Email
+1348,482,Billing Issue,Medium,Closed,15-04-2025,18-04-2025,3,No,Email
+1349,74,Billing Issue,Medium,Open,16-09-2024,,,Yes,Phone
+1350,654,Service Outage,Low,Open,17-09-2026,,,No,Web Form
+1351,31,General Query,Low,Open,11-10-2025,,,Yes,Email
+1352,597,Service Outage,High,Closed,26-04-2025,27-04-2025,1,Yes,Web Form
+1353,454,Payment Issue,Medium,Closed,15-08-2024,17-08-2024,2,No,Web Form
+1354,875,Service Outage,Medium,Open,02-07-2025,,,Yes,Web Form
+1355,468,Payment Issue,High,Closed,13-11-2024,14-11-2024,1,Yes,Email
+1356,339,Payment Issue,Medium,Closed,12-12-2025,15-12-2025,3,No,Email
+1357,999,Billing Issue,Medium,Open,18-01-2024,,,Yes,Email
+1358,187,Billing Issue,High,Closed,07-06-2024,11-06-2024,4,Yes,Phone
+1359,70,Billing Issue,Low,Closed,11-09-2023,14-09-2023,3,No,Web Form
+1360,902,Service Outage,Medium,Closed,11-05-2026,14-05-2026,3,No,Email
+1361,173,Billing Issue,High,Closed,18-03-2025,21-03-2025,3,Yes,Web Form
+1362,505,Payment Issue,Low,Closed,13-11-2023,18-11-2023,5,Yes,Web Form
+1363,336,General Query,High,Open,10-12-2023,,,Yes,Email
+1364,449,Payment Issue,Low,Closed,22-07-2025,27-07-2025,5,Yes,Email
+1365,240,General Query,Medium,Open,02-07-2024,,,Yes,Email
+1366,33,Meter Problem,High,Closed,28-12-2026,30-12-2026,2,Yes,Email
+1367,327,Billing Issue,High,Closed,22-10-2023,26-10-2023,4,Yes,Phone
+1368,459,Billing Issue,Medium,Open,23-12-2024,,,Yes,Email
+1369,22,Meter Problem,Low,Closed,18-07-2026,22-07-2026,4,Yes,Phone
+1370,501,General Query,High,Open,28-10-2024,,,Yes,Phone
+1371,813,Meter Problem,High,Closed,02-08-2024,06-08-2024,4,Yes,Email
+1372,681,Meter Problem,Low,Closed,07-05-2025,09-05-2025,2,No,Web Form
+1373,405,Service Outage,Medium,Closed,23-06-2024,28-06-2024,5,Yes,Email
+1374,644,Meter Problem,High,Closed,08-10-2023,09-10-2023,1,Yes,Web Form
+1375,760,Meter Problem,High,Open,21-12-2023,,,Yes,Email
+1376,583,Meter Problem,Medium,Closed,25-06-2025,27-06-2025,2,No,Email
+1377,688,Meter Problem,High,Closed,09-03-2025,14-03-2025,5,Yes,Email
+1378,158,Payment Issue,High,Closed,23-11-2023,24-11-2023,1,Yes,Web Form
+1379,664,Meter Problem,Low,Open,06-01-2023,,,Yes,Phone
+1380,658,Payment Issue,Medium,Closed,19-02-2025,21-02-2025,2,No,Email
+1381,396,Meter Problem,Medium,Open,11-07-2025,,,Yes,Phone
+1382,875,Meter Problem,High,Open,02-10-2026,,,Yes,Email
+1383,626,Payment Issue,High,Closed,20-06-2023,23-06-2023,3,Yes,Phone
+1384,61,Payment Issue,High,Open,21-12-2023,,,Yes,Web Form
+1385,547,Billing Issue,Low,Open,23-02-2023,,,Yes,Phone
+1386,368,Service Outage,Low,Closed,03-06-2026,08-06-2026,5,Yes,Web Form
+1387,855,Service Outage,Low,Closed,05-07-2023,08-07-2023,3,No,Web Form
+1388,821,Service Outage,High,Closed,10-01-2026,12-01-2026,2,Yes,Email
+1389,852,General Query,High,Open,22-05-2024,,,Yes,Email
+1390,809,Service Outage,Medium,Open,28-12-2025,,,Yes,Phone
+1391,354,Billing Issue,Medium,Closed,18-11-2023,23-11-2023,5,Yes,Email
+1392,341,Billing Issue,Low,Open,21-01-2025,,,Yes,Web Form
+1393,361,Billing Issue,Low,Closed,05-03-2025,06-03-2025,1,No,Web Form
+1394,339,Service Outage,Medium,Open,05-11-2024,,,Yes,Phone
+1395,953,Meter Problem,Medium,Open,23-01-2025,,,Yes,Phone
+1396,935,General Query,High,Closed,17-09-2025,22-09-2025,5,Yes,Phone
+1397,968,Billing Issue,High,Closed,14-03-2025,16-03-2025,2,Yes,Web Form
+1398,396,Payment Issue,Low,Closed,26-04-2025,30-04-2025,4,Yes,Web Form
+1399,240,General Query,Medium,Closed,10-05-2025,14-05-2025,4,Yes,Web Form
+1400,471,General Query,Medium,Open,26-09-2023,,,Yes,Web Form
+1401,820,Payment Issue,Low,Closed,28-08-2026,02-09-2026,5,Yes,Email
+1402,258,Service Outage,Medium,Closed,25-02-2024,29-02-2024,4,Yes,Email
+1403,596,Meter Problem,Low,Closed,05-08-2026,06-08-2026,1,No,Web Form
+1404,144,Billing Issue,Medium,Open,07-08-2023,,,Yes,Web Form
+1405,236,Meter Problem,High,Closed,12-10-2026,15-10-2026,3,Yes,Phone
+1406,586,General Query,Low,Closed,15-02-2026,17-02-2026,2,No,Web Form
+1407,891,Service Outage,Low,Open,25-10-2023,,,Yes,Web Form
+1408,558,Payment Issue,Medium,Closed,27-08-2023,28-08-2023,1,No,Email
+1409,176,Meter Problem,Medium,Open,26-04-2024,,,Yes,Web Form
+1410,878,General Query,Medium,Open,27-07-2024,,,Yes,Email
+1411,629,Payment Issue,Medium,Closed,02-06-2024,07-06-2024,5,Yes,Web Form
+1412,364,Payment Issue,Low,Closed,19-08-2025,22-08-2025,3,No,Phone
+1413,237,Service Outage,High,Open,06-05-2024,,,Yes,Phone
+1414,405,Payment Issue,High,Open,28-08-2023,,,Yes,Phone
+1415,872,Payment Issue,High,Closed,19-03-2023,24-03-2023,5,Yes,Phone
+1416,68,General Query,Medium,Open,27-07-2026,,,No,Web Form
+1417,718,Billing Issue,High,Open,25-02-2026,,,Yes,Web Form
+1418,965,Service Outage,Low,Closed,26-05-2026,31-05-2026,5,Yes,Web Form
+1419,396,Meter Problem,Medium,Open,28-09-2026,,,No,Email
+1420,761,Billing Issue,Medium,Open,16-11-2023,,,Yes,Email
+1421,458,Service Outage,Low,Closed,16-01-2026,20-01-2026,4,Yes,Phone
+1422,746,General Query,Low,Closed,10-04-2023,11-04-2023,1,No,Phone
+1423,418,Meter Problem,Low,Open,17-07-2023,,,Yes,Phone
+1424,144,Billing Issue,Medium,Closed,27-02-2025,02-03-2025,3,No,Web Form
+1425,706,Service Outage,High,Closed,08-01-2024,11-01-2024,3,Yes,Phone
+1426,828,Payment Issue,Medium,Open,13-02-2026,,,Yes,Email
+1427,922,General Query,Low,Closed,21-11-2026,22-11-2026,1,No,Phone
+1428,338,Meter Problem,High,Open,04-04-2025,,,Yes,Email
+1429,513,Billing Issue,Medium,Closed,18-04-2023,19-04-2023,1,No,Web Form
+1430,425,Payment Issue,Medium,Open,10-12-2024,,,Yes,Email
+1431,269,Service Outage,High,Closed,09-09-2023,11-09-2023,2,Yes,Phone
+1432,707,Billing Issue,High,Closed,12-02-2024,13-02-2024,1,Yes,Email
+1433,626,Billing Issue,Medium,Closed,13-01-2023,18-01-2023,5,Yes,Web Form
+1434,853,Service Outage,Low,Closed,18-06-2026,22-06-2026,4,Yes,Phone
+1435,700,Service Outage,High,Open,08-10-2023,,,Yes,Phone
+1436,304,Meter Problem,Medium,Closed,13-04-2024,17-04-2024,4,Yes,Web Form
+1437,753,General Query,Medium,Closed,22-03-2026,26-03-2026,4,Yes,Web Form
+1438,302,Meter Problem,Low,Closed,03-05-2026,06-05-2026,3,No,Web Form
+1439,68,Meter Problem,Medium,Closed,22-12-2023,26-12-2023,4,Yes,Web Form
+1440,671,Service Outage,High,Open,14-02-2024,,,Yes,Web Form
+1441,396,Billing Issue,Medium,Closed,06-10-2024,07-10-2024,1,No,Phone
+1442,337,Service Outage,Low,Closed,06-05-2025,09-05-2025,3,No,Web Form
+1443,406,Billing Issue,Low,Closed,23-03-2025,25-03-2025,2,No,Phone
+1444,248,Payment Issue,Medium,Closed,19-03-2025,22-03-2025,3,No,Phone
+1445,118,Meter Problem,Low,Open,16-03-2026,,,Yes,Web Form
+1446,750,Service Outage,Low,Closed,25-11-2023,27-11-2023,2,No,Web Form
+1447,804,Service Outage,Low,Closed,17-05-2026,21-05-2026,4,Yes,Phone
+1448,598,Billing Issue,Low,Open,16-09-2025,,,Yes,Phone
+1449,460,General Query,Medium,Open,01-01-2025,,,Yes,Phone
+1450,30,Payment Issue,Medium,Closed,21-03-2025,26-03-2025,5,Yes,Email
+1451,755,Meter Problem,Low,Open,20-02-2025,,,Yes,Email
+1452,353,Billing Issue,High,Closed,04-07-2024,07-07-2024,3,Yes,Phone
+1453,43,Payment Issue,Low,Open,18-06-2025,,,Yes,Phone
+1454,753,Billing Issue,Medium,Closed,07-02-2023,11-02-2023,4,Yes,Phone
+1455,432,Billing Issue,Medium,Open,06-04-2026,,,Yes,Web Form
+1456,321,Payment Issue,High,Open,10-04-2024,,,Yes,Phone
+1457,846,Billing Issue,High,Open,17-04-2025,,,Yes,Phone
+1458,39,Meter Problem,High,Open,20-09-2025,,,Yes,Web Form
+1459,650,Meter Problem,Low,Closed,24-03-2024,26-03-2024,2,No,Phone
+1460,811,General Query,Medium,Closed,14-01-2024,17-01-2024,3,No,Email
+1461,491,Billing Issue,High,Closed,26-12-2026,28-12-2026,2,Yes,Web Form
+1462,932,Service Outage,Low,Closed,01-11-2025,05-11-2025,4,Yes,Web Form
+1463,926,Service Outage,High,Open,10-07-2025,,,Yes,Email
+1464,867,Billing Issue,Low,Open,19-11-2025,,,Yes,Email
+1465,984,Service Outage,High,Closed,17-05-2024,19-05-2024,2,Yes,Web Form
+1466,894,Service Outage,Low,Closed,01-05-2026,06-05-2026,5,Yes,Email
+1467,743,Payment Issue,Low,Closed,23-11-2024,25-11-2024,2,No,Web Form
+1468,278,Meter Problem,High,Closed,05-04-2025,09-04-2025,4,Yes,Email
+1469,139,Billing Issue,Medium,Closed,02-08-2024,06-08-2024,4,Yes,Phone
+1470,869,General Query,Medium,Closed,25-03-2023,27-03-2023,2,No,Phone
+1471,349,Billing Issue,High,Open,27-07-2025,,,Yes,Phone
+1472,863,General Query,High,Closed,20-03-2025,22-03-2025,2,Yes,Web Form
+1473,791,Service Outage,Low,Closed,20-06-2025,23-06-2025,3,No,Web Form
+1474,9,Service Outage,High,Open,26-09-2024,,,Yes,Phone
+1475,847,Meter Problem,Low,Open,21-01-2026,,,Yes,Web Form
+1476,298,General Query,Medium,Open,02-01-2025,,,Yes,Phone
+1477,53,Meter Problem,Low,Open,27-01-2024,,,Yes,Web Form
+1478,882,Meter Problem,Medium,Closed,24-09-2025,27-09-2025,3,No,Email
+1479,239,Meter Problem,Medium,Open,17-01-2023,,,Yes,Phone
+1480,898,Payment Issue,High,Closed,13-01-2023,18-01-2023,5,Yes,Web Form
+1481,532,Payment Issue,High,Closed,08-07-2023,09-07-2023,1,Yes,Phone
+1482,607,Billing Issue,Low,Closed,22-06-2026,23-06-2026,1,No,Web Form
+1483,289,Billing Issue,Low,Closed,28-02-2023,04-03-2023,4,Yes,Email
+1484,987,Service Outage,Low,Closed,26-10-2025,28-10-2025,2,No,Web Form
+1485,387,Payment Issue,High,Open,20-09-2023,,,Yes,Email
+1486,886,Payment Issue,Low,Closed,24-10-2023,27-10-2023,3,No,Web Form
+1487,955,Service Outage,Low,Closed,24-11-2023,27-11-2023,3,No,Web Form
+1488,217,Payment Issue,Low,Closed,04-11-2025,07-11-2025,3,No,Phone
+1489,460,General Query,High,Closed,26-08-2023,27-08-2023,1,Yes,Email
+1490,806,Payment Issue,Medium,Open,13-02-2026,,,Yes,Phone
+1491,748,Service Outage,Low,Open,05-05-2025,,,Yes,Phone
+1492,87,Service Outage,Low,Closed,15-03-2023,17-03-2023,2,No,Email
+1493,806,General Query,Medium,Open,04-06-2026,,,No,Web Form
+1494,159,Meter Problem,High,Closed,20-02-2026,23-02-2026,3,Yes,Web Form
+1495,307,General Query,Medium,Closed,09-07-2025,13-07-2025,4,Yes,Web Form
+1496,91,Payment Issue,Medium,Closed,03-05-2023,04-05-2023,1,No,Email
+1497,856,Payment Issue,Low,Closed,27-04-2025,28-04-2025,1,No,Email
+1498,870,Meter Problem,High,Closed,12-01-2023,16-01-2023,4,Yes,Email
+1499,354,Billing Issue,Low,Open,08-09-2023,,,Yes,Phone
+1500,350,Meter Problem,High,Closed,14-10-2024,17-10-2024,3,Yes,Web Form
+1501,331,General Query,Medium,Closed,13-05-2025,17-05-2025,4,Yes,Web Form
+1502,538,Payment Issue,High,Open,03-05-2026,,,Yes,Web Form
+1503,861,Billing Issue,Low,Closed,24-05-2025,25-05-2025,1,No,Email
+1504,257,Service Outage,Low,Open,04-05-2026,,,No,Web Form
+1505,799,Meter Problem,Medium,Open,28-12-2024,,,Yes,Email
+1506,491,General Query,High,Closed,12-11-2025,14-11-2025,2,Yes,Web Form
+1507,649,Billing Issue,Low,Open,15-12-2025,,,Yes,Web Form
+1508,737,Payment Issue,Medium,Closed,09-08-2023,14-08-2023,5,Yes,Email
+1509,496,Service Outage,Medium,Closed,07-05-2023,12-05-2023,5,Yes,Phone
+1510,459,Meter Problem,High,Closed,19-11-2025,21-11-2025,2,Yes,Email
+1511,470,Meter Problem,Low,Open,12-04-2024,,,Yes,Phone
+1512,542,Billing Issue,High,Open,07-03-2023,,,Yes,Web Form
+1513,544,Service Outage,Medium,Closed,18-03-2025,20-03-2025,2,No,Web Form
+1514,100,Billing Issue,High,Closed,17-10-2024,20-10-2024,3,Yes,Phone
+1515,28,Meter Problem,High,Closed,04-02-2025,07-02-2025,3,Yes,Phone
+1516,472,Payment Issue,Medium,Open,25-06-2026,,,No,Web Form
+1517,172,Service Outage,Low,Open,26-02-2023,,,Yes,Web Form
+1518,699,Payment Issue,Medium,Open,20-03-2025,,,Yes,Email
+1519,398,Payment Issue,Low,Closed,25-10-2023,29-10-2023,4,Yes,Email
+1520,216,General Query,High,Closed,27-03-2025,29-03-2025,2,Yes,Phone
+1521,578,General Query,High,Closed,20-05-2026,24-05-2026,4,Yes,Phone
+1522,382,Service Outage,Medium,Closed,13-07-2026,14-07-2026,1,No,Web Form
+1523,617,Billing Issue,High,Closed,28-01-2023,31-01-2023,3,Yes,Email
+1524,841,Payment Issue,Medium,Closed,20-10-2026,21-10-2026,1,No,Web Form
+1525,474,Meter Problem,High,Closed,12-12-2025,13-12-2025,1,Yes,Phone
+1526,308,General Query,Medium,Closed,05-11-2025,07-11-2025,2,No,Phone
+1527,758,Meter Problem,High,Closed,19-12-2025,23-12-2025,4,Yes,Web Form
+1528,142,Service Outage,Low,Closed,24-04-2025,27-04-2025,3,No,Web Form
+1529,453,Meter Problem,High,Open,14-11-2025,,,Yes,Email
+1530,106,Meter Problem,Medium,Open,24-11-2026,,,No,Email
+1531,80,General Query,Low,Open,27-09-2026,,,No,Web Form
+1532,353,General Query,Low,Open,06-04-2023,,,Yes,Web Form
+1533,811,Billing Issue,Medium,Open,15-03-2025,,,Yes,Phone
+1534,889,Billing Issue,Low,Open,04-10-2023,,,Yes,Email
+1535,518,General Query,High,Open,10-07-2024,,,Yes,Email
+1536,957,Payment Issue,Medium,Open,03-08-2024,,,Yes,Phone
+1537,973,General Query,High,Closed,11-08-2026,16-08-2026,5,Yes,Phone
+1538,352,Meter Problem,High,Closed,02-05-2026,03-05-2026,1,Yes,Email
+1539,447,Service Outage,High,Closed,26-12-2025,29-12-2025,3,Yes,Web Form
+1540,457,Service Outage,Medium,Closed,19-01-2026,21-01-2026,2,No,Email
+1541,655,Service Outage,Medium,Open,13-10-2023,,,Yes,Email
+1542,548,Service Outage,High,Closed,01-10-2023,03-10-2023,2,Yes,Phone
+1543,610,Billing Issue,High,Open,05-03-2025,,,Yes,Phone
+1544,245,Billing Issue,Medium,Closed,02-09-2024,04-09-2024,2,No,Web Form
+1545,184,General Query,Low,Open,20-07-2024,,,Yes,Email
+1546,737,Meter Problem,High,Open,04-01-2026,,,Yes,Web Form
+1547,993,General Query,High,Open,23-04-2023,,,Yes,Phone
+1548,310,Service Outage,Medium,Closed,09-06-2026,13-06-2026,4,Yes,Phone
+1549,522,Service Outage,Low,Open,22-12-2026,,,No,Email
+1550,558,Billing Issue,Medium,Open,15-08-2024,,,Yes,Web Form
+1551,202,Meter Problem,Medium,Open,27-08-2024,,,Yes,Web Form
+1552,368,Payment Issue,Low,Closed,13-11-2023,17-11-2023,4,Yes,Phone
+1553,741,Meter Problem,High,Closed,15-11-2024,16-11-2024,1,Yes,Web Form
+1554,950,Payment Issue,Medium,Closed,16-03-2024,18-03-2024,2,No,Email
+1555,327,Billing Issue,Low,Closed,20-12-2024,21-12-2024,1,No,Email
+1556,481,Meter Problem,Low,Open,27-12-2024,,,Yes,Email
+1557,279,Payment Issue,High,Open,14-07-2025,,,Yes,Web Form
+1558,833,Payment Issue,Low,Closed,28-11-2023,03-12-2023,5,Yes,Phone
+1559,675,Service Outage,Low,Closed,08-12-2024,12-12-2024,4,Yes,Email
+1560,842,Billing Issue,Low,Closed,10-01-2025,13-01-2025,3,No,Email
+1561,68,Meter Problem,Low,Open,28-02-2026,,,Yes,Phone
+1562,137,Billing Issue,High,Open,04-05-2023,,,Yes,Phone
+1563,423,Payment Issue,Medium,Open,13-05-2024,,,Yes,Email
+1564,620,General Query,High,Open,13-05-2023,,,Yes,Phone
+1565,166,Payment Issue,High,Closed,21-03-2026,24-03-2026,3,Yes,Web Form
+1566,763,Billing Issue,Low,Open,02-04-2025,,,Yes,Web Form
+1567,218,Meter Problem,Medium,Closed,23-01-2025,25-01-2025,2,No,Phone
+1568,26,Service Outage,High,Closed,20-07-2025,21-07-2025,1,Yes,Web Form
+1569,151,Service Outage,High,Open,03-12-2023,,,Yes,Phone
+1570,753,Meter Problem,Low,Closed,26-04-2023,28-04-2023,2,No,Email
+1571,293,Payment Issue,High,Open,20-03-2025,,,Yes,Phone
+1572,228,Payment Issue,Low,Closed,04-08-2024,05-08-2024,1,No,Email
+1573,129,Billing Issue,Medium,Closed,25-11-2023,30-11-2023,5,Yes,Phone
+1574,595,General Query,Medium,Open,27-07-2025,,,Yes,Email
+1575,856,Service Outage,High,Open,03-07-2023,,,Yes,Email
+1576,152,Meter Problem,High,Closed,22-04-2023,25-04-2023,3,Yes,Web Form
+1577,348,Payment Issue,Medium,Closed,02-07-2024,03-07-2024,1,No,Email
+1578,549,Meter Problem,Medium,Closed,07-01-2024,12-01-2024,5,Yes,Phone
+1579,142,Billing Issue,Medium,Open,17-11-2026,,,No,Phone
+1580,271,Payment Issue,High,Open,21-12-2023,,,Yes,Phone
+1581,761,Meter Problem,High,Open,15-08-2025,,,Yes,Web Form
+1582,412,Meter Problem,Medium,Open,02-02-2025,,,Yes,Web Form
+1583,752,Meter Problem,High,Closed,26-06-2025,28-06-2025,2,Yes,Web Form
+1584,589,Meter Problem,Medium,Closed,14-09-2024,16-09-2024,2,No,Phone
+1585,216,Payment Issue,Medium,Closed,06-05-2025,07-05-2025,1,No,Phone
+1586,287,Service Outage,Low,Closed,11-07-2026,15-07-2026,4,Yes,Web Form
+1587,172,Meter Problem,High,Closed,17-12-2026,19-12-2026,2,Yes,Phone
+1588,973,Payment Issue,High,Open,10-02-2023,,,Yes,Email
+1589,667,Meter Problem,Low,Closed,05-01-2026,09-01-2026,4,Yes,Web Form
+1590,712,Payment Issue,Low,Closed,02-08-2026,04-08-2026,2,No,Phone
+1591,241,Service Outage,Low,Open,04-09-2026,,,No,Phone
+1592,760,Billing Issue,High,Open,07-03-2023,,,Yes,Email
+1593,616,Payment Issue,Low,Open,24-09-2023,,,Yes,Phone
+1594,255,Meter Problem,Medium,Closed,15-05-2026,17-05-2026,2,No,Email
+1595,331,Meter Problem,High,Closed,17-04-2026,21-04-2026,4,Yes,Phone
+1596,229,Meter Problem,Medium,Open,16-01-2024,,,Yes,Web Form
+1597,450,Payment Issue,Low,Open,15-05-2025,,,Yes,Email
+1598,95,General Query,Medium,Closed,02-08-2026,05-08-2026,3,No,Phone
+1599,702,Meter Problem,Medium,Closed,14-08-2024,17-08-2024,3,No,Web Form
+1600,444,Meter Problem,Medium,Closed,21-09-2024,22-09-2024,1,No,Web Form
+1601,950,Service Outage,Medium,Open,11-06-2023,,,Yes,Web Form
+1602,220,Meter Problem,High,Open,03-04-2023,,,Yes,Email
+1603,570,Service Outage,Medium,Open,11-08-2025,,,Yes,Email
+1604,245,General Query,High,Closed,05-12-2025,07-12-2025,2,Yes,Email
+1605,481,Payment Issue,Medium,Closed,19-12-2026,24-12-2026,5,Yes,Phone
+1606,794,General Query,Low,Open,05-11-2025,,,Yes,Email
+1607,496,Meter Problem,High,Open,04-02-2026,,,Yes,Web Form
+1608,829,Meter Problem,Low,Closed,27-03-2024,01-04-2024,5,Yes,Email
+1609,141,General Query,Medium,Closed,18-11-2025,20-11-2025,2,No,Email
+1610,464,General Query,High,Open,23-01-2026,,,Yes,Web Form
+1611,358,Payment Issue,Medium,Closed,27-05-2025,01-06-2025,5,Yes,Phone
+1612,450,General Query,High,Open,16-12-2025,,,Yes,Phone
+1613,767,General Query,High,Open,18-10-2026,,,Yes,Web Form
+1614,987,General Query,Low,Open,01-06-2026,,,No,Phone
+1615,771,Service Outage,High,Closed,04-05-2024,05-05-2024,1,Yes,Web Form
+1616,593,Meter Problem,Low,Closed,02-10-2024,06-10-2024,4,Yes,Web Form
+1617,959,Service Outage,Low,Open,05-03-2025,,,Yes,Web Form
+1618,429,Meter Problem,High,Open,21-10-2023,,,Yes,Email
+1619,1000,Meter Problem,Low,Open,22-05-2024,,,Yes,Phone
+1620,854,General Query,High,Open,02-05-2025,,,Yes,Phone
+1621,587,Meter Problem,High,Open,05-05-2025,,,Yes,Email
+1622,983,General Query,Medium,Closed,24-05-2025,28-05-2025,4,Yes,Phone
+1623,164,General Query,Low,Open,22-03-2025,,,Yes,Email
+1624,2,Service Outage,High,Closed,07-11-2026,08-11-2026,1,Yes,Web Form
+1625,919,Meter Problem,Medium,Open,02-09-2023,,,Yes,Phone
+1626,242,Service Outage,High,Closed,09-05-2023,12-05-2023,3,Yes,Web Form
+1627,514,Billing Issue,Low,Closed,02-12-2025,06-12-2025,4,Yes,Phone
+1628,907,Service Outage,High,Closed,21-01-2026,22-01-2026,1,Yes,Email
+1629,834,Meter Problem,Medium,Open,01-08-2026,,,No,Email
+1630,695,General Query,Medium,Open,19-03-2024,,,Yes,Email
+1631,375,Meter Problem,Low,Closed,24-05-2026,29-05-2026,5,Yes,Email
+1632,192,Billing Issue,Medium,Open,22-05-2024,,,Yes,Email
+1633,478,Meter Problem,Low,Open,18-07-2025,,,Yes,Email
+1634,474,Meter Problem,High,Open,01-03-2024,,,Yes,Phone
+1635,974,Meter Problem,Low,Open,15-03-2024,,,Yes,Email
+1636,381,Billing Issue,High,Closed,27-06-2025,30-06-2025,3,Yes,Web Form
+1637,596,Payment Issue,High,Closed,24-06-2024,29-06-2024,5,Yes,Web Form
+1638,690,Service Outage,Low,Open,03-04-2026,,,Yes,Email
+1639,700,Payment Issue,High,Closed,23-10-2025,24-10-2025,1,Yes,Web Form
+1640,561,Service Outage,High,Open,15-07-2026,,,Yes,Web Form
+1641,625,Billing Issue,Low,Open,22-09-2025,,,Yes,Email
+1642,444,Service Outage,Low,Open,10-07-2026,,,No,Web Form
+1643,636,Meter Problem,High,Open,08-11-2023,,,Yes,Email
+1644,251,Meter Problem,Low,Open,05-06-2024,,,Yes,Web Form
+1645,613,Service Outage,Medium,Closed,11-03-2024,14-03-2024,3,No,Web Form
+1646,909,Payment Issue,Low,Open,21-10-2025,,,Yes,Web Form
+1647,915,Meter Problem,Low,Closed,19-12-2024,21-12-2024,2,No,Phone
+1648,583,Service Outage,Medium,Closed,21-07-2025,24-07-2025,3,No,Phone
+1649,755,Payment Issue,Medium,Closed,10-07-2024,12-07-2024,2,No,Web Form
+1650,685,General Query,High,Open,17-07-2025,,,Yes,Web Form
+1651,949,Billing Issue,High,Closed,10-07-2025,14-07-2025,4,Yes,Phone
+1652,272,Meter Problem,Medium,Open,20-11-2026,,,No,Email
+1653,856,Payment Issue,Medium,Open,04-07-2025,,,Yes,Email
+1654,517,Service Outage,Low,Open,13-01-2024,,,Yes,Email
+1655,613,Service Outage,Low,Closed,17-02-2025,18-02-2025,1,No,Web Form
+1656,497,Service Outage,Medium,Open,25-11-2026,,,No,Phone
+1657,257,Service Outage,Medium,Closed,02-11-2023,07-11-2023,5,Yes,Web Form
+1658,534,Meter Problem,Medium,Closed,23-06-2025,27-06-2025,4,Yes,Web Form
+1659,410,Service Outage,Medium,Open,18-01-2023,,,Yes,Web Form
+1660,992,General Query,Medium,Closed,26-06-2023,27-06-2023,1,No,Phone
+1661,781,General Query,Medium,Closed,03-01-2026,04-01-2026,1,No,Email
+1662,741,Billing Issue,High,Closed,19-07-2023,21-07-2023,2,Yes,Web Form
+1663,868,Service Outage,Low,Open,25-08-2026,,,No,Email
+1664,564,General Query,Low,Open,20-06-2026,,,No,Phone
+1665,690,Meter Problem,Medium,Closed,27-11-2025,28-11-2025,1,No,Email
+1666,143,Meter Problem,High,Open,20-11-2025,,,Yes,Email
+1667,160,Meter Problem,Low,Open,13-09-2026,,,No,Email
+1668,644,Payment Issue,Medium,Closed,22-12-2024,25-12-2024,3,No,Phone
+1669,587,General Query,Medium,Closed,17-02-2026,22-02-2026,5,Yes,Web Form
+1670,477,General Query,Medium,Closed,06-01-2025,10-01-2025,4,Yes,Web Form
+1671,779,Payment Issue,Medium,Closed,17-10-2026,21-10-2026,4,Yes,Web Form
+1672,364,Meter Problem,Low,Open,13-06-2024,,,Yes,Phone
+1673,835,Meter Problem,Medium,Open,24-07-2025,,,Yes,Phone
+1674,110,Meter Problem,High,Closed,19-02-2023,23-02-2023,4,Yes,Email
+1675,927,Payment Issue,High,Closed,14-01-2024,17-01-2024,3,Yes,Phone
+1676,413,General Query,Medium,Open,28-12-2023,,,Yes,Phone
+1677,817,General Query,Low,Open,03-04-2025,,,Yes,Phone
+1678,448,Meter Problem,Low,Open,23-07-2024,,,Yes,Web Form
+1679,364,Meter Problem,High,Closed,20-12-2023,23-12-2023,3,Yes,Phone
+1680,485,Payment Issue,High,Closed,25-06-2025,28-06-2025,3,Yes,Web Form
+1681,101,General Query,High,Open,01-11-2024,,,Yes,Email
+1682,150,Billing Issue,Low,Closed,11-01-2025,15-01-2025,4,Yes,Phone
+1683,356,Service Outage,Low,Closed,21-06-2026,25-06-2026,4,Yes,Web Form
+1684,73,General Query,Medium,Closed,28-11-2025,30-11-2025,2,No,Phone
+1685,228,Meter Problem,Medium,Closed,05-11-2025,09-11-2025,4,Yes,Email
+1686,154,Service Outage,Medium,Closed,25-09-2023,30-09-2023,5,Yes,Web Form
+1687,754,Payment Issue,Low,Open,02-09-2024,,,Yes,Email
+1688,604,Billing Issue,Low,Closed,26-10-2026,27-10-2026,1,No,Phone
+1689,467,Payment Issue,Low,Open,08-01-2024,,,Yes,Web Form
+1690,829,Billing Issue,Low,Closed,19-10-2025,23-10-2025,4,Yes,Email
+1691,879,Payment Issue,Low,Open,05-05-2025,,,Yes,Email
+1692,81,General Query,Medium,Closed,14-01-2026,17-01-2026,3,No,Email
+1693,984,Billing Issue,Medium,Closed,10-06-2026,14-06-2026,4,Yes,Web Form
+1694,430,General Query,Medium,Open,22-09-2025,,,Yes,Phone
+1695,949,Payment Issue,Medium,Closed,27-06-2023,30-06-2023,3,No,Phone
+1696,497,Service Outage,Medium,Closed,17-09-2026,22-09-2026,5,Yes,Phone
+1697,532,Payment Issue,High,Closed,24-04-2026,28-04-2026,4,Yes,Web Form
+1698,217,Billing Issue,Low,Closed,11-11-2023,16-11-2023,5,Yes,Web Form
+1699,958,Payment Issue,Medium,Open,10-12-2025,,,Yes,Email
+1700,132,General Query,Medium,Closed,02-08-2026,04-08-2026,2,No,Phone
+1701,39,Meter Problem,Low,Open,11-12-2026,,,No,Phone
+1702,564,Payment Issue,Medium,Closed,18-12-2026,21-12-2026,3,No,Email
+1703,226,Billing Issue,High,Closed,23-04-2024,28-04-2024,5,Yes,Web Form
+1704,649,General Query,Medium,Open,14-03-2024,,,Yes,Phone
+1705,3,General Query,Medium,Closed,24-02-2023,01-03-2023,5,Yes,Email
+1706,330,Service Outage,Low,Closed,12-09-2023,17-09-2023,5,Yes,Phone
+1707,727,Meter Problem,Medium,Open,15-05-2025,,,Yes,Phone
+1708,45,Billing Issue,Medium,Open,01-02-2024,,,Yes,Phone
+1709,67,Billing Issue,High,Closed,26-07-2026,30-07-2026,4,Yes,Web Form
+1710,265,Service Outage,Low,Closed,04-03-2024,07-03-2024,3,No,Phone
+1711,548,Payment Issue,Low,Closed,21-10-2024,26-10-2024,5,Yes,Web Form
+1712,365,Billing Issue,Medium,Open,27-02-2025,,,Yes,Phone
+1713,48,Meter Problem,Medium,Closed,18-10-2023,23-10-2023,5,Yes,Email
+1714,150,Payment Issue,Medium,Closed,26-05-2024,31-05-2024,5,Yes,Email
+1715,564,Billing Issue,Low,Closed,08-04-2025,10-04-2025,2,No,Web Form
+1716,983,Billing Issue,High,Open,16-09-2025,,,Yes,Phone
+1717,689,General Query,Low,Closed,23-07-2024,24-07-2024,1,No,Web Form
+1718,643,Payment Issue,Low,Open,05-03-2025,,,Yes,Web Form
+1719,97,Payment Issue,High,Closed,08-03-2026,13-03-2026,5,Yes,Email
+1720,594,Billing Issue,High,Closed,12-06-2025,15-06-2025,3,Yes,Web Form
+1721,71,Meter Problem,High,Open,17-10-2023,,,Yes,Web Form
+1722,616,Payment Issue,Medium,Closed,15-12-2024,20-12-2024,5,Yes,Web Form
+1723,976,Billing Issue,High,Closed,02-06-2025,04-06-2025,2,Yes,Web Form
+1724,296,Meter Problem,Low,Closed,22-09-2026,23-09-2026,1,No,Web Form
+1725,34,Meter Problem,Low,Closed,09-07-2024,12-07-2024,3,No,Phone
+1726,410,General Query,Medium,Closed,24-12-2026,26-12-2026,2,No,Email
+1727,880,General Query,High,Closed,15-01-2025,17-01-2025,2,Yes,Phone
+1728,178,Payment Issue,Medium,Closed,10-06-2025,14-06-2025,4,Yes,Email
+1729,285,Payment Issue,Low,Closed,27-05-2025,01-06-2025,5,Yes,Phone
+1730,131,Meter Problem,Medium,Closed,09-12-2026,13-12-2026,4,Yes,Email
+1731,702,Service Outage,High,Closed,11-03-2023,13-03-2023,2,Yes,Web Form
+1732,760,Meter Problem,Low,Closed,07-01-2024,10-01-2024,3,No,Phone
+1733,40,General Query,Low,Closed,09-07-2023,10-07-2023,1,No,Email
+1734,429,Payment Issue,Low,Closed,24-11-2026,28-11-2026,4,Yes,Phone
+1735,116,Billing Issue,Low,Open,28-09-2023,,,Yes,Phone
+1736,247,Service Outage,Medium,Open,15-12-2025,,,Yes,Web Form
+1737,138,Meter Problem,High,Closed,16-12-2023,20-12-2023,4,Yes,Phone
+1738,862,General Query,Low,Closed,02-09-2025,06-09-2025,4,Yes,Web Form
+1739,10,Service Outage,High,Open,08-03-2023,,,Yes,Phone
+1740,821,General Query,Medium,Closed,06-11-2023,07-11-2023,1,No,Phone
+1741,786,Payment Issue,Low,Closed,28-11-2025,02-12-2025,4,Yes,Email
+1742,526,Service Outage,Low,Closed,26-04-2023,01-05-2023,5,Yes,Email
+1743,518,General Query,High,Closed,27-01-2025,28-01-2025,1,Yes,Web Form
+1744,523,Payment Issue,Medium,Open,11-08-2023,,,Yes,Phone
+1745,1,Payment Issue,Medium,Open,01-11-2025,,,Yes,Web Form
+1746,158,General Query,Medium,Open,26-03-2025,,,Yes,Phone
+1747,660,General Query,Low,Closed,20-05-2024,22-05-2024,2,No,Web Form
+1748,34,General Query,Low,Open,05-10-2026,,,No,Email
+1749,36,Billing Issue,Medium,Closed,13-09-2026,14-09-2026,1,No,Web Form
+1750,776,General Query,Low,Open,08-10-2024,,,Yes,Web Form
+1751,712,Service Outage,Low,Open,12-04-2024,,,Yes,Phone
+1752,431,General Query,Medium,Open,26-07-2026,,,No,Web Form
+1753,771,Meter Problem,High,Closed,15-04-2025,19-04-2025,4,Yes,Email
+1754,430,Meter Problem,High,Open,25-05-2026,,,Yes,Email
+1755,568,Billing Issue,High,Closed,08-09-2025,09-09-2025,1,Yes,Web Form
+1756,615,Service Outage,High,Open,03-06-2026,,,Yes,Email
+1757,588,Meter Problem,Medium,Closed,23-01-2025,27-01-2025,4,Yes,Phone
+1758,162,Billing Issue,Low,Open,18-05-2023,,,Yes,Phone
+1759,631,Service Outage,Low,Open,25-12-2023,,,Yes,Web Form
+1760,987,General Query,Low,Closed,07-02-2026,09-02-2026,2,No,Web Form
+1761,538,Service Outage,Low,Open,20-12-2023,,,Yes,Phone
+1762,248,General Query,High,Closed,12-09-2023,16-09-2023,4,Yes,Phone
+1763,963,Meter Problem,Low,Closed,08-03-2026,11-03-2026,3,No,Web Form
+1764,245,Payment Issue,High,Closed,05-04-2026,09-04-2026,4,Yes,Email
+1765,358,Meter Problem,Low,Closed,19-05-2026,24-05-2026,5,Yes,Phone
+1766,743,Billing Issue,Medium,Closed,11-12-2026,15-12-2026,4,Yes,Phone
+1767,137,Billing Issue,Low,Open,06-10-2025,,,Yes,Web Form
+1768,917,Payment Issue,Medium,Open,14-01-2024,,,Yes,Email
+1769,579,General Query,Medium,Open,01-01-2025,,,Yes,Web Form
+1770,248,Meter Problem,High,Open,19-10-2023,,,Yes,Phone
+1771,903,General Query,Low,Closed,13-08-2023,17-08-2023,4,Yes,Email
+1772,249,Meter Problem,Medium,Closed,16-11-2023,19-11-2023,3,No,Web Form
+1773,472,Payment Issue,Low,Open,09-04-2026,,,Yes,Email
+1774,169,Billing Issue,Low,Closed,19-03-2024,21-03-2024,2,No,Email
+1775,516,Meter Problem,Low,Open,16-09-2025,,,Yes,Email
+1776,984,Service Outage,Medium,Open,20-01-2026,,,Yes,Phone
+1777,2,Meter Problem,Medium,Closed,12-03-2026,15-03-2026,3,No,Email
+1778,690,Payment Issue,Medium,Closed,21-10-2024,23-10-2024,2,No,Phone
+1779,880,Payment Issue,Medium,Closed,27-07-2025,28-07-2025,1,No,Phone
+1780,318,Payment Issue,Medium,Closed,17-06-2025,19-06-2025,2,No,Email
+1781,198,Payment Issue,Medium,Open,19-01-2025,,,Yes,Web Form
+1782,550,Service Outage,Medium,Closed,03-11-2023,06-11-2023,3,No,Email
+1783,986,Meter Problem,Medium,Closed,03-08-2023,05-08-2023,2,No,Email
+1784,866,Service Outage,Medium,Closed,03-03-2024,05-03-2024,2,No,Phone
+1785,881,Service Outage,Medium,Closed,22-11-2025,25-11-2025,3,No,Phone
+1786,399,Service Outage,High,Closed,06-05-2026,10-05-2026,4,Yes,Email
+1787,400,General Query,Medium,Open,10-11-2025,,,Yes,Email
+1788,659,Meter Problem,High,Closed,19-01-2025,24-01-2025,5,Yes,Web Form
+1789,394,Service Outage,Medium,Open,13-04-2024,,,Yes,Web Form
+1790,764,General Query,Low,Closed,02-01-2023,04-01-2023,2,No,Email
+1791,617,Billing Issue,Low,Closed,15-06-2026,20-06-2026,5,Yes,Web Form
+1792,955,Service Outage,High,Closed,17-07-2025,21-07-2025,4,Yes,Web Form
+1793,161,Meter Problem,Low,Closed,19-11-2023,23-11-2023,4,Yes,Phone
+1794,499,General Query,High,Open,05-03-2025,,,Yes,Phone
+1795,740,Meter Problem,Medium,Closed,03-06-2025,04-06-2025,1,No,Web Form
+1796,356,Meter Problem,High,Open,13-01-2023,,,Yes,Email
+1797,871,Meter Problem,Medium,Closed,21-11-2026,26-11-2026,5,Yes,Web Form
+1798,365,Payment Issue,Medium,Open,04-07-2025,,,Yes,Web Form
+1799,566,Meter Problem,High,Open,26-03-2023,,,Yes,Phone
+1800,112,Meter Problem,High,Closed,19-03-2024,24-03-2024,5,Yes,Email
+1801,752,Meter Problem,Medium,Closed,25-11-2026,27-11-2026,2,No,Phone
+1802,966,Payment Issue,Medium,Open,16-08-2025,,,Yes,Phone
+1803,892,Payment Issue,Low,Open,10-01-2023,,,Yes,Phone
+1804,887,Billing Issue,High,Closed,22-03-2024,24-03-2024,2,Yes,Web Form
+1805,472,Service Outage,Low,Open,24-03-2025,,,Yes,Email
+1806,527,General Query,Low,Closed,04-06-2024,07-06-2024,3,No,Phone
+1807,614,Payment Issue,Low,Open,21-08-2024,,,Yes,Phone
+1808,406,Service Outage,High,Closed,12-08-2025,17-08-2025,5,Yes,Phone
+1809,484,General Query,High,Open,02-05-2024,,,Yes,Email
+1810,772,Payment Issue,High,Open,04-08-2024,,,Yes,Email
+1811,771,Billing Issue,Medium,Closed,11-10-2023,15-10-2023,4,Yes,Web Form
+1812,77,Service Outage,Medium,Closed,04-01-2024,05-01-2024,1,No,Email
+1813,424,General Query,Low,Open,20-11-2025,,,Yes,Web Form
+1814,84,Billing Issue,High,Open,10-04-2026,,,Yes,Phone
+1815,885,Meter Problem,Low,Open,28-05-2023,,,Yes,Web Form
+1816,972,Billing Issue,High,Closed,25-07-2024,26-07-2024,1,Yes,Email
+1817,215,Service Outage,Medium,Open,18-07-2026,,,No,Web Form
+1818,774,Service Outage,Medium,Open,04-03-2025,,,Yes,Email
+1819,564,General Query,High,Open,04-11-2025,,,Yes,Phone
+1820,176,Payment Issue,Low,Closed,27-02-2024,03-03-2024,5,Yes,Email
+1821,922,Service Outage,Medium,Open,01-03-2026,,,Yes,Phone
+1822,367,Service Outage,Low,Closed,03-11-2025,04-11-2025,1,No,Phone
+1823,36,Meter Problem,High,Closed,10-10-2023,12-10-2023,2,Yes,Web Form
+1824,360,Service Outage,Medium,Open,10-06-2024,,,Yes,Web Form
+1825,683,Meter Problem,Medium,Closed,07-05-2024,11-05-2024,4,Yes,Web Form
+1826,461,General Query,Medium,Closed,23-02-2024,26-02-2024,3,No,Web Form
+1827,346,Billing Issue,Medium,Open,05-06-2023,,,Yes,Email
+1828,665,General Query,High,Closed,25-11-2026,28-11-2026,3,Yes,Phone
+1829,769,Payment Issue,Low,Closed,22-01-2026,24-01-2026,2,No,Phone
+1830,246,Service Outage,Low,Closed,26-07-2024,28-07-2024,2,No,Phone
+1831,107,General Query,High,Closed,05-12-2025,07-12-2025,2,Yes,Phone
+1832,318,Payment Issue,Medium,Open,23-07-2025,,,Yes,Phone
+1833,58,Meter Problem,Low,Closed,08-08-2024,10-08-2024,2,No,Phone
+1834,991,Payment Issue,High,Open,28-06-2026,,,Yes,Email
+1835,331,Service Outage,Low,Closed,15-10-2023,16-10-2023,1,No,Email
+1836,216,Billing Issue,Medium,Open,12-11-2024,,,Yes,Email
+1837,1000,General Query,Medium,Open,04-03-2025,,,Yes,Phone
+1838,407,Meter Problem,Low,Closed,23-06-2025,27-06-2025,4,Yes,Email
+1839,834,Service Outage,Low,Closed,24-08-2026,29-08-2026,5,Yes,Phone
+1840,633,Service Outage,Medium,Closed,08-04-2025,09-04-2025,1,No,Phone
+1841,327,Billing Issue,Low,Closed,11-02-2023,13-02-2023,2,No,Email
+1842,919,Billing Issue,Medium,Open,06-04-2023,,,Yes,Web Form
+1843,948,Meter Problem,Low,Open,11-02-2023,,,Yes,Phone
+1844,514,Meter Problem,Low,Open,28-07-2026,,,No,Phone
+1845,919,Meter Problem,High,Open,01-08-2024,,,Yes,Phone
+1846,763,General Query,High,Open,27-03-2026,,,Yes,Phone
+1847,855,Payment Issue,High,Open,13-08-2025,,,Yes,Email
+1848,462,Meter Problem,High,Closed,13-10-2023,17-10-2023,4,Yes,Email
+1849,967,Billing Issue,High,Open,06-08-2024,,,Yes,Phone
+1850,458,Payment Issue,High,Open,22-11-2025,,,Yes,Email
+1851,660,Billing Issue,Low,Open,28-06-2026,,,No,Web Form
+1852,781,General Query,Low,Open,06-08-2026,,,No,Email
+1853,899,General Query,Low,Closed,28-06-2026,02-07-2026,4,Yes,Web Form
+1854,73,Billing Issue,Low,Closed,01-12-2025,05-12-2025,4,Yes,Web Form
+1855,913,Billing Issue,Medium,Closed,05-08-2026,06-08-2026,1,No,Phone
+1856,88,Meter Problem,High,Closed,25-04-2025,28-04-2025,3,Yes,Email
+1857,25,General Query,High,Open,15-09-2025,,,Yes,Email
+1858,542,Service Outage,High,Open,20-02-2023,,,Yes,Web Form
+1859,876,Payment Issue,Low,Closed,02-08-2026,04-08-2026,2,No,Phone
+1860,364,Service Outage,High,Open,14-10-2023,,,Yes,Email
+1861,656,Billing Issue,Low,Closed,26-02-2026,03-03-2026,5,Yes,Phone
+1862,29,Service Outage,Medium,Closed,05-02-2024,10-02-2024,5,Yes,Web Form
+1863,107,General Query,High,Open,22-12-2023,,,Yes,Phone
+1864,401,Service Outage,High,Closed,12-06-2025,17-06-2025,5,Yes,Phone
+1865,808,Meter Problem,High,Open,02-01-2026,,,Yes,Email
+1866,968,Billing Issue,Low,Closed,04-12-2025,07-12-2025,3,No,Email
+1867,835,Service Outage,Medium,Closed,17-07-2025,20-07-2025,3,No,Web Form
+1868,234,Service Outage,High,Closed,02-02-2023,04-02-2023,2,Yes,Phone
+1869,156,Meter Problem,Medium,Open,14-10-2023,,,Yes,Phone
+1870,764,Billing Issue,Low,Closed,19-04-2023,21-04-2023,2,No,Phone
+1871,165,Payment Issue,High,Closed,01-07-2025,02-07-2025,1,Yes,Web Form
+1872,136,Payment Issue,Medium,Closed,15-10-2025,20-10-2025,5,Yes,Email
+1873,775,Service Outage,High,Open,11-03-2025,,,Yes,Phone
+1874,257,Payment Issue,High,Open,13-06-2025,,,Yes,Email
+1875,703,Billing Issue,Medium,Closed,14-12-2024,15-12-2024,1,No,Email
+1876,951,Payment Issue,High,Closed,07-02-2026,09-02-2026,2,Yes,Phone
+1877,563,General Query,Medium,Closed,03-05-2023,04-05-2023,1,No,Phone
+1878,802,Billing Issue,Medium,Closed,14-09-2023,15-09-2023,1,No,Email
+1879,459,Service Outage,Medium,Open,07-01-2024,,,Yes,Phone
+1880,350,General Query,Medium,Open,15-06-2025,,,Yes,Phone
+1881,840,Payment Issue,Low,Open,03-10-2026,,,No,Email
+1882,89,General Query,Medium,Closed,17-01-2026,21-01-2026,4,Yes,Web Form
+1883,622,Service Outage,Low,Open,08-04-2026,,,Yes,Phone
+1884,680,Billing Issue,Low,Closed,13-08-2024,17-08-2024,4,Yes,Phone
+1885,551,Billing Issue,Medium,Open,16-09-2025,,,Yes,Web Form
+1886,345,Service Outage,Low,Closed,02-04-2023,04-04-2023,2,No,Phone
+1887,136,General Query,Low,Closed,03-09-2024,07-09-2024,4,Yes,Phone
+1888,894,General Query,Medium,Closed,14-07-2023,19-07-2023,5,Yes,Email
+1889,439,General Query,Low,Closed,23-08-2025,26-08-2025,3,No,Phone
+1890,467,Service Outage,High,Closed,28-08-2023,30-08-2023,2,Yes,Email
+1891,906,General Query,High,Closed,13-04-2024,14-04-2024,1,Yes,Email
+1892,108,Payment Issue,Medium,Closed,07-11-2026,12-11-2026,5,Yes,Email
+1893,666,Payment Issue,Low,Closed,20-03-2023,25-03-2023,5,Yes,Email
+1894,146,General Query,Low,Open,11-09-2025,,,Yes,Email
+1895,263,General Query,High,Open,04-02-2026,,,Yes,Web Form
+1896,194,Billing Issue,Medium,Open,10-12-2024,,,Yes,Phone
+1897,239,General Query,High,Closed,21-07-2026,24-07-2026,3,Yes,Email
+1898,294,General Query,Low,Closed,03-02-2026,07-02-2026,4,Yes,Email
+1899,556,Billing Issue,Low,Closed,05-05-2026,06-05-2026,1,No,Web Form
+1900,672,General Query,High,Closed,04-07-2025,06-07-2025,2,Yes,Email
+1901,85,General Query,Low,Open,24-11-2025,,,Yes,Web Form
+1902,945,Payment Issue,Low,Closed,08-09-2024,09-09-2024,1,No,Phone
+1903,990,Service Outage,Low,Closed,04-02-2026,06-02-2026,2,No,Phone
+1904,685,Billing Issue,High,Closed,13-07-2026,18-07-2026,5,Yes,Phone
+1905,171,Payment Issue,Low,Closed,24-07-2025,25-07-2025,1,No,Web Form
+1906,197,Payment Issue,High,Open,19-10-2026,,,Yes,Web Form
+1907,697,Billing Issue,High,Closed,01-11-2024,02-11-2024,1,Yes,Email
+1908,464,Billing Issue,High,Open,08-12-2026,,,Yes,Web Form
+1909,45,Payment Issue,Medium,Closed,17-05-2025,21-05-2025,4,Yes,Web Form
+1910,206,Meter Problem,High,Open,21-06-2023,,,Yes,Email
+1911,852,Billing Issue,Medium,Open,12-05-2026,,,No,Web Form
+1912,266,Meter Problem,Low,Closed,16-05-2024,18-05-2024,2,No,Web Form
+1913,115,Meter Problem,Low,Open,19-10-2024,,,Yes,Phone
+1914,551,Service Outage,Low,Closed,20-03-2024,21-03-2024,1,No,Web Form
+1915,939,Service Outage,High,Closed,15-06-2024,20-06-2024,5,Yes,Phone
+1916,517,Service Outage,Medium,Open,24-03-2023,,,Yes,Web Form
+1917,524,Payment Issue,Low,Closed,19-06-2024,20-06-2024,1,No,Phone
+1918,602,Billing Issue,Medium,Closed,21-09-2026,23-09-2026,2,No,Web Form
+1919,785,Meter Problem,High,Closed,18-06-2023,19-06-2023,1,Yes,Email
+1920,870,Payment Issue,Low,Closed,02-10-2023,07-10-2023,5,Yes,Web Form
+1921,485,Service Outage,High,Closed,01-12-2026,04-12-2026,3,Yes,Email
+1922,69,Payment Issue,High,Closed,03-10-2026,04-10-2026,1,Yes,Phone
+1923,180,Service Outage,High,Closed,27-09-2024,01-10-2024,4,Yes,Web Form
+1924,810,General Query,Low,Closed,22-01-2026,24-01-2026,2,No,Phone
+1925,831,Meter Problem,High,Closed,26-05-2023,31-05-2023,5,Yes,Web Form
+1926,797,Service Outage,High,Closed,09-11-2026,10-11-2026,1,Yes,Web Form
+1927,553,Payment Issue,Medium,Open,04-06-2026,,,No,Phone
+1928,332,Billing Issue,Low,Open,20-10-2025,,,Yes,Phone
+1929,517,Billing Issue,High,Closed,24-01-2024,25-01-2024,1,Yes,Web Form
+1930,149,Billing Issue,Low,Open,26-10-2024,,,Yes,Web Form
+1931,171,Meter Problem,High,Closed,27-08-2024,31-08-2024,4,Yes,Phone
+1932,667,Service Outage,High,Open,15-03-2023,,,Yes,Email
+1933,372,Payment Issue,Medium,Closed,05-06-2025,10-06-2025,5,Yes,Web Form
+1934,717,Service Outage,Low,Closed,22-05-2025,26-05-2025,4,Yes,Email
+1935,803,Service Outage,High,Closed,26-05-2024,30-05-2024,4,Yes,Web Form
+1936,344,Service Outage,Medium,Closed,06-12-2026,11-12-2026,5,Yes,Phone
+1937,176,Service Outage,Medium,Closed,01-06-2024,06-06-2024,5,Yes,Web Form
+1938,351,General Query,Low,Closed,07-10-2023,08-10-2023,1,No,Email
+1939,970,Payment Issue,Low,Closed,15-11-2026,20-11-2026,5,Yes,Web Form
+1940,48,General Query,Low,Open,04-09-2024,,,Yes,Email
+1941,801,Service Outage,Medium,Closed,22-09-2023,23-09-2023,1,No,Phone
+1942,680,Billing Issue,High,Open,07-11-2024,,,Yes,Phone
+1943,916,Payment Issue,Low,Open,17-04-2024,,,Yes,Phone
+1944,445,Service Outage,Medium,Closed,10-03-2023,14-03-2023,4,Yes,Phone
+1945,68,Billing Issue,High,Open,25-12-2024,,,Yes,Web Form
+1946,809,Service Outage,Medium,Closed,04-08-2024,06-08-2024,2,No,Web Form
+1947,961,Payment Issue,High,Closed,04-06-2024,07-06-2024,3,Yes,Phone
+1948,870,Billing Issue,High,Open,08-09-2025,,,Yes,Web Form
+1949,913,Payment Issue,High,Open,22-07-2025,,,Yes,Web Form
+1950,873,Payment Issue,Medium,Open,09-04-2024,,,Yes,Web Form
+1951,556,General Query,Low,Closed,27-08-2023,29-08-2023,2,No,Email
+1952,899,Meter Problem,High,Closed,12-05-2023,16-05-2023,4,Yes,Email
+1953,759,Payment Issue,High,Open,16-06-2023,,,Yes,Email
+1954,196,Service Outage,Low,Closed,15-08-2025,19-08-2025,4,Yes,Email
+1955,570,Billing Issue,High,Closed,02-08-2024,04-08-2024,2,Yes,Email
+1956,689,Meter Problem,Medium,Closed,26-09-2023,28-09-2023,2,No,Email
+1957,146,Billing Issue,High,Open,02-09-2024,,,Yes,Email
+1958,70,Service Outage,High,Closed,28-08-2023,02-09-2023,5,Yes,Email
+1959,370,Meter Problem,Medium,Closed,07-09-2026,08-09-2026,1,No,Phone
+1960,714,Billing Issue,High,Open,02-02-2026,,,Yes,Web Form
+1961,700,Payment Issue,Medium,Open,28-08-2024,,,Yes,Phone
+1962,10,Billing Issue,Medium,Closed,18-12-2023,23-12-2023,5,Yes,Web Form
+1963,31,Payment Issue,Medium,Closed,19-01-2024,24-01-2024,5,Yes,Phone
+1964,212,Service Outage,High,Closed,14-09-2024,16-09-2024,2,Yes,Email
+1965,326,General Query,Low,Open,27-08-2026,,,No,Email
+1966,679,General Query,Low,Closed,01-12-2023,04-12-2023,3,No,Web Form
+1967,357,Payment Issue,Medium,Open,28-01-2025,,,Yes,Email
+1968,182,Payment Issue,Low,Open,23-09-2026,,,No,Web Form
+1969,447,General Query,Medium,Closed,28-05-2026,31-05-2026,3,No,Phone
+1970,809,Payment Issue,High,Closed,11-12-2026,16-12-2026,5,Yes,Web Form
+1971,570,Meter Problem,High,Open,22-03-2025,,,Yes,Web Form
+1972,765,Meter Problem,Low,Open,21-07-2026,,,No,Email
+1973,118,General Query,High,Closed,14-02-2025,15-02-2025,1,Yes,Phone
+1974,636,Billing Issue,High,Open,13-03-2023,,,Yes,Phone
+1975,275,General Query,Low,Closed,12-10-2023,16-10-2023,4,Yes,Web Form
+1976,723,General Query,High,Open,07-11-2026,,,Yes,Web Form
+1977,607,General Query,Low,Closed,03-10-2023,05-10-2023,2,No,Email
+1978,760,Payment Issue,Medium,Closed,21-02-2026,26-02-2026,5,Yes,Web Form
+1979,663,Meter Problem,High,Open,18-01-2026,,,Yes,Web Form
+1980,975,Meter Problem,High,Open,24-07-2023,,,Yes,Phone
+1981,370,General Query,High,Closed,11-11-2026,15-11-2026,4,Yes,Email
+1982,537,Payment Issue,High,Closed,26-11-2025,27-11-2025,1,Yes,Phone
+1983,723,General Query,Low,Closed,18-10-2023,20-10-2023,2,No,Email
+1984,511,Payment Issue,Low,Open,15-06-2023,,,Yes,Email
+1985,847,Billing Issue,Low,Open,10-03-2024,,,Yes,Web Form
+1986,514,Billing Issue,Medium,Closed,10-08-2024,12-08-2024,2,No,Web Form
+1987,673,Billing Issue,High,Closed,21-09-2024,24-09-2024,3,Yes,Phone
+1988,735,Service Outage,Low,Open,16-11-2025,,,Yes,Phone
+1989,540,Billing Issue,Medium,Closed,27-01-2024,31-01-2024,4,Yes,Email
+1990,515,Meter Problem,Medium,Closed,25-10-2026,26-10-2026,1,No,Web Form
+1991,662,Billing Issue,High,Open,27-04-2024,,,Yes,Email
+1992,934,Service Outage,High,Open,03-09-2026,,,Yes,Phone
+1993,988,Billing Issue,Medium,Closed,14-06-2023,15-06-2023,1,No,Email
+1994,387,General Query,High,Open,11-12-2026,,,Yes,Phone
+1995,476,General Query,High,Open,20-09-2024,,,Yes,Email
+1996,906,General Query,Medium,Open,26-05-2023,,,Yes,Web Form
+1997,405,Payment Issue,Low,Closed,12-05-2026,13-05-2026,1,No,Phone
+1998,209,General Query,Medium,Closed,28-02-2023,03-03-2023,3,No,Email
+1999,171,Payment Issue,High,Closed,23-04-2023,27-04-2023,4,Yes,Web Form
+2000,784,Billing Issue,Medium,Closed,13-02-2025,17-02-2025,4,Yes,Email

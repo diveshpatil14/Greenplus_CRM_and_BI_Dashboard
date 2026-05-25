@@ -1,0 +1,1001 @@
+Contract_ID,Customer_ID,Tariff_Plan,Contract_Type,Contract_Start_Date,Contract_Duration_Months,Contract_End_Date,Monthly_Standing_Charge,Unit_Rate_per_KWh,Contract_Status,Auto_Renewal
+1,41,Basic Plan,Variable,01-08-2023,36,01-08-2026,41,0.28,Active,Yes
+2,890,Premium Plan,Fixed,05-10-2023,12,05-10-2024,71,0.34,Expired,No
+3,185,Green Saver Plan,Variable,16-05-2025,36,16-05-2028,53,0.28,Active,Yes
+4,399,Basic Plan,Fixed,26-06-2023,24,26-06-2025,89,0.46,Expired,No
+5,781,Premium Plan,Variable,12-10-2023,24,12-10-2025,67,0.33,Expired,No
+6,348,Green Saver Plan,Fixed,01-01-2026,12,01-01-2027,63,0.32,Active,Yes
+7,556,Premium Plan,Variable,14-05-2025,12,14-05-2026,31,0.27,Active,Yes
+8,376,Business Flex Plan,Fixed,03-05-2023,12,03-05-2024,68,0.4,Expired,Yes
+9,412,Premium Plan,Variable,11-09-2024,24,11-09-2026,40,0.27,Active,Yes
+10,142,Business Flex Plan,Fixed,27-10-2025,24,27-10-2027,98,0.35,Active,Yes
+11,14,Business Flex Plan,Variable,08-03-2026,24,08-03-2028,,0.29,Active,Yes
+12,414,Business Flex Plan,Fixed,14-11-2024,36,14-11-2027,29,0.45,Active,Yes
+13,592,Basic Plan,Variable,07-05-2023,36,07-05-2026,94,0.31,Active,No
+14,87,Basic Plan,Fixed,08-05-2023,24,08-05-2025,21,0.43,Expired,Yes
+15,826,Business Flex Plan,Fixed,30-12-2023,36,30-12-2026,34,0.39,Active,No
+16,553,Business Flex Plan,Variable,16-10-2024,12,16-10-2025,79,0.4,Expired,Yes
+17,592,Business Flex Plan,Variable,14-08-2024,12,14-08-2025,90,0.4,Expired,Yes
+18,343,Standard Plan,Variable,03-01-2026,12,03-01-2027,46,0.31,Active,Yes
+19,396,Green Saver Plan,Variable,08-02-2024,24,08-02-2026,99,0.3,Expired,No
+20,731,Business Flex Plan,Fixed,,12,,75,0.5,,Yes
+21,869,Green Saver Plan,Variable,25-07-2024,24,25-07-2026,44,0.43,Active,No
+22,579,Standard Plan,Variable,11-04-2024,36,11-04-2027,89,0.47,Active,Yes
+23,168,Green Saver Plan,Variable,22-02-2026,24,22-02-2028,46,0.38,Active,Yes
+24,317,Premium Plan,Fixed,22-08-2025,24,22-08-2027,74,0.3,Active,Yes
+25,203,Business Flex Plan,Variable,04-11-2023,24,04-11-2025,87,0.42,Expired,No
+26,91,Green Saver Plan,Fixed,25-12-2023,12,25-12-2024,58,0.3,Expired,Yes
+27,924,Standard Plan,Fixed,19-12-2023,36,19-12-2026,,0.35,Active,No
+28,839,Business Flex Plan,,27-04-2024,12,27-04-2025,31,0.42,Expired,No
+29,845,Standard Plan,Variable,25-08-2023,12,25-08-2024,37,0.29,Expired,No
+30,983,Basic Plan,Fixed,27-11-2025,24,27-11-2027,32,0.25,Active,No
+31,851,Standard Plan,Fixed,22-12-2023,12,22-12-2024,62,0.48,Expired,Yes
+32,743,Premium Plan,Fixed,23-06-2024,36,23-06-2027,99,0.46,Active,No
+33,571,Green Saver Plan,Variable,01-09-2025,36,01-09-2028,57,0.43,Active,Yes
+34,653,Business Flex Plan,Fixed,20-11-2024,12,20-11-2025,73,0.46,Expired,No
+35,960,Green Saver Plan,Fixed,18-02-2025,12,18-02-2026,55,0.41,Expired,Yes
+36,619,Premium Plan,Fixed,25-10-2024,24,25-10-2026,44,0.36,Active,Yes
+37,270,Basic Plan,Variable,23-01-2026,36,23-01-2029,87,0.26,Active,No
+38,205,Basic Plan,,10-10-2023,24,10-10-2025,75,0.41,Expired,No
+39,75,Premium Plan,Fixed,26-09-2023,36,26-09-2026,47,0.32,Active,No
+40,376,Basic Plan,Fixed,19-07-2023,36,19-07-2026,57,0.45,Active,Yes
+41,853,Premium Plan,Variable,29-04-2025,24,29-04-2027,64,0.4,Active,No
+42,13,Premium Plan,Fixed,11-06-2023,12,11-06-2024,33,0.31,Expired,Yes
+43,385,Green Saver Plan,Fixed,20-04-2024,24,20-04-2026,91,0.49,Active,No
+44,151,Standard Plan,Variable,04-02-2024,36,04-02-2027,63,0.32,Active,No
+45,675,Business Flex Plan,Variable,19-05-2023,36,19-05-2026,64,0.49,Active,Yes
+46,682,Green Saver Plan,Fixed,24-06-2023,24,24-06-2025,89,0.32,Expired,Yes
+47,528,Premium Plan,Variable,08-08-2025,24,08-08-2027,64,0.43,Active,No
+48,624,Green Saver Plan,Fixed,07-09-2024,36,07-09-2027,48,0.37,Active,No
+49,671,Standard Plan,Variable,02-08-2025,36,02-08-2028,64,0.28,Active,Yes
+50,121,Premium Plan,Fixed,11-10-2025,36,11-10-2028,91,0.43,Active,Yes
+51,469,Premium Plan,Fixed,15-02-2025,12,15-02-2026,21,0.49,Expired,No
+52,679,Basic Plan,Variable,23-07-2024,36,23-07-2027,48,0.47,Active,Yes
+53,529,Premium Plan,Variable,25-01-2024,24,25-01-2026,71,0.29,Expired,Yes
+54,585,Premium Plan,Fixed,15-08-2024,36,15-08-2027,35,0.46,Active,Yes
+55,212,Green Saver Plan,Fixed,11-01-2024,36,11-01-2027,47,0.27,Active,No
+56,561,Premium Plan,Variable,19-06-2025,36,19-06-2028,47,0.26,Active,No
+57,92,Premium Plan,Variable,29-08-2023,12,29-08-2024,57,0.41,Expired,No
+58,142,Green Saver Plan,Fixed,03-01-2025,24,03-01-2027,72,0.35,Active,Yes
+59,717,Basic Plan,Variable,,36,,84,0.32,,No
+60,770,Green Saver Plan,Variable,26-06-2024,24,26-06-2026,82,0.46,Active,No
+61,91,Premium Plan,Fixed,09-09-2023,24,09-09-2025,37,0.41,Expired,No
+62,857,Premium Plan,,04-12-2024,24,04-12-2026,91,0.38,Active,No
+63,496,Basic Plan,Fixed,15-09-2024,12,15-09-2025,79,0.41,Expired,Yes
+64,881,Standard Plan,Fixed,07-12-2024,24,07-12-2026,23,0.43,Active,Yes
+65,836,Business Flex Plan,Fixed,19-09-2023,12,19-09-2024,67,0.49,Expired,No
+66,462,Basic Plan,Variable,18-09-2024,24,18-09-2026,53,0.34,Active,No
+67,10,Standard Plan,Variable,02-08-2025,24,02-08-2027,55,0.3,Active,No
+68,40,Basic Plan,Fixed,21-12-2024,12,21-12-2025,56,0.48,Expired,No
+69,915,Premium Plan,Variable,31-01-2026,24,31-01-2028,92,0.41,Active,No
+70,779,Business Flex Plan,Fixed,26-11-2024,24,26-11-2026,41,0.36,Active,No
+71,898,,Fixed,16-07-2024,24,16-07-2026,22,0.33,Active,Yes
+72,418,Basic Plan,Variable,01-02-2024,24,01-02-2026,60,0.39,Expired,Yes
+73,434,Standard Plan,Fixed,28-08-2023,12,28-08-2024,59,0.43,Expired,Yes
+74,846,Premium Plan,Fixed,10-03-2025,24,10-03-2027,42,0.39,Active,Yes
+75,202,Green Saver Plan,Fixed,17-02-2024,36,17-02-2027,87,0.27,Active,Yes
+76,230,Business Flex Plan,Variable,07-04-2026,12,07-04-2027,50,0.39,Active,Yes
+77,991,Premium Plan,Fixed,27-08-2024,24,27-08-2026,70,0.43,Active,Yes
+78,526,Business Flex Plan,Fixed,23-05-2024,36,23-05-2027,90,0.32,Active,Yes
+79,439,Business Flex Plan,Variable,29-07-2023,12,29-07-2024,86,0.44,Expired,No
+80,749,Standard Plan,Variable,12-05-2025,12,12-05-2026,90,0.46,Active,No
+81,56,Basic Plan,Fixed,09-10-2025,12,09-10-2026,,0.46,Active,No
+82,54,Basic Plan,Variable,27-10-2024,12,27-10-2025,66,0.33,Expired,No
+83,116,Green Saver Plan,Fixed,21-09-2024,24,21-09-2026,47,0.42,Active,No
+84,561,Business Flex Plan,Fixed,17-09-2024,12,17-09-2025,38,0.5,Expired,No
+85,605,Basic Plan,Variable,01-10-2025,12,01-10-2026,39,0.28,Active,Yes
+86,226,Green Saver Plan,Variable,20-02-2025,36,20-02-2028,89,0.26,Active,Yes
+87,979,Business Flex Plan,Variable,22-05-2024,12,22-05-2025,70,0.28,Expired,No
+88,283,Standard Plan,Fixed,14-08-2024,36,14-08-2027,86,0.46,Active,Yes
+89,334,Premium Plan,Variable,03-06-2023,36,03-06-2026,94,0.45,Active,Yes
+90,370,Green Saver Plan,Fixed,05-08-2023,36,05-08-2026,85,0.29,Active,Yes
+91,557,Basic Plan,Fixed,10-08-2025,36,10-08-2028,65,0.4,Active,Yes
+92,712,Basic Plan,Variable,13-12-2024,36,13-12-2027,49,0.3,Active,No
+93,465,Green Saver Plan,Fixed,22-07-2024,24,22-07-2026,76,0.49,Active,Yes
+94,292,Basic Plan,Variable,14-04-2025,24,14-04-2027,56,0.34,Active,Yes
+95,393,Standard Plan,Fixed,09-05-2025,36,09-05-2028,28,0.26,Active,Yes
+96,14,Basic Plan,Fixed,08-06-2025,36,08-06-2028,51,0.41,Active,Yes
+97,429,,Fixed,29-11-2024,36,29-11-2027,84,0.35,Active,No
+98,64,Standard Plan,Fixed,17-04-2024,24,17-04-2026,74,0.45,Active,No
+99,411,Business Flex Plan,Fixed,19-10-2025,12,19-10-2026,75,0.5,Active,Yes
+100,398,Basic Plan,Fixed,29-01-2026,24,29-01-2028,93,0.34,Active,Yes
+101,683,Standard Plan,Variable,13-03-2025,24,13-03-2027,52,0.48,Active,No
+102,352,Premium Plan,Fixed,14-06-2025,12,14-06-2026,,0.26,Active,Yes
+103,780,,Variable,20-10-2024,36,20-10-2027,71,0.31,Active,Yes
+104,708,Premium Plan,Variable,27-03-2025,12,27-03-2026,97,0.27,Expired,Yes
+105,666,Basic Plan,Variable,07-04-2024,24,07-04-2026,67,0.49,Expired,Yes
+106,197,Business Flex Plan,Variable,17-10-2025,36,17-10-2028,52,0.43,Active,No
+107,764,Standard Plan,Variable,31-01-2024,36,31-01-2027,24,0.46,Active,Yes
+108,328,Business Flex Plan,Variable,27-05-2023,12,27-05-2024,95,0.39,Expired,
+109,689,Premium Plan,Variable,19-03-2025,24,19-03-2027,66,0.4,Active,Yes
+110,37,Standard Plan,Fixed,22-06-2024,36,22-06-2027,22,0.41,Active,Yes
+111,420,Basic Plan,Variable,05-03-2026,24,05-03-2028,64,0.43,Active,Yes
+112,608,Green Saver Plan,Fixed,05-09-2023,24,05-09-2025,93,0.48,Expired,Yes
+113,1000,Standard Plan,,16-09-2025,36,16-09-2028,55,0.29,Active,Yes
+114,72,Green Saver Plan,Variable,21-12-2025,12,21-12-2026,72,0.26,Active,Yes
+115,667,Green Saver Plan,Fixed,07-05-2024,12,07-05-2025,96,0.41,Expired,Yes
+116,243,Premium Plan,Fixed,20-02-2026,24,20-02-2028,43,0.28,Active,Yes
+117,776,Business Flex Plan,Fixed,17-03-2026,24,17-03-2028,82,0.47,Active,
+118,404,Standard Plan,,14-04-2023,12,14-04-2024,87,0.37,Expired,Yes
+119,82,Standard Plan,Variable,07-02-2026,36,07-02-2029,97,0.28,Active,Yes
+120,522,Basic Plan,Fixed,19-12-2024,36,19-12-2027,28,0.46,Active,Yes
+121,780,Business Flex Plan,Fixed,29-06-2023,24,29-06-2025,49,0.29,Expired,Yes
+122,186,Basic Plan,Fixed,09-10-2025,24,09-10-2027,60,0.39,Active,Yes
+123,665,Green Saver Plan,Variable,05-04-2026,24,05-04-2028,21,0.3,Active,Yes
+124,261,Standard Plan,Variable,03-07-2025,36,03-07-2028,72,0.43,Active,Yes
+125,231,Premium Plan,Fixed,01-09-2024,24,01-09-2026,24,0.47,Active,No
+126,198,Basic Plan,Variable,07-04-2025,12,07-04-2026,70,0.44,Expired,Yes
+127,944,Basic Plan,Variable,29-08-2025,12,29-08-2026,53,0.36,Active,
+128,790,Green Saver Plan,Variable,16-05-2024,36,16-05-2027,86,0.37,Active,Yes
+129,588,Green Saver Plan,Fixed,21-02-2024,12,21-02-2025,84,0.37,Expired,Yes
+130,221,Premium Plan,Fixed,29-01-2024,24,29-01-2026,,0.48,Expired,Yes
+131,875,Green Saver Plan,Variable,03-09-2023,24,03-09-2025,70,0.35,Expired,Yes
+132,887,Standard Plan,Fixed,06-02-2026,12,06-02-2027,65,0.49,Active,Yes
+133,638,Green Saver Plan,Fixed,10-03-2026,36,10-03-2029,59,0.32,Active,No
+134,254,Business Flex Plan,Fixed,23-08-2025,12,23-08-2026,64,0.5,Active,Yes
+135,423,Business Flex Plan,,11-12-2024,12,11-12-2025,22,0.26,Expired,Yes
+136,226,Green Saver Plan,Variable,14-06-2023,24,14-06-2025,96,0.33,Expired,No
+137,442,Standard Plan,Variable,28-08-2024,36,28-08-2027,25,0.48,Active,No
+138,266,Basic Plan,Variable,27-06-2025,36,27-06-2028,28,0.32,Active,Yes
+139,668,Business Flex Plan,Variable,09-07-2023,12,09-07-2024,57,0.42,Expired,No
+140,21,Business Flex Plan,Fixed,15-03-2024,36,15-03-2027,87,0.43,Active,No
+141,275,Green Saver Plan,Fixed,27-07-2025,36,27-07-2028,54,0.29,Active,Yes
+142,334,Basic Plan,Fixed,30-09-2025,12,30-09-2026,40,0.26,Active,No
+143,873,Basic Plan,Variable,14-08-2024,24,14-08-2026,75,0.25,Active,No
+144,25,Standard Plan,Variable,30-10-2023,24,30-10-2025,34,0.29,Expired,Yes
+145,158,Basic Plan,Fixed,21-05-2023,36,21-05-2026,99,0.34,Active,No
+146,961,Green Saver Plan,Variable,24-10-2024,12,24-10-2025,76,0.38,Expired,Yes
+147,670,Basic Plan,Fixed,22-05-2025,12,22-05-2026,67,0.41,Active,No
+148,300,Premium Plan,Fixed,09-10-2024,12,09-10-2025,46,0.33,Expired,No
+149,188,Business Flex Plan,Variable,04-06-2023,12,04-06-2024,34,0.32,Expired,No
+150,959,Standard Plan,Variable,19-06-2025,36,19-06-2028,76,0.35,Active,No
+151,246,Premium Plan,Variable,14-08-2025,24,14-08-2027,74,0.37,Active,No
+152,703,Green Saver Plan,Fixed,04-12-2025,24,04-12-2027,34,0.4,Active,No
+153,736,Standard Plan,Variable,29-04-2025,12,29-04-2026,90,0.36,Active,No
+154,163,Standard Plan,Fixed,01-10-2024,12,01-10-2025,57,0.44,Expired,Yes
+155,727,Business Flex Plan,Variable,06-09-2023,24,06-09-2025,43,0.43,Expired,No
+156,998,Basic Plan,Fixed,04-08-2024,12,04-08-2025,71,0.29,Expired,No
+157,217,Green Saver Plan,Fixed,10-02-2024,36,10-02-2027,22,0.4,Active,No
+158,856,Business Flex Plan,Variable,23-01-2024,24,23-01-2026,64,0.28,Expired,Yes
+159,294,Business Flex Plan,Variable,23-03-2024,12,23-03-2025,94,0.34,Expired,Yes
+160,652,Premium Plan,Variable,20-01-2025,12,20-01-2026,29,0.3,Expired,Yes
+161,250,Basic Plan,Variable,10-05-2025,36,10-05-2028,61,0.4,Active,No
+162,386,Premium Plan,Fixed,16-02-2025,12,16-02-2026,32,0.38,Expired,Yes
+163,699,Green Saver Plan,Variable,24-01-2026,24,24-01-2028,38,0.36,Active,No
+164,624,Basic Plan,Variable,26-03-2024,36,26-03-2027,78,0.44,Active,Yes
+165,134,Premium Plan,Variable,21-02-2025,36,21-02-2028,22,0.46,Active,No
+166,930,Standard Plan,Fixed,09-04-2025,36,09-04-2028,68,0.43,Active,Yes
+167,235,Standard Plan,Fixed,11-01-2024,12,11-01-2025,45,0.29,Expired,Yes
+168,482,Basic Plan,Fixed,03-12-2023,36,03-12-2026,21,0.47,Active,No
+169,55,Green Saver Plan,Fixed,08-02-2025,36,08-02-2028,32,0.28,Active,Yes
+170,820,Basic Plan,Variable,21-05-2023,24,21-05-2025,65,0.36,Expired,No
+171,771,Premium Plan,Fixed,10-08-2024,24,10-08-2026,70,0.49,Active,No
+172,813,Business Flex Plan,Variable,18-04-2023,24,18-04-2025,74,0.45,Expired,No
+173,414,Green Saver Plan,Variable,25-11-2024,36,25-11-2027,59,0.36,Active,No
+174,214,Standard Plan,Fixed,09-01-2026,24,09-01-2028,90,0.33,Active,No
+175,874,Green Saver Plan,Fixed,24-08-2024,12,24-08-2025,24,0.38,Expired,No
+176,492,Premium Plan,Variable,14-11-2023,36,14-11-2026,86,0.26,Active,Yes
+177,670,Standard Plan,Fixed,03-09-2024,36,03-09-2027,52,0.45,Active,No
+178,357,Green Saver Plan,Variable,03-10-2025,24,03-10-2027,28,0.5,Active,No
+179,419,Standard Plan,Fixed,10-07-2023,36,10-07-2026,77,0.32,Active,No
+180,496,Standard Plan,Variable,17-12-2023,24,17-12-2025,39,0.46,Expired,Yes
+181,542,Basic Plan,Fixed,29-08-2024,24,29-08-2026,20,0.35,Active,Yes
+182,43,Green Saver Plan,Variable,20-04-2025,12,20-04-2026,70,0.41,Active,No
+183,81,Green Saver Plan,Fixed,03-05-2025,12,03-05-2026,22,0.44,Active,Yes
+184,702,Green Saver Plan,Fixed,06-10-2025,36,06-10-2028,84,0.4,Active,No
+185,811,Basic Plan,Variable,25-05-2024,24,25-05-2026,38,0.26,Active,Yes
+186,456,Green Saver Plan,Variable,18-05-2025,24,18-05-2027,92,0.28,Active,No
+187,158,Business Flex Plan,Fixed,12-11-2025,12,12-11-2026,42,0.5,Active,No
+188,890,Green Saver Plan,Fixed,20-08-2024,36,20-08-2027,74,0.4,Active,No
+189,535,Standard Plan,Fixed,11-04-2023,24,11-04-2025,74,0.26,Expired,No
+190,24,Green Saver Plan,Fixed,26-09-2024,12,26-09-2025,40,0.39,Expired,No
+191,334,Green Saver Plan,Variable,05-02-2026,24,05-02-2028,61,0.5,Active,No
+192,763,,Fixed,15-12-2024,36,15-12-2027,86,0.4,Active,Yes
+193,212,Standard Plan,Fixed,12-10-2025,12,12-10-2026,33,0.46,Active,No
+194,402,Premium Plan,Variable,26-03-2024,36,26-03-2027,66,0.29,Active,Yes
+195,810,Green Saver Plan,Variable,16-02-2024,36,16-02-2027,78,0.43,Active,Yes
+196,450,Standard Plan,Fixed,05-05-2025,12,05-05-2026,68,0.41,Active,Yes
+197,737,Green Saver Plan,,14-05-2024,36,14-05-2027,90,0.3,Active,No
+198,143,Standard Plan,Fixed,21-08-2024,12,21-08-2025,20,0.34,Expired,
+199,907,Premium Plan,Fixed,21-12-2024,12,21-12-2025,58,0.25,Expired,Yes
+200,182,Green Saver Plan,Fixed,16-04-2024,12,16-04-2025,57,0.29,Expired,No
+201,352,Green Saver Plan,Fixed,03-07-2023,12,03-07-2024,20,0.35,Expired,Yes
+202,495,Premium Plan,Variable,04-07-2024,36,04-07-2027,85,0.4,Active,No
+203,36,Green Saver Plan,Fixed,06-06-2024,24,06-06-2026,24,0.4,Active,No
+204,256,Basic Plan,Variable,24-11-2023,24,24-11-2025,65,0.34,Expired,Yes
+205,20,Business Flex Plan,Fixed,29-12-2023,24,29-12-2025,41,0.31,Expired,No
+206,738,Standard Plan,Variable,06-11-2024,36,06-11-2027,88,0.28,Active,No
+207,103,Business Flex Plan,Fixed,08-01-2025,36,08-01-2028,30,0.32,Active,No
+208,959,Business Flex Plan,Fixed,15-07-2023,12,15-07-2024,62,0.43,Expired,No
+209,6,Standard Plan,Variable,05-01-2024,24,05-01-2026,84,0.37,Expired,No
+210,572,Premium Plan,Variable,27-11-2024,24,27-11-2026,66,0.48,Active,No
+211,62,Standard Plan,Variable,28-11-2025,24,28-11-2027,72,0.34,Active,No
+212,119,Standard Plan,Variable,14-02-2025,36,14-02-2028,58,0.37,Active,Yes
+213,596,Premium Plan,Variable,04-10-2025,36,04-10-2028,52,0.48,Active,Yes
+214,959,Standard Plan,Variable,05-11-2025,12,05-11-2026,85,0.38,Active,No
+215,919,Premium Plan,Variable,03-11-2024,36,03-11-2027,76,0.36,Active,Yes
+216,729,Premium Plan,Variable,24-07-2025,36,24-07-2028,90,0.41,Active,No
+217,722,Basic Plan,Variable,19-02-2025,36,19-02-2028,88,0.25,Active,
+218,736,Green Saver Plan,Fixed,,36,#NUM!,71,0.3,#NUM!,Yes
+219,852,Business Flex Plan,Fixed,16-09-2024,24,16-09-2026,,0.3,Active,No
+220,243,Standard Plan,Fixed,30-08-2024,36,30-08-2027,50,0.38,Active,No
+221,236,Basic Plan,Variable,02-05-2025,36,02-05-2028,78,0.36,Active,No
+222,862,Green Saver Plan,,15-08-2023,36,15-08-2026,76,0.32,Active,No
+223,938,Green Saver Plan,Fixed,16-07-2024,12,16-07-2025,34,0.47,Expired,No
+224,236,Green Saver Plan,Fixed,05-07-2023,36,05-07-2026,89,0.48,Active,No
+225,76,Business Flex Plan,Variable,01-11-2025,36,01-11-2028,41,0.29,Active,No
+226,273,Green Saver Plan,Fixed,20-09-2023,36,20-09-2026,41,0.34,Active,No
+227,195,Premium Plan,Variable,24-02-2025,24,24-02-2027,56,0.33,Active,No
+228,718,Green Saver Plan,Variable,04-02-2024,24,04-02-2026,78,0.44,Expired,No
+229,387,Premium Plan,Fixed,25-08-2023,12,25-08-2024,66,0.28,Expired,No
+230,770,Business Flex Plan,Variable,22-05-2024,12,22-05-2025,76,0.34,Expired,Yes
+231,504,Premium Plan,Variable,22-07-2023,12,22-07-2024,52,0.49,Expired,Yes
+232,909,Business Flex Plan,Fixed,05-01-2024,12,05-01-2025,80,0.43,Expired,No
+233,722,Green Saver Plan,Variable,17-11-2024,24,17-11-2026,64,0.48,Active,Yes
+234,989,Green Saver Plan,Variable,10-04-2024,24,10-04-2026,76,0.39,Expired,No
+235,983,Premium Plan,Variable,10-04-2024,24,10-04-2026,67,0.46,Expired,No
+236,447,Basic Plan,Fixed,16-01-2024,24,16-01-2026,87,0.45,Expired,No
+237,442,Business Flex Plan,Fixed,03-07-2023,12,03-07-2024,82,0.49,Expired,No
+238,670,Basic Plan,Variable,05-12-2023,24,05-12-2025,76,0.44,Expired,No
+239,897,Standard Plan,Variable,27-11-2023,36,27-11-2026,48,0.43,Active,No
+240,877,Business Flex Plan,Fixed,16-03-2026,24,16-03-2028,38,0.49,Active,Yes
+241,991,Basic Plan,Fixed,09-08-2024,24,09-08-2026,37,0.33,Active,No
+242,460,Basic Plan,Fixed,26-12-2023,36,26-12-2026,33,0.27,Active,Yes
+243,292,Standard Plan,Variable,13-06-2023,24,13-06-2025,84,0.26,Expired,Yes
+244,620,Basic Plan,Variable,26-11-2025,24,26-11-2027,24,0.32,Active,No
+245,413,Green Saver Plan,Fixed,22-10-2023,24,22-10-2025,66,0.49,Expired,No
+246,613,Business Flex Plan,Variable,30-10-2025,24,30-10-2027,39,0.46,Active,No
+247,633,Premium Plan,Variable,29-04-2023,12,29-04-2024,42,0.33,Expired,Yes
+248,203,Business Flex Plan,Fixed,30-01-2025,24,30-01-2027,54,0.33,Active,Yes
+249,310,Premium Plan,Fixed,27-07-2023,36,27-07-2026,95,0.46,Active,No
+250,464,Premium Plan,Fixed,20-03-2023,36,20-03-2026,85,0.48,Expired,Yes
+251,384,Standard Plan,Variable,08-03-2026,12,08-03-2027,26,0.44,Active,No
+252,171,,Fixed,07-04-2025,12,07-04-2026,69,0.35,Expired,Yes
+253,390,Basic Plan,Variable,16-08-2023,36,16-08-2026,93,0.35,Active,Yes
+254,852,Premium Plan,Variable,29-08-2025,36,29-08-2028,96,0.32,Active,No
+255,734,Green Saver Plan,Fixed,05-10-2024,36,05-10-2027,52,0.32,Active,No
+256,290,Basic Plan,Variable,25-08-2023,12,25-08-2024,41,0.25,Expired,Yes
+257,714,Green Saver Plan,Fixed,20-06-2023,24,20-06-2025,,0.47,Expired,No
+258,159,Premium Plan,Fixed,29-11-2023,24,29-11-2025,77,0.27,Expired,No
+259,784,Green Saver Plan,Fixed,23-05-2025,24,23-05-2027,59,0.29,Active,Yes
+260,64,Green Saver Plan,Variable,29-10-2024,24,29-10-2026,77,0.41,Active,Yes
+261,525,Standard Plan,Variable,21-02-2026,12,21-02-2027,25,0.42,Active,No
+262,51,Basic Plan,Variable,16-10-2025,24,16-10-2027,28,0.41,Active,No
+263,757,Premium Plan,Fixed,09-10-2025,36,09-10-2028,24,0.5,Active,Yes
+264,709,Standard Plan,Variable,13-03-2024,24,13-03-2026,75,0.46,Expired,No
+265,870,Standard Plan,,03-04-2025,24,03-04-2027,52,0.26,Active,Yes
+266,359,Premium Plan,Variable,22-05-2023,24,22-05-2025,23,0.42,Expired,Yes
+267,814,Business Flex Plan,Variable,23-01-2024,36,23-01-2027,98,0.35,Active,Yes
+268,989,Premium Plan,Variable,09-10-2024,24,09-10-2026,100,0.43,Active,No
+269,453,Standard Plan,Variable,06-12-2025,36,06-12-2028,81,0.39,Active,No
+270,463,Basic Plan,Fixed,03-05-2023,36,03-05-2026,78,0.3,Active,Yes
+271,868,Basic Plan,Variable,10-10-2023,36,10-10-2026,59,0.42,Active,No
+272,120,Premium Plan,Fixed,09-07-2023,24,09-07-2025,65,0.45,Expired,No
+273,135,Green Saver Plan,Fixed,12-06-2024,36,12-06-2027,72,0.43,Active,Yes
+274,48,Business Flex Plan,Variable,14-10-2024,24,14-10-2026,74,0.3,Active,No
+275,719,Green Saver Plan,,18-04-2023,24,18-04-2025,98,0.32,Expired,Yes
+276,608,Premium Plan,Variable,02-10-2025,24,02-10-2027,62,0.47,Active,Yes
+277,262,Green Saver Plan,Variable,04-03-2024,12,04-03-2025,39,0.36,Expired,No
+278,313,Basic Plan,Variable,18-03-2023,12,18-03-2024,64,0.28,Expired,No
+279,500,Premium Plan,Fixed,11-04-2026,36,11-04-2029,78,0.32,Active,No
+280,214,Basic Plan,Fixed,28-02-2025,24,28-02-2027,50,0.31,Active,Yes
+281,792,Premium Plan,Variable,21-09-2024,24,21-09-2026,69,0.26,Active,Yes
+282,375,Standard Plan,Variable,23-03-2023,24,23-03-2025,40,0.4,Expired,No
+283,146,Green Saver Plan,Fixed,27-08-2023,12,27-08-2024,30,0.48,Expired,
+284,537,Premium Plan,Variable,25-04-2024,36,25-04-2027,70,0.45,Active,Yes
+285,900,Premium Plan,Variable,04-07-2025,24,04-07-2027,98,0.3,Active,No
+286,789,Green Saver Plan,Variable,28-08-2024,12,28-08-2025,80,0.47,Expired,Yes
+287,231,Standard Plan,Variable,25-07-2025,12,25-07-2026,72,0.32,Active,No
+288,662,Green Saver Plan,Variable,16-01-2024,36,16-01-2027,42,0.48,Active,Yes
+289,987,Standard Plan,Fixed,24-06-2025,36,24-06-2028,70,0.41,Active,No
+290,313,Standard Plan,Variable,20-04-2023,12,20-04-2024,37,0.25,Expired,Yes
+291,841,Basic Plan,,11-05-2025,12,11-05-2026,29,0.31,Active,No
+292,778,Business Flex Plan,Variable,26-02-2024,36,26-02-2027,76,0.35,Active,Yes
+293,649,Standard Plan,Fixed,30-04-2023,24,30-04-2025,56,0.29,Expired,Yes
+294,734,Premium Plan,Fixed,07-06-2023,12,07-06-2024,99,0.3,Expired,Yes
+295,217,Premium Plan,Variable,10-12-2024,24,10-12-2026,89,0.33,Active,Yes
+296,478,Basic Plan,Variable,,36,,32,0.43,,No
+297,207,Business Flex Plan,Fixed,09-10-2023,24,09-10-2025,97,0.34,Expired,No
+298,819,Premium Plan,Fixed,02-11-2023,24,02-11-2025,55,0.5,Expired,Yes
+299,52,Standard Plan,Fixed,04-07-2025,24,04-07-2027,69,0.37,Active,No
+300,419,Premium Plan,Variable,07-03-2025,36,07-03-2028,39,0.36,Active,Yes
+301,448,Business Flex Plan,Fixed,13-05-2023,12,13-05-2024,75,0.47,Expired,Yes
+302,209,Business Flex Plan,Fixed,08-12-2025,24,08-12-2027,27,0.49,Active,No
+303,297,Premium Plan,Variable,18-06-2025,36,18-06-2028,50,0.42,Active,No
+304,57,Business Flex Plan,Variable,25-10-2024,36,25-10-2027,88,0.28,Active,No
+305,597,Green Saver Plan,Variable,06-07-2024,36,06-07-2027,67,0.26,Active,No
+306,506,,Fixed,22-06-2024,24,22-06-2026,94,0.33,Active,No
+307,534,Green Saver Plan,Variable,07-07-2023,24,07-07-2025,81,0.25,Expired,Yes
+308,365,Basic Plan,Fixed,05-09-2025,12,05-09-2026,81,0.36,Active,No
+309,246,Green Saver Plan,Fixed,19-04-2025,12,19-04-2026,68,0.34,Active,Yes
+310,11,Business Flex Plan,Fixed,26-10-2024,12,26-10-2025,69,0.31,Expired,Yes
+311,411,Green Saver Plan,Fixed,,12,,42,0.37,,No
+312,774,Green Saver Plan,,08-10-2024,12,08-10-2025,71,0.4,Expired,No
+313,329,,Fixed,24-11-2025,24,24-11-2027,86,0.32,Active,Yes
+314,463,Premium Plan,Fixed,12-10-2023,24,12-10-2025,25,0.34,Expired,Yes
+315,631,Standard Plan,Fixed,22-08-2023,24,22-08-2025,79,0.49,Expired,No
+316,147,Standard Plan,Variable,21-09-2025,24,21-09-2027,49,0.43,Active,No
+317,676,Business Flex Plan,Fixed,24-11-2025,36,24-11-2028,24,0.27,Active,No
+318,212,Basic Plan,Variable,18-06-2023,12,18-06-2024,20,0.3,Expired,Yes
+319,833,Basic Plan,,,12,,48,0.38,,No
+320,743,Premium Plan,Fixed,26-05-2024,24,26-05-2026,24,0.33,Active,No
+321,327,Standard Plan,Variable,23-01-2024,24,23-01-2026,21,0.4,Expired,No
+322,945,Standard Plan,Variable,23-08-2023,36,23-08-2026,21,0.44,Active,
+323,112,Premium Plan,Fixed,08-12-2025,36,08-12-2028,69,0.49,Active,No
+324,438,Business Flex Plan,Fixed,13-01-2026,12,13-01-2027,96,0.45,Active,No
+325,975,Green Saver Plan,,18-12-2023,36,18-12-2026,86,0.3,Active,Yes
+326,764,Premium Plan,Variable,30-01-2026,36,30-01-2029,50,0.32,Active,No
+327,253,Business Flex Plan,Variable,06-04-2026,12,06-04-2027,79,0.36,Active,Yes
+328,230,Standard Plan,Variable,23-03-2025,24,23-03-2027,70,0.28,Active,Yes
+329,825,Premium Plan,Variable,30-04-2025,12,30-04-2026,91,0.29,Active,No
+330,793,Business Flex Plan,Variable,09-03-2026,24,09-03-2028,40,0.41,Active,Yes
+331,905,Green Saver Plan,Variable,21-03-2026,36,21-03-2029,81,0.49,Active,No
+332,619,Green Saver Plan,Variable,11-09-2024,12,11-09-2025,34,0.27,Expired,Yes
+333,578,Green Saver Plan,Fixed,01-09-2025,12,01-09-2026,98,0.28,Active,No
+334,450,Basic Plan,Fixed,19-01-2025,24,19-01-2027,24,0.43,Active,No
+335,976,Green Saver Plan,Fixed,01-06-2025,36,01-06-2028,98,0.31,Active,Yes
+336,688,Premium Plan,Fixed,14-09-2024,12,14-09-2025,31,0.35,Expired,Yes
+337,673,Premium Plan,Fixed,06-11-2023,36,06-11-2026,62,0.43,Active,No
+338,572,Premium Plan,Variable,21-03-2023,36,21-03-2026,96,0.31,Expired,Yes
+339,215,Basic Plan,Fixed,03-09-2024,36,03-09-2027,40,0.4,Active,No
+340,189,Green Saver Plan,Variable,23-02-2024,12,23-02-2025,49,0.29,Expired,No
+341,790,Business Flex Plan,Variable,20-10-2023,12,20-10-2024,64,0.4,Expired,Yes
+342,668,Green Saver Plan,Fixed,29-03-2024,12,29-03-2025,54,0.35,Expired,Yes
+343,193,Basic Plan,Fixed,21-03-2026,12,21-03-2027,77,0.26,Active,Yes
+344,921,Premium Plan,Fixed,14-12-2025,36,14-12-2028,82,0.5,Active,No
+345,630,Premium Plan,Fixed,08-03-2024,36,08-03-2027,48,0.35,Active,Yes
+346,613,Basic Plan,Variable,04-07-2024,12,04-07-2025,65,0.41,Expired,Yes
+347,987,Premium Plan,Variable,11-04-2026,12,11-04-2027,93,0.48,Active,No
+348,830,Basic Plan,Fixed,16-02-2024,36,16-02-2027,46,0.49,Active,No
+349,833,Standard Plan,Variable,11-05-2023,36,11-05-2026,26,0.4,Active,Yes
+350,558,Standard Plan,Fixed,20-11-2025,24,20-11-2027,39,0.44,Active,Yes
+351,214,,Fixed,04-01-2024,24,04-01-2026,76,0.27,Expired,No
+352,852,,Variable,11-03-2024,24,11-03-2026,43,0.25,Expired,No
+353,582,Standard Plan,Fixed,28-09-2023,36,28-09-2026,90,0.29,Active,Yes
+354,736,Green Saver Plan,Variable,08-11-2025,12,08-11-2026,97,0.4,Active,Yes
+355,616,Standard Plan,Fixed,04-10-2025,36,04-10-2028,48,0.3,Active,Yes
+356,432,Basic Plan,Variable,30-06-2023,12,30-06-2024,55,0.47,Expired,No
+357,856,Basic Plan,Variable,08-06-2025,12,08-06-2026,93,0.42,Active,No
+358,983,Business Flex Plan,,08-07-2023,24,08-07-2025,68,0.3,Expired,Yes
+359,186,Premium Plan,Fixed,08-02-2026,24,08-02-2028,41,0.37,Active,No
+360,488,Basic Plan,Fixed,20-06-2023,12,20-06-2024,82,0.46,Expired,Yes
+361,996,Business Flex Plan,Fixed,12-08-2023,36,12-08-2026,78,0.49,Active,No
+362,877,Green Saver Plan,Fixed,17-02-2026,36,17-02-2029,53,0.32,Active,No
+363,468,Green Saver Plan,Variable,11-04-2025,12,11-04-2026,59,0.25,Expired,No
+364,916,Green Saver Plan,Fixed,,36,#NUM!,76,0.43,#NUM!,No
+365,910,Standard Plan,Fixed,14-08-2025,12,14-08-2026,69,0.33,Active,No
+366,315,Standard Plan,Fixed,03-11-2024,12,03-11-2025,87,0.45,Expired,Yes
+367,372,Green Saver Plan,Variable,09-09-2023,12,09-09-2024,82,0.45,Expired,No
+368,346,Green Saver Plan,Fixed,23-07-2023,36,23-07-2026,59,0.45,Active,Yes
+369,862,Standard Plan,Fixed,04-02-2024,36,04-02-2027,96,0.49,Active,Yes
+370,654,Premium Plan,Variable,25-06-2024,36,25-06-2027,47,0.43,Active,Yes
+371,975,Standard Plan,Fixed,06-04-2023,12,06-04-2024,63,0.39,Expired,Yes
+372,903,Basic Plan,Fixed,04-03-2026,36,04-03-2029,97,0.34,Active,Yes
+373,797,Standard Plan,Variable,21-03-2025,24,21-03-2027,27,0.28,Active,No
+374,69,Standard Plan,Variable,21-06-2023,12,21-06-2024,39,0.31,Expired,Yes
+375,185,Business Flex Plan,Variable,05-06-2025,12,05-06-2026,77,0.46,Active,No
+376,339,Premium Plan,Variable,21-05-2024,24,21-05-2026,37,0.29,Active,No
+377,292,,Variable,06-12-2025,24,06-12-2027,61,0.33,Active,Yes
+378,51,Green Saver Plan,Variable,07-06-2025,36,07-06-2028,85,0.34,Active,No
+379,580,Standard Plan,Variable,20-03-2026,36,20-03-2029,91,0.46,Active,Yes
+380,760,Standard Plan,Fixed,10-05-2023,36,10-05-2026,27,0.32,Active,No
+381,640,Premium Plan,Fixed,01-11-2025,24,01-11-2027,42,0.38,Active,No
+382,530,Basic Plan,Variable,23-08-2023,36,23-08-2026,27,0.27,Active,No
+383,600,Green Saver Plan,Fixed,22-07-2025,24,22-07-2027,84,0.27,Active,No
+384,499,Business Flex Plan,Variable,,12,,88,0.43,,No
+385,363,Basic Plan,,12-07-2024,12,12-07-2025,32,0.45,Expired,Yes
+386,141,Premium Plan,Variable,19-05-2025,24,19-05-2027,26,0.34,Active,Yes
+387,370,Basic Plan,Variable,25-10-2024,24,25-10-2026,20,0.36,Active,No
+388,365,Business Flex Plan,Fixed,25-05-2024,24,25-05-2026,31,0.27,Active,No
+389,69,Business Flex Plan,Fixed,19-12-2025,36,19-12-2028,68,0.32,Active,No
+390,407,Premium Plan,Fixed,16-09-2025,36,16-09-2028,90,0.3,Active,Yes
+391,435,Business Flex Plan,Variable,22-12-2025,12,22-12-2026,40,0.32,Active,No
+392,621,Green Saver Plan,Fixed,29-08-2023,36,29-08-2026,86,0.38,Active,Yes
+393,794,Premium Plan,Fixed,07-02-2025,24,07-02-2027,39,0.49,Active,No
+394,817,Business Flex Plan,Variable,04-12-2025,12,04-12-2026,87,0.43,Active,Yes
+395,996,Basic Plan,Fixed,30-12-2023,24,30-12-2025,23,0.48,Expired,Yes
+396,676,Green Saver Plan,Fixed,,36,,63,0.35,,Yes
+397,598,Business Flex Plan,Variable,16-11-2025,24,16-11-2027,68,0.43,Active,No
+398,514,Standard Plan,Variable,25-04-2023,12,25-04-2024,34,0.46,Expired,Yes
+399,41,Green Saver Plan,Variable,12-06-2024,24,12-06-2026,35,0.36,Active,Yes
+400,729,Basic Plan,Variable,19-11-2025,36,19-11-2028,89,0.28,Active,Yes
+401,129,,Fixed,16-09-2024,36,16-09-2027,38,0.44,Active,No
+402,972,Basic Plan,Fixed,21-04-2023,12,21-04-2024,91,0.49,Expired,Yes
+403,745,Basic Plan,Variable,21-08-2023,12,21-08-2024,97,0.36,Expired,Yes
+404,419,Green Saver Plan,Variable,31-08-2024,36,31-08-2027,33,0.29,Active,No
+405,685,Business Flex Plan,Variable,05-01-2024,24,05-01-2026,39,0.37,Expired,No
+406,121,Standard Plan,Fixed,05-09-2025,12,05-09-2026,79,0.38,Active,Yes
+407,507,Business Flex Plan,Variable,09-10-2025,12,09-10-2026,47,0.36,Active,Yes
+408,969,Business Flex Plan,Fixed,14-01-2025,36,14-01-2028,77,0.49,Active,No
+409,788,Standard Plan,Fixed,11-11-2024,36,11-11-2027,62,0.34,Active,No
+410,840,Basic Plan,Fixed,18-03-2024,36,18-03-2027,88,0.44,Active,No
+411,921,Premium Plan,Variable,17-12-2025,36,17-12-2028,21,0.47,Active,No
+412,652,Basic Plan,Variable,25-08-2023,12,25-08-2024,93,0.42,Expired,No
+413,648,Premium Plan,Fixed,25-05-2023,36,25-05-2026,23,0.26,Active,No
+414,796,Green Saver Plan,Fixed,28-06-2023,12,28-06-2024,35,0.32,Expired,No
+415,829,Business Flex Plan,Variable,06-02-2026,12,06-02-2027,86,0.47,Active,No
+416,645,Green Saver Plan,Fixed,10-03-2025,12,10-03-2026,43,0.49,Expired,No
+417,416,Premium Plan,Fixed,13-08-2023,36,13-08-2026,32,0.49,Active,Yes
+418,930,Basic Plan,Fixed,13-07-2023,24,13-07-2025,84,0.4,Expired,No
+419,184,Business Flex Plan,Fixed,18-01-2025,24,18-01-2027,91,0.41,Active,No
+420,973,Premium Plan,Variable,22-02-2025,24,22-02-2027,83,0.42,Active,No
+421,190,Green Saver Plan,Fixed,29-03-2026,12,29-03-2027,66,0.34,Active,No
+422,20,Green Saver Plan,Fixed,17-08-2023,36,17-08-2026,38,0.26,Active,Yes
+423,615,Business Flex Plan,Fixed,20-01-2024,12,20-01-2025,82,0.48,Expired,Yes
+424,416,Premium Plan,Variable,11-03-2026,36,11-03-2029,87,0.49,Active,No
+425,627,Business Flex Plan,Variable,17-12-2025,24,17-12-2027,56,0.5,Active,Yes
+426,949,Premium Plan,Variable,12-08-2024,36,12-08-2027,87,0.48,Active,Yes
+427,269,Green Saver Plan,Fixed,23-12-2025,12,23-12-2026,57,0.33,Active,Yes
+428,791,Standard Plan,Variable,30-12-2023,36,30-12-2026,71,0.33,Active,No
+429,246,,Fixed,20-03-2025,24,20-03-2027,64,0.36,Active,Yes
+430,358,Standard Plan,Fixed,01-08-2023,36,01-08-2026,53,0.39,Active,No
+431,279,Standard Plan,Fixed,10-07-2025,24,10-07-2027,55,0.4,Active,No
+432,290,Standard Plan,Variable,14-04-2024,24,14-04-2026,28,0.41,Expired,No
+433,383,Basic Plan,Fixed,22-10-2023,24,22-10-2025,35,0.31,Expired,No
+434,995,Premium Plan,Fixed,27-01-2026,12,27-01-2027,42,0.45,Active,No
+435,975,Premium Plan,Fixed,07-01-2024,24,07-01-2026,60,0.29,Expired,Yes
+436,582,Business Flex Plan,Variable,29-04-2025,24,29-04-2027,83,0.47,Active,No
+437,260,Basic Plan,Fixed,02-11-2025,36,02-11-2028,93,0.36,Active,Yes
+438,42,Basic Plan,Fixed,23-06-2025,36,23-06-2028,24,0.35,Active,Yes
+439,214,Premium Plan,Variable,15-02-2025,36,15-02-2028,31,0.33,Active,Yes
+440,944,Green Saver Plan,Fixed,02-06-2024,24,02-06-2026,41,0.28,Active,Yes
+441,479,Basic Plan,Fixed,28-10-2025,12,28-10-2026,80,0.4,Active,No
+442,3,Basic Plan,Fixed,13-11-2025,36,13-11-2028,91,0.39,Active,Yes
+443,461,Basic Plan,Fixed,19-01-2024,12,19-01-2025,88,0.28,Expired,No
+444,881,Green Saver Plan,Variable,17-10-2024,12,17-10-2025,80,0.31,Expired,No
+445,367,Basic Plan,Variable,21-10-2024,24,21-10-2026,53,0.32,Active,Yes
+446,841,Business Flex Plan,Variable,27-03-2025,12,27-03-2026,69,0.39,Expired,Yes
+447,453,Basic Plan,Variable,02-01-2024,36,02-01-2027,29,0.46,Active,No
+448,636,Business Flex Plan,Variable,07-01-2024,36,07-01-2027,34,0.34,Active,Yes
+449,191,Standard Plan,Variable,31-07-2023,36,31-07-2026,40,0.38,Active,Yes
+450,297,Basic Plan,Fixed,04-12-2024,36,04-12-2027,73,0.44,Active,No
+451,778,Premium Plan,Variable,14-06-2023,12,14-06-2024,46,0.3,Expired,Yes
+452,178,Basic Plan,Fixed,17-07-2024,12,17-07-2025,29,0.43,Expired,Yes
+453,871,Premium Plan,Variable,03-04-2023,12,03-04-2024,95,0.31,Expired,Yes
+454,805,Premium Plan,Variable,12-10-2025,12,12-10-2026,57,0.32,Active,No
+455,700,Business Flex Plan,Fixed,06-01-2024,12,06-01-2025,57,0.3,Expired,No
+456,483,Basic Plan,Fixed,28-06-2023,12,28-06-2024,79,0.48,Expired,No
+457,710,Green Saver Plan,Fixed,28-02-2025,36,28-02-2028,40,0.28,Active,Yes
+458,654,,Variable,13-01-2026,36,13-01-2029,26,0.29,Active,Yes
+459,994,Green Saver Plan,Fixed,07-12-2024,24,07-12-2026,82,0.45,Active,No
+460,375,Standard Plan,Fixed,08-11-2024,12,08-11-2025,42,0.47,Expired,Yes
+461,842,Business Flex Plan,Fixed,03-01-2024,12,03-01-2025,43,0.26,Expired,Yes
+462,391,Green Saver Plan,Fixed,07-08-2023,36,07-08-2026,39,0.49,Active,Yes
+463,485,Basic Plan,Variable,05-01-2025,24,05-01-2027,38,0.45,Active,No
+464,228,Business Flex Plan,Variable,21-12-2023,12,21-12-2024,23,0.32,Expired,Yes
+465,954,Standard Plan,Fixed,13-05-2025,36,13-05-2028,97,0.3,Active,No
+466,681,Premium Plan,Fixed,30-01-2025,36,30-01-2028,42,0.45,Active,No
+467,546,Premium Plan,Variable,17-07-2023,12,17-07-2024,100,0.29,Expired,Yes
+468,773,Premium Plan,Fixed,05-04-2023,12,05-04-2024,79,0.37,Expired,No
+469,42,Green Saver Plan,Variable,22-02-2024,12,22-02-2025,74,0.49,Expired,Yes
+470,322,Premium Plan,Fixed,22-08-2024,12,22-08-2025,68,0.27,Expired,No
+471,362,Business Flex Plan,Fixed,25-01-2025,36,25-01-2028,29,0.26,Active,No
+472,274,Basic Plan,Variable,30-06-2023,12,30-06-2024,94,0.29,Expired,Yes
+473,368,Green Saver Plan,Variable,21-06-2025,24,21-06-2027,37,0.36,Active,No
+474,166,Premium Plan,,20-04-2024,12,20-04-2025,68,0.46,Expired,No
+475,543,Premium Plan,Variable,22-03-2025,36,22-03-2028,69,0.26,Active,No
+476,456,Premium Plan,Fixed,11-12-2024,12,11-12-2025,52,0.46,Expired,Yes
+477,511,Premium Plan,Fixed,04-10-2024,24,04-10-2026,86,0.25,Active,Yes
+478,360,Green Saver Plan,Variable,13-05-2024,24,13-05-2026,24,0.49,Active,Yes
+479,882,Standard Plan,Fixed,29-12-2023,12,29-12-2024,64,0.28,Expired,Yes
+480,961,Premium Plan,Fixed,26-06-2025,12,26-06-2026,29,0.27,Active,Yes
+481,275,Standard Plan,Fixed,11-01-2024,12,11-01-2025,53,0.33,Expired,Yes
+482,751,Standard Plan,Fixed,01-05-2023,36,01-05-2026,83,0.49,Active,Yes
+483,128,Standard Plan,Variable,06-03-2024,36,06-03-2027,94,0.36,Active,No
+484,144,Premium Plan,Variable,,12,,84,0.41,,Yes
+485,148,Business Flex Plan,Fixed,02-05-2023,24,02-05-2025,34,0.32,Expired,Yes
+486,120,Premium Plan,Variable,14-02-2025,36,14-02-2028,32,0.26,Active,Yes
+487,697,Premium Plan,Variable,27-03-2025,36,27-03-2028,72,0.43,Active,No
+488,196,Basic Plan,Fixed,24-09-2025,12,24-09-2026,67,0.37,Active,
+489,786,Green Saver Plan,Fixed,08-06-2023,24,08-06-2025,100,0.47,Expired,No
+490,458,Premium Plan,Variable,13-08-2025,24,13-08-2027,63,0.44,Active,No
+491,859,Standard Plan,Fixed,16-04-2024,36,16-04-2027,82,0.43,Active,Yes
+492,171,Business Flex Plan,Variable,06-11-2024,36,06-11-2027,77,0.29,Active,No
+493,294,Green Saver Plan,Fixed,02-02-2024,36,02-02-2027,22,0.31,Active,No
+494,987,Business Flex Plan,Variable,19-06-2025,36,19-06-2028,93,0.35,Active,No
+495,663,Basic Plan,Variable,19-08-2025,36,19-08-2028,72,0.32,Active,Yes
+496,454,Standard Plan,Fixed,13-11-2023,36,13-11-2026,35,0.25,Active,Yes
+497,623,Premium Plan,Fixed,13-01-2025,24,13-01-2027,59,0.48,Active,Yes
+498,753,Standard Plan,Variable,21-09-2023,12,21-09-2024,64,0.42,Expired,No
+499,678,Green Saver Plan,Fixed,04-03-2025,24,04-03-2027,60,0.32,Active,Yes
+500,815,Green Saver Plan,Variable,12-07-2023,12,12-07-2024,65,0.37,Expired,Yes
+501,569,Basic Plan,Fixed,08-05-2024,24,08-05-2026,62,0.28,Active,No
+502,861,Basic Plan,Variable,02-12-2025,12,02-12-2026,56,0.34,Active,No
+503,611,Basic Plan,Variable,31-10-2025,12,31-10-2026,33,0.31,Active,No
+504,762,Standard Plan,Variable,09-05-2024,36,09-05-2027,29,0.35,Active,No
+505,316,Premium Plan,Fixed,02-01-2026,24,02-01-2028,61,0.36,Active,Yes
+506,329,Green Saver Plan,Fixed,31-05-2023,12,31-05-2024,94,0.4,Expired,No
+507,17,Basic Plan,Variable,09-08-2025,12,09-08-2026,27,0.39,Active,Yes
+508,677,Basic Plan,Variable,21-07-2025,24,21-07-2027,27,0.49,Active,Yes
+509,967,Standard Plan,Fixed,13-07-2024,24,13-07-2026,91,0.32,Active,No
+510,160,Business Flex Plan,Fixed,17-05-2023,12,17-05-2024,85,0.4,Expired,No
+511,61,Premium Plan,Fixed,09-03-2024,12,09-03-2025,91,0.44,Expired,No
+512,732,Green Saver Plan,Fixed,27-07-2023,36,27-07-2026,48,0.47,Active,No
+513,429,Standard Plan,Fixed,09-12-2024,36,09-12-2027,65,0.38,Active,Yes
+514,836,Premium Plan,Variable,26-02-2025,36,26-02-2028,81,0.44,Active,No
+515,188,Standard Plan,Fixed,07-02-2024,12,07-02-2025,44,0.45,Expired,
+516,293,Premium Plan,Fixed,09-01-2024,36,09-01-2027,57,0.5,Active,Yes
+517,144,Business Flex Plan,Variable,17-05-2025,24,17-05-2027,92,0.31,Active,No
+518,513,Business Flex Plan,Variable,03-03-2026,36,03-03-2029,85,0.26,Active,No
+519,938,Standard Plan,Variable,14-03-2024,36,14-03-2027,63,0.34,Active,No
+520,560,Business Flex Plan,Fixed,24-03-2024,12,24-03-2025,89,0.28,Expired,Yes
+521,491,Premium Plan,Variable,02-03-2026,36,02-03-2029,91,0.46,Active,No
+522,864,Premium Plan,Variable,08-08-2024,12,08-08-2025,33,0.37,Expired,Yes
+523,326,Green Saver Plan,Variable,17-04-2025,36,17-04-2028,33,0.31,Active,Yes
+524,480,Basic Plan,Fixed,20-11-2025,12,20-11-2026,31,0.29,Active,No
+525,68,Business Flex Plan,,28-10-2024,24,28-10-2026,52,0.27,Active,Yes
+526,20,Premium Plan,Fixed,21-04-2025,36,21-04-2028,45,0.28,Active,No
+527,467,Green Saver Plan,Variable,02-01-2026,36,02-01-2029,21,0.36,Active,No
+528,346,Basic Plan,Variable,02-07-2025,24,02-07-2027,33,0.43,Active,No
+529,578,Business Flex Plan,Fixed,01-01-2026,24,01-01-2028,54,0.49,Active,Yes
+530,373,Standard Plan,Fixed,24-03-2023,12,24-03-2024,83,0.45,Expired,No
+531,28,Basic Plan,Variable,09-10-2025,36,09-10-2028,74,0.32,Active,Yes
+532,60,Green Saver Plan,Variable,10-10-2024,24,10-10-2026,86,0.3,Active,No
+533,11,Premium Plan,Variable,17-03-2026,24,17-03-2028,73,0.4,Active,Yes
+534,522,Standard Plan,Fixed,10-12-2025,36,10-12-2028,43,0.42,Active,No
+535,540,Business Flex Plan,Fixed,01-07-2025,24,01-07-2027,39,0.46,Active,No
+536,214,Green Saver Plan,,17-12-2023,24,17-12-2025,77,0.41,Expired,Yes
+537,697,Basic Plan,Fixed,06-09-2023,24,06-09-2025,22,0.45,Expired,Yes
+538,689,Premium Plan,Variable,26-08-2023,36,26-08-2026,55,0.35,Active,No
+539,189,Green Saver Plan,Variable,17-10-2025,12,17-10-2026,63,0.36,Active,Yes
+540,642,Premium Plan,Variable,12-01-2025,24,12-01-2027,86,0.34,Active,Yes
+541,318,Green Saver Plan,Variable,30-06-2024,12,30-06-2025,93,0.26,Expired,No
+542,303,Premium Plan,Fixed,23-03-2026,36,23-03-2029,52,0.41,Active,No
+543,74,Standard Plan,Fixed,17-05-2023,12,17-05-2024,99,0.44,Expired,Yes
+544,970,Business Flex Plan,Variable,16-04-2023,12,16-04-2024,72,0.47,Expired,No
+545,97,,Fixed,09-02-2025,24,09-02-2027,50,0.31,Active,Yes
+546,573,Green Saver Plan,Variable,25-05-2023,12,25-05-2024,23,0.29,Expired,Yes
+547,820,Premium Plan,Fixed,,12,,61,0.45,,Yes
+548,127,Business Flex Plan,Variable,11-01-2026,36,11-01-2029,46,0.36,Active,No
+549,804,Premium Plan,Fixed,13-08-2025,24,13-08-2027,37,0.43,Active,No
+550,425,Green Saver Plan,Fixed,19-03-2023,12,19-03-2024,47,0.41,Expired,No
+551,206,Green Saver Plan,,27-12-2024,24,27-12-2026,20,0.4,Active,Yes
+552,42,Standard Plan,Variable,27-09-2024,36,27-09-2027,89,0.49,Active,No
+553,768,Basic Plan,Fixed,04-05-2025,24,04-05-2027,71,0.49,Active,Yes
+554,590,Standard Plan,Variable,23-05-2024,12,23-05-2025,40,0.42,Expired,Yes
+555,494,Standard Plan,Variable,22-02-2025,24,22-02-2027,55,0.26,Active,Yes
+556,930,Green Saver Plan,Fixed,08-05-2023,36,08-05-2026,21,0.29,Active,No
+557,327,Standard Plan,Variable,07-02-2024,24,07-02-2026,97,0.38,Expired,Yes
+558,770,Green Saver Plan,Variable,07-03-2026,12,07-03-2027,53,0.39,Active,
+559,191,Standard Plan,Variable,16-12-2024,12,16-12-2025,72,0.46,Expired,No
+560,164,Basic Plan,Fixed,23-10-2025,24,23-10-2027,75,0.34,Active,No
+561,176,Standard Plan,Variable,05-08-2025,24,05-08-2027,69,0.45,Active,Yes
+562,538,Green Saver Plan,Fixed,11-04-2025,36,11-04-2028,43,0.25,Active,No
+563,446,Green Saver Plan,Variable,25-09-2024,12,25-09-2025,30,0.25,Expired,Yes
+564,141,Business Flex Plan,Fixed,12-08-2025,24,12-08-2027,32,0.29,Active,Yes
+565,934,Business Flex Plan,Fixed,14-06-2024,36,14-06-2027,30,0.29,Active,Yes
+566,886,Basic Plan,Fixed,10-03-2024,24,10-03-2026,58,0.32,Expired,No
+567,550,Standard Plan,Fixed,07-04-2025,12,07-04-2026,46,0.48,Expired,No
+568,534,Basic Plan,Fixed,19-02-2026,12,19-02-2027,89,0.5,Active,No
+569,773,Green Saver Plan,Fixed,22-10-2024,36,22-10-2027,89,0.41,Active,Yes
+570,150,Standard Plan,Variable,22-06-2025,24,22-06-2027,49,0.43,Active,Yes
+571,248,Green Saver Plan,Variable,31-10-2023,24,31-10-2025,89,0.41,Expired,Yes
+572,578,Standard Plan,Fixed,23-03-2024,36,23-03-2027,78,0.49,Active,No
+573,167,Green Saver Plan,Variable,25-06-2023,12,25-06-2024,93,0.28,Expired,Yes
+574,246,Green Saver Plan,Variable,02-06-2025,36,02-06-2028,25,0.38,Active,Yes
+575,456,Standard Plan,Fixed,12-10-2023,24,12-10-2025,45,0.4,Expired,Yes
+576,524,Standard Plan,Variable,22-04-2023,12,22-04-2024,44,0.44,Expired,No
+577,334,Business Flex Plan,Fixed,26-06-2023,24,26-06-2025,76,0.35,Expired,No
+578,787,Basic Plan,Variable,05-08-2025,24,05-08-2027,24,0.43,Active,Yes
+579,782,Green Saver Plan,Fixed,,12,,59,0.39,,No
+580,272,Basic Plan,Variable,13-09-2024,36,13-09-2027,62,0.25,Active,No
+581,60,Green Saver Plan,Fixed,17-09-2025,36,17-09-2028,54,0.3,Active,No
+582,252,Basic Plan,Fixed,10-05-2024,12,10-05-2025,28,0.34,Expired,No
+583,482,Standard Plan,Fixed,21-05-2023,24,21-05-2025,24,0.36,Expired,No
+584,779,Premium Plan,Fixed,17-03-2025,36,17-03-2028,24,0.29,Active,Yes
+585,878,Business Flex Plan,Variable,16-08-2024,24,16-08-2026,98,0.26,Active,No
+586,451,Standard Plan,Fixed,03-05-2025,12,03-05-2026,77,0.34,Active,No
+587,617,Premium Plan,Fixed,19-09-2025,12,19-09-2026,29,0.49,Active,Yes
+588,263,Green Saver Plan,Variable,29-04-2023,12,29-04-2024,47,0.4,Expired,Yes
+589,505,Basic Plan,Variable,21-04-2023,12,21-04-2024,48,0.42,Expired,No
+590,954,Standard Plan,Fixed,21-03-2026,24,21-03-2028,68,0.3,Active,No
+591,273,Basic Plan,Variable,15-05-2023,36,15-05-2026,89,0.27,Active,No
+592,75,Basic Plan,Fixed,10-05-2023,24,10-05-2025,30,0.32,Expired,No
+593,327,Green Saver Plan,Variable,22-12-2023,12,22-12-2024,77,0.36,Expired,Yes
+594,561,Green Saver Plan,Variable,06-09-2023,24,06-09-2025,35,0.48,Expired,Yes
+595,503,Standard Plan,Fixed,20-08-2023,36,20-08-2026,66,0.49,Active,Yes
+596,63,Premium Plan,Fixed,,36,,56,0.45,,Yes
+597,519,Standard Plan,Variable,26-11-2025,12,26-11-2026,45,0.38,Active,Yes
+598,230,Basic Plan,Fixed,17-12-2025,36,17-12-2028,63,0.44,Active,Yes
+599,748,Standard Plan,Variable,05-03-2026,36,05-03-2029,88,0.38,Active,Yes
+600,763,Green Saver Plan,Variable,12-08-2025,12,12-08-2026,50,0.43,Active,No
+601,666,Business Flex Plan,Variable,12-01-2025,12,12-01-2026,57,0.34,Expired,Yes
+602,39,Green Saver Plan,Fixed,13-03-2025,24,13-03-2027,42,0.33,Active,No
+603,916,Standard Plan,Fixed,07-04-2024,24,07-04-2026,63,0.42,Expired,No
+604,754,Standard Plan,Variable,06-10-2023,24,06-10-2025,31,0.29,Expired,Yes
+605,663,Basic Plan,Variable,17-10-2024,36,17-10-2027,41,0.34,Active,Yes
+606,147,Standard Plan,Variable,28-11-2024,24,28-11-2026,20,0.36,Active,Yes
+607,226,Standard Plan,Fixed,01-05-2024,12,01-05-2025,79,0.39,Expired,No
+608,145,Premium Plan,Fixed,25-08-2024,12,25-08-2025,20,0.28,Expired,No
+609,849,Green Saver Plan,Fixed,15-11-2024,12,15-11-2025,71,0.38,Expired,No
+610,27,Premium Plan,Fixed,20-12-2023,36,20-12-2026,94,0.26,Active,No
+611,424,Green Saver Plan,Fixed,11-05-2024,36,11-05-2027,,0.48,Active,Yes
+612,530,Green Saver Plan,Variable,09-11-2025,36,09-11-2028,40,0.44,Active,No
+613,372,Business Flex Plan,Fixed,09-02-2026,24,09-02-2028,29,0.41,Active,No
+614,554,Green Saver Plan,Fixed,23-02-2025,36,23-02-2028,77,0.45,Active,Yes
+615,790,Basic Plan,Variable,13-10-2025,24,13-10-2027,64,0.38,Active,No
+616,99,Premium Plan,Fixed,07-11-2025,24,07-11-2027,36,0.29,Active,No
+617,99,Business Flex Plan,,07-02-2025,36,07-02-2028,58,0.44,Active,Yes
+618,613,Basic Plan,Fixed,03-04-2025,24,03-04-2027,65,0.5,Active,No
+619,56,Premium Plan,Fixed,07-09-2025,36,07-09-2028,26,0.49,Active,No
+620,619,Business Flex Plan,Fixed,13-03-2026,12,13-03-2027,44,0.38,Active,No
+621,760,Premium Plan,Variable,15-03-2023,12,15-03-2024,20,0.39,Expired,No
+622,177,Premium Plan,Fixed,29-06-2024,24,29-06-2026,22,0.32,Active,No
+623,297,Standard Plan,Fixed,26-10-2025,12,26-10-2026,65,0.32,Active,No
+624,541,Green Saver Plan,Variable,21-11-2025,36,21-11-2028,62,0.31,Active,Yes
+625,66,Green Saver Plan,Fixed,24-11-2023,36,24-11-2026,31,0.28,Active,Yes
+626,732,Basic Plan,Variable,30-12-2025,24,30-12-2027,21,0.37,Active,No
+627,39,Business Flex Plan,Fixed,27-04-2023,24,27-04-2025,92,0.49,Expired,No
+628,405,Business Flex Plan,Fixed,31-03-2025,12,31-03-2026,30,0.34,Expired,Yes
+629,484,Business Flex Plan,Variable,09-03-2026,12,09-03-2027,29,0.33,Active,
+630,158,Standard Plan,Variable,14-05-2023,24,14-05-2025,71,0.42,Expired,Yes
+631,571,Green Saver Plan,Variable,29-03-2026,36,29-03-2029,75,0.31,Active,Yes
+632,460,Green Saver Plan,Fixed,05-06-2023,12,05-06-2024,94,0.31,Expired,Yes
+633,637,Premium Plan,Variable,01-03-2026,24,01-03-2028,94,0.29,Active,Yes
+634,754,Basic Plan,Variable,30-07-2025,12,30-07-2026,91,0.43,Active,Yes
+635,522,Standard Plan,Fixed,25-08-2024,36,25-08-2027,28,0.4,Active,No
+636,414,Premium Plan,Fixed,29-12-2025,12,29-12-2026,58,0.26,Active,Yes
+637,936,Premium Plan,Fixed,31-01-2026,36,31-01-2029,45,0.25,Active,Yes
+638,454,Basic Plan,Fixed,17-07-2025,24,17-07-2027,56,0.49,Active,No
+639,486,Business Flex Plan,Variable,14-04-2025,36,14-04-2028,92,0.48,Active,Yes
+640,586,Premium Plan,Fixed,11-04-2023,24,11-04-2025,42,0.44,Expired,Yes
+641,526,Business Flex Plan,Fixed,03-08-2023,36,03-08-2026,90,0.36,Active,No
+642,309,Business Flex Plan,Variable,07-12-2023,36,07-12-2026,40,0.26,Active,No
+643,962,Standard Plan,Fixed,10-12-2023,24,10-12-2025,76,0.42,Expired,No
+644,830,Standard Plan,Fixed,15-06-2024,36,15-06-2027,79,0.4,Active,No
+645,45,Standard Plan,,18-01-2026,24,18-01-2028,58,0.39,Active,No
+646,904,Business Flex Plan,Variable,29-11-2025,12,29-11-2026,73,0.26,Active,No
+647,38,Basic Plan,Fixed,04-08-2023,36,04-08-2026,92,0.41,Active,No
+648,717,Basic Plan,Variable,16-09-2025,24,16-09-2027,,0.4,Active,No
+649,281,Premium Plan,Fixed,29-08-2024,24,29-08-2026,73,0.35,Active,No
+650,878,Standard Plan,Fixed,16-10-2024,24,16-10-2026,60,0.45,Active,No
+651,863,Green Saver Plan,Variable,16-04-2023,24,16-04-2025,90,0.42,Expired,Yes
+652,104,Premium Plan,Variable,10-12-2023,36,10-12-2026,71,0.49,Active,Yes
+653,174,Premium Plan,Variable,06-01-2025,36,06-01-2028,28,0.46,Active,No
+654,602,Green Saver Plan,Fixed,16-01-2026,12,16-01-2027,25,0.44,Active,No
+655,916,Premium Plan,Fixed,11-09-2024,24,11-09-2026,47,0.31,Active,No
+656,406,Standard Plan,Variable,18-10-2023,36,18-10-2026,56,0.49,Active,No
+657,305,Standard Plan,Fixed,12-06-2023,12,12-06-2024,46,0.49,Expired,No
+658,445,Basic Plan,Variable,27-05-2025,36,27-05-2028,65,0.31,Active,No
+659,27,Basic Plan,Variable,29-09-2025,36,29-09-2028,56,0.27,Active,Yes
+660,688,Basic Plan,Variable,09-02-2026,12,09-02-2027,39,0.35,Active,Yes
+661,482,Standard Plan,Fixed,16-12-2023,36,16-12-2026,91,0.4,Active,Yes
+662,375,Basic Plan,Fixed,03-08-2025,12,03-08-2026,59,0.39,Active,No
+663,132,Premium Plan,Fixed,28-07-2025,24,28-07-2027,74,0.48,Active,Yes
+664,906,Premium Plan,Variable,11-08-2025,24,11-08-2027,38,0.34,Active,Yes
+665,130,Basic Plan,Variable,29-04-2023,12,29-04-2024,39,0.4,Expired,No
+666,19,Standard Plan,Variable,19-04-2025,12,19-04-2026,43,0.39,Active,Yes
+667,818,Business Flex Plan,Variable,25-04-2025,36,25-04-2028,85,0.39,Active,Yes
+668,96,Green Saver Plan,Variable,19-07-2023,12,19-07-2024,79,0.45,Expired,No
+669,379,Basic Plan,Fixed,12-01-2025,12,12-01-2026,91,0.26,Expired,Yes
+670,608,Premium Plan,Variable,15-08-2023,36,15-08-2026,93,0.44,Active,No
+671,944,Premium Plan,Fixed,10-04-2023,36,10-04-2026,42,0.37,Expired,No
+672,227,Basic Plan,Fixed,25-02-2024,24,25-02-2026,29,0.45,Expired,No
+673,896,Standard Plan,Variable,20-03-2024,24,20-03-2026,45,0.44,Expired,Yes
+674,252,,Fixed,26-01-2024,36,26-01-2027,91,0.3,Active,Yes
+675,207,Standard Plan,Fixed,04-12-2025,12,04-12-2026,90,0.33,Active,Yes
+676,153,Premium Plan,Variable,14-01-2024,12,14-01-2025,61,0.43,Expired,Yes
+677,754,Standard Plan,Fixed,18-12-2025,12,18-12-2026,76,0.31,Active,Yes
+678,117,Basic Plan,Fixed,23-05-2025,12,23-05-2026,22,0.43,Active,No
+679,154,Green Saver Plan,Fixed,18-02-2024,24,18-02-2026,26,0.44,Expired,No
+680,159,Basic Plan,Fixed,11-07-2024,24,11-07-2026,46,0.38,Active,No
+681,301,Standard Plan,Variable,27-12-2023,36,27-12-2026,26,0.47,Active,Yes
+682,282,Standard Plan,Variable,24-03-2023,36,24-03-2026,25,0.4,Expired,No
+683,539,Business Flex Plan,Variable,14-11-2024,12,14-11-2025,78,0.44,Expired,Yes
+684,341,Business Flex Plan,Variable,03-01-2026,12,03-01-2027,61,0.37,Active,No
+685,300,Business Flex Plan,Fixed,27-02-2025,12,27-02-2026,94,0.45,Expired,Yes
+686,330,Business Flex Plan,Variable,23-10-2023,12,23-10-2024,87,0.32,Expired,Yes
+687,265,Basic Plan,Fixed,06-05-2024,36,06-05-2027,89,0.43,Active,No
+688,459,Premium Plan,Variable,04-11-2024,24,04-11-2026,42,0.41,Active,Yes
+689,32,Green Saver Plan,Variable,05-04-2025,12,05-04-2026,48,0.37,Expired,Yes
+690,641,Standard Plan,Fixed,01-05-2023,36,01-05-2026,38,0.45,Active,No
+691,157,Basic Plan,Variable,07-06-2023,12,07-06-2024,51,0.46,Expired,Yes
+692,892,Business Flex Plan,Fixed,25-02-2024,24,25-02-2026,59,0.25,Expired,Yes
+693,987,Green Saver Plan,Variable,27-08-2023,12,27-08-2024,78,0.41,Expired,Yes
+694,408,Green Saver Plan,Fixed,21-09-2023,36,21-09-2026,84,0.31,Active,Yes
+695,795,Green Saver Plan,Fixed,06-04-2025,36,06-04-2028,28,0.46,Active,No
+696,908,Green Saver Plan,Variable,27-07-2024,24,27-07-2026,90,0.39,Active,No
+697,737,Business Flex Plan,Variable,09-01-2025,12,09-01-2026,66,0.49,Expired,No
+698,523,Green Saver Plan,Fixed,20-02-2026,24,20-02-2028,72,0.48,Active,Yes
+699,295,Basic Plan,Variable,13-02-2025,24,13-02-2027,52,0.49,Active,No
+700,869,Premium Plan,Variable,13-09-2024,36,13-09-2027,73,0.32,Active,No
+701,970,Business Flex Plan,Fixed,18-09-2025,24,18-09-2027,100,0.31,Active,No
+702,272,Business Flex Plan,Variable,04-01-2024,12,04-01-2025,41,0.29,Expired,No
+703,67,Standard Plan,Variable,02-01-2026,36,02-01-2029,55,0.3,Active,No
+704,160,Basic Plan,Variable,,24,,58,0.34,,No
+705,842,,Fixed,12-09-2024,24,12-09-2026,25,0.48,Active,Yes
+706,772,Business Flex Plan,Fixed,29-12-2023,36,29-12-2026,63,0.35,Active,No
+707,501,Standard Plan,Fixed,23-08-2023,36,23-08-2026,95,0.44,Active,No
+708,565,Standard Plan,Variable,20-03-2024,36,20-03-2027,39,0.3,Active,Yes
+709,914,Premium Plan,Variable,30-10-2023,36,30-10-2026,28,0.34,Active,No
+710,44,Green Saver Plan,Variable,30-08-2023,12,30-08-2024,57,0.39,Expired,Yes
+711,425,,Variable,11-01-2025,24,11-01-2027,,0.46,Active,Yes
+712,174,Premium Plan,Fixed,19-01-2026,24,19-01-2028,77,0.26,Active,Yes
+713,868,Green Saver Plan,Variable,23-11-2024,24,23-11-2026,40,0.48,Active,No
+714,488,Premium Plan,Variable,11-08-2024,36,11-08-2027,65,0.36,Active,No
+715,827,Premium Plan,Fixed,09-04-2025,24,09-04-2027,62,0.49,Active,Yes
+716,469,Green Saver Plan,Fixed,26-04-2023,24,26-04-2025,89,0.49,Expired,Yes
+717,360,Basic Plan,Variable,26-04-2025,24,26-04-2027,50,0.27,Active,Yes
+718,844,Basic Plan,Fixed,07-03-2024,12,07-03-2025,55,0.36,Expired,No
+719,475,Premium Plan,Variable,28-03-2023,36,28-03-2026,60,0.32,Expired,Yes
+720,144,Premium Plan,Fixed,11-05-2023,36,11-05-2026,28,0.37,Active,Yes
+721,984,Premium Plan,Fixed,17-09-2025,36,17-09-2028,38,0.26,Active,No
+722,940,Green Saver Plan,Fixed,10-11-2024,12,10-11-2025,75,0.25,Expired,No
+723,335,Standard Plan,Fixed,03-04-2023,24,03-04-2025,86,0.49,Expired,Yes
+724,813,Business Flex Plan,Fixed,31-08-2025,12,31-08-2026,33,0.33,Active,Yes
+725,875,Business Flex Plan,Variable,07-12-2023,24,07-12-2025,21,0.29,Expired,No
+726,88,Standard Plan,Variable,11-01-2026,12,11-01-2027,40,0.42,Active,Yes
+727,876,Green Saver Plan,Fixed,04-06-2024,36,04-06-2027,69,0.28,Active,No
+728,815,Business Flex Plan,Fixed,03-02-2025,24,03-02-2027,91,0.45,Active,No
+729,213,Premium Plan,Variable,18-11-2023,24,18-11-2025,45,0.48,Expired,No
+730,344,Basic Plan,Fixed,22-10-2023,12,22-10-2024,37,0.27,Expired,No
+731,601,Standard Plan,Variable,10-07-2024,36,10-07-2027,23,0.38,Active,No
+732,505,Standard Plan,Fixed,10-07-2023,36,10-07-2026,70,0.35,Active,No
+733,404,Standard Plan,Fixed,27-03-2026,12,27-03-2027,50,0.43,Active,Yes
+734,361,Premium Plan,Fixed,08-06-2025,36,08-06-2028,24,0.29,Active,Yes
+735,767,Green Saver Plan,Variable,03-04-2026,12,03-04-2027,83,0.48,Active,No
+736,742,Standard Plan,Variable,03-11-2023,24,03-11-2025,62,0.33,Expired,No
+737,539,Basic Plan,Variable,04-07-2024,24,04-07-2026,37,0.27,Active,Yes
+738,672,Premium Plan,Fixed,02-03-2025,36,02-03-2028,69,0.33,Active,No
+739,831,Business Flex Plan,Variable,27-10-2024,24,27-10-2026,49,0.36,Active,No
+740,118,Business Flex Plan,Fixed,29-04-2024,24,29-04-2026,97,0.37,Active,No
+741,645,Basic Plan,Fixed,05-06-2024,36,05-06-2027,92,0.45,Active,Yes
+742,405,Business Flex Plan,Fixed,15-01-2025,36,15-01-2028,85,0.44,Active,No
+743,660,Business Flex Plan,Variable,14-11-2025,24,14-11-2027,100,0.37,Active,Yes
+744,153,Basic Plan,Fixed,11-10-2024,36,11-10-2027,22,0.26,Active,No
+745,446,Business Flex Plan,Fixed,05-10-2025,24,05-10-2027,56,0.31,Active,No
+746,112,Standard Plan,Fixed,01-07-2025,12,01-07-2026,24,0.46,Active,No
+747,571,Premium Plan,Fixed,05-01-2026,36,05-01-2029,,0.3,Active,No
+748,590,Basic Plan,Fixed,13-10-2023,24,13-10-2025,90,0.47,Expired,No
+749,608,Business Flex Plan,Fixed,23-08-2025,24,23-08-2027,93,0.47,Active,No
+750,282,Green Saver Plan,Variable,24-08-2025,12,24-08-2026,64,0.27,Active,Yes
+751,855,Standard Plan,Fixed,17-05-2024,12,17-05-2025,20,0.45,Expired,No
+752,276,Green Saver Plan,Fixed,21-09-2025,12,21-09-2026,26,0.44,Active,No
+753,327,Business Flex Plan,Fixed,15-04-2024,36,15-04-2027,100,0.3,Active,No
+754,353,Standard Plan,Fixed,05-11-2024,12,05-11-2025,30,0.32,Expired,No
+755,474,Premium Plan,Variable,22-10-2024,12,22-10-2025,30,0.35,Expired,
+756,682,Premium Plan,Variable,12-09-2023,24,12-09-2025,69,0.49,Expired,No
+757,81,Premium Plan,Variable,16-05-2023,24,16-05-2025,52,0.44,Expired,Yes
+758,440,Basic Plan,Fixed,20-07-2025,24,20-07-2027,60,0.38,Active,Yes
+759,477,Basic Plan,Variable,27-05-2025,36,27-05-2028,,0.49,Active,No
+760,13,Business Flex Plan,Variable,25-09-2025,24,25-09-2027,25,0.4,Active,No
+761,555,Green Saver Plan,Fixed,24-06-2025,36,24-06-2028,68,0.37,Active,Yes
+762,720,Premium Plan,Fixed,05-10-2024,24,05-10-2026,53,0.4,Active,Yes
+763,936,Green Saver Plan,Fixed,18-11-2023,24,18-11-2025,91,0.36,Expired,Yes
+764,828,Business Flex Plan,Fixed,19-06-2025,36,19-06-2028,26,0.35,Active,No
+765,128,Basic Plan,Variable,03-06-2024,36,03-06-2027,100,0.4,Active,Yes
+766,985,Standard Plan,Variable,19-12-2023,36,19-12-2026,66,0.34,Active,Yes
+767,406,Standard Plan,Fixed,09-03-2026,36,09-03-2029,40,0.41,Active,No
+768,634,Premium Plan,Fixed,20-05-2023,12,20-05-2024,55,0.43,Expired,Yes
+769,921,Standard Plan,Fixed,03-08-2025,24,03-08-2027,88,0.5,Active,No
+770,514,Business Flex Plan,Fixed,20-06-2024,36,20-06-2027,68,0.29,Active,Yes
+771,766,Premium Plan,Variable,07-07-2024,24,07-07-2026,71,0.35,Active,No
+772,335,Green Saver Plan,,20-01-2025,36,20-01-2028,94,0.33,Active,Yes
+773,329,Basic Plan,Fixed,21-12-2024,12,21-12-2025,75,0.41,Expired,Yes
+774,527,Business Flex Plan,Fixed,13-06-2023,12,13-06-2024,45,0.47,Expired,Yes
+775,23,Standard Plan,Variable,04-10-2023,36,04-10-2026,55,0.26,Active,Yes
+776,684,Business Flex Plan,Variable,23-09-2023,12,23-09-2024,59,0.43,Expired,Yes
+777,706,Basic Plan,Variable,31-12-2025,12,31-12-2026,69,0.34,Active,No
+778,349,Basic Plan,Fixed,13-08-2023,24,13-08-2025,94,0.49,Expired,Yes
+779,187,Premium Plan,Variable,03-12-2025,12,03-12-2026,82,0.3,Active,Yes
+780,811,Premium Plan,Fixed,11-07-2023,12,11-07-2024,91,0.32,Expired,No
+781,419,Business Flex Plan,Fixed,04-07-2025,12,04-07-2026,92,0.4,Active,Yes
+782,378,Green Saver Plan,Fixed,28-04-2024,24,28-04-2026,90,0.26,Active,Yes
+783,783,Premium Plan,Fixed,07-07-2023,36,07-07-2026,59,0.27,Active,No
+784,564,Premium Plan,Variable,21-07-2025,36,21-07-2028,43,0.3,Active,No
+785,106,Business Flex Plan,Variable,08-02-2025,12,08-02-2026,59,0.44,Expired,Yes
+786,162,Standard Plan,Variable,14-02-2026,12,14-02-2027,53,0.42,Active,No
+787,988,Basic Plan,Variable,04-07-2024,36,04-07-2027,61,0.49,Active,Yes
+788,547,Green Saver Plan,Fixed,15-03-2026,24,15-03-2028,26,0.45,Active,No
+789,201,Green Saver Plan,Fixed,17-05-2023,12,17-05-2024,77,0.37,Expired,Yes
+790,122,Standard Plan,Variable,14-05-2023,36,14-05-2026,46,0.38,Active,No
+791,697,Business Flex Plan,Variable,18-08-2024,24,18-08-2026,59,0.4,Active,Yes
+792,596,Green Saver Plan,Fixed,12-01-2025,36,12-01-2028,69,0.32,Active,No
+793,589,Business Flex Plan,,31-12-2025,36,31-12-2028,100,0.39,Active,Yes
+794,429,Standard Plan,Variable,04-03-2024,12,04-03-2025,25,0.33,Expired,Yes
+795,410,Business Flex Plan,Fixed,13-10-2023,12,13-10-2024,33,0.37,Expired,Yes
+796,519,Green Saver Plan,Variable,30-09-2025,24,30-09-2027,75,0.4,Active,No
+797,114,Business Flex Plan,Fixed,21-03-2023,12,21-03-2024,58,0.28,Expired,No
+798,208,Business Flex Plan,Variable,18-03-2023,36,18-03-2026,98,0.38,Expired,Yes
+799,872,Premium Plan,Fixed,10-11-2023,36,10-11-2026,47,0.29,Active,No
+800,755,Green Saver Plan,Fixed,25-07-2025,12,25-07-2026,72,0.3,Active,No
+801,408,Standard Plan,Variable,22-03-2026,12,22-03-2027,59,0.4,Active,Yes
+802,406,Business Flex Plan,Fixed,09-11-2024,24,09-11-2026,80,0.34,Active,Yes
+803,537,Premium Plan,Variable,29-06-2025,24,29-06-2027,50,0.38,Active,No
+804,955,Business Flex Plan,Fixed,14-09-2024,36,14-09-2027,57,0.26,Active,Yes
+805,701,Business Flex Plan,Fixed,29-09-2025,36,29-09-2028,,0.4,Active,No
+806,568,Premium Plan,Variable,26-10-2025,12,26-10-2026,49,0.49,Active,Yes
+807,704,Basic Plan,Fixed,,24,,49,0.43,,No
+808,230,Premium Plan,Variable,12-11-2024,24,12-11-2026,46,0.31,Active,Yes
+809,372,Premium Plan,Fixed,15-05-2025,36,15-05-2028,88,0.27,Active,No
+810,716,,Fixed,08-01-2024,36,08-01-2027,33,0.36,Active,No
+811,976,Business Flex Plan,Fixed,,12,,76,0.43,,Yes
+812,449,Basic Plan,Variable,16-07-2023,12,16-07-2024,75,0.49,Expired,Yes
+813,593,Premium Plan,Variable,31-12-2025,24,31-12-2027,26,0.27,Active,Yes
+814,266,Basic Plan,Variable,12-06-2023,24,12-06-2025,67,0.4,Expired,No
+815,890,Premium Plan,Fixed,03-10-2024,36,03-10-2027,28,0.49,Active,Yes
+816,63,Standard Plan,Fixed,05-12-2023,36,05-12-2026,99,0.3,Active,Yes
+817,3,Premium Plan,Fixed,12-10-2023,12,12-10-2024,42,0.31,Expired,No
+818,14,Premium Plan,Fixed,04-11-2024,36,04-11-2027,86,0.45,Active,Yes
+819,368,Premium Plan,Variable,25-11-2025,36,25-11-2028,73,0.4,Active,No
+820,736,Business Flex Plan,Variable,26-09-2023,36,26-09-2026,54,0.33,Active,No
+821,297,Business Flex Plan,Variable,22-07-2023,12,22-07-2024,36,0.48,Expired,No
+822,863,Premium Plan,Fixed,02-06-2025,24,02-06-2027,73,0.34,Active,No
+823,342,Business Flex Plan,Fixed,30-03-2024,24,30-03-2026,51,0.39,Expired,No
+824,871,Green Saver Plan,Fixed,02-04-2024,36,02-04-2027,35,0.43,Active,No
+825,376,Basic Plan,Fixed,16-07-2024,24,16-07-2026,84,0.31,Active,No
+826,973,Premium Plan,Variable,06-09-2024,24,06-09-2026,51,0.44,Active,Yes
+827,128,Premium Plan,Variable,02-04-2024,36,02-04-2027,48,0.44,Active,Yes
+828,802,Standard Plan,Variable,12-06-2024,24,12-06-2026,46,0.36,Active,No
+829,776,Premium Plan,Fixed,08-09-2023,36,08-09-2026,83,0.43,Active,Yes
+830,175,Standard Plan,Variable,30-05-2024,24,30-05-2026,25,0.43,Active,Yes
+831,2,Green Saver Plan,Variable,07-03-2026,24,07-03-2028,55,0.4,Active,Yes
+832,556,Business Flex Plan,Variable,08-02-2024,24,08-02-2026,33,0.45,Expired,Yes
+833,435,Green Saver Plan,Fixed,08-03-2025,36,08-03-2028,75,0.28,Active,Yes
+834,400,Standard Plan,Variable,12-01-2026,12,12-01-2027,95,0.39,Active,Yes
+835,731,Basic Plan,Fixed,02-06-2023,36,02-06-2026,48,0.46,Active,No
+836,813,Premium Plan,Fixed,31-08-2024,12,31-08-2025,81,0.4,Expired,No
+837,909,Standard Plan,Variable,11-04-2023,36,11-04-2026,26,0.45,Expired,No
+838,433,Green Saver Plan,Fixed,31-05-2025,12,31-05-2026,24,0.3,Active,Yes
+839,907,Standard Plan,Variable,15-10-2024,36,15-10-2027,77,0.29,Active,Yes
+840,919,Green Saver Plan,Variable,11-11-2023,12,11-11-2024,36,0.49,Expired,Yes
+841,582,Standard Plan,Variable,07-06-2025,36,07-06-2028,73,0.45,Active,Yes
+842,7,Standard Plan,Variable,12-03-2025,24,12-03-2027,48,0.37,Active,Yes
+843,564,Premium Plan,Fixed,18-04-2023,12,18-04-2024,36,0.47,Expired,Yes
+844,760,Business Flex Plan,Variable,16-06-2024,36,16-06-2027,44,0.44,Active,Yes
+845,617,Basic Plan,Variable,18-09-2024,12,18-09-2025,28,0.4,Expired,Yes
+846,751,Standard Plan,Fixed,12-07-2023,24,12-07-2025,36,0.36,Expired,No
+847,721,Basic Plan,Variable,04-11-2025,24,04-11-2027,94,0.25,Active,Yes
+848,658,Business Flex Plan,Fixed,03-05-2024,12,03-05-2025,65,0.28,Expired,Yes
+849,138,Green Saver Plan,Fixed,29-03-2026,36,29-03-2029,88,0.3,Active,Yes
+850,713,Green Saver Plan,Fixed,13-03-2025,36,13-03-2028,83,0.29,Active,No
+851,109,Premium Plan,Fixed,20-03-2025,24,20-03-2027,65,0.48,Active,No
+852,117,Basic Plan,Variable,28-07-2023,12,28-07-2024,36,0.49,Expired,No
+853,163,Basic Plan,Fixed,18-09-2024,36,18-09-2027,99,0.33,Active,No
+854,675,Standard Plan,Fixed,16-07-2023,24,16-07-2025,97,0.33,Expired,No
+855,606,Business Flex Plan,Fixed,08-10-2025,36,08-10-2028,93,0.43,Active,Yes
+856,66,Premium Plan,Fixed,02-02-2026,36,02-02-2029,52,0.35,Active,No
+857,475,Business Flex Plan,Variable,22-10-2024,36,22-10-2027,66,0.48,Active,Yes
+858,269,Green Saver Plan,Fixed,03-02-2026,36,03-02-2029,56,0.46,Active,Yes
+859,629,Green Saver Plan,Variable,29-12-2024,36,29-12-2027,75,0.26,Active,No
+860,166,Basic Plan,Variable,12-01-2026,36,12-01-2029,63,0.31,Active,
+861,878,Standard Plan,Variable,20-05-2025,12,20-05-2026,29,0.32,Active,No
+862,121,Business Flex Plan,Variable,07-01-2024,24,07-01-2026,70,0.35,Expired,No
+863,413,Basic Plan,Variable,01-09-2025,24,01-09-2027,47,0.37,Active,No
+864,888,Premium Plan,Fixed,23-08-2024,24,23-08-2026,59,0.41,Active,No
+865,174,Green Saver Plan,Variable,13-05-2023,36,13-05-2026,85,0.29,Active,No
+866,266,Premium Plan,Fixed,18-03-2024,36,18-03-2027,32,0.36,Active,No
+867,202,Standard Plan,Fixed,15-11-2023,36,15-11-2026,100,0.32,Active,Yes
+868,316,Premium Plan,Variable,24-05-2025,24,24-05-2027,89,0.26,Active,Yes
+869,417,Green Saver Plan,Variable,23-12-2025,12,23-12-2026,58,0.35,Active,Yes
+870,403,Business Flex Plan,Fixed,19-09-2023,24,19-09-2025,70,0.46,Expired,Yes
+871,391,Business Flex Plan,Variable,19-01-2024,36,19-01-2027,76,0.43,Active,No
+872,257,Green Saver Plan,Variable,23-08-2024,36,23-08-2027,44,0.26,Active,Yes
+873,192,Business Flex Plan,Variable,16-07-2023,12,16-07-2024,28,0.48,Expired,No
+874,555,Basic Plan,Fixed,24-08-2025,24,24-08-2027,68,0.44,Active,Yes
+875,681,Green Saver Plan,Fixed,13-03-2026,12,13-03-2027,78,0.42,Active,Yes
+876,186,Basic Plan,Variable,09-02-2024,12,09-02-2025,99,0.42,Expired,No
+877,971,Business Flex Plan,Fixed,16-05-2023,24,16-05-2025,42,0.47,Expired,No
+878,487,Standard Plan,Variable,18-10-2024,12,18-10-2025,41,0.43,Expired,No
+879,758,Basic Plan,Fixed,13-03-2026,36,13-03-2029,,0.35,Active,No
+880,2,Green Saver Plan,Variable,29-11-2024,24,29-11-2026,53,0.37,Active,Yes
+881,744,Green Saver Plan,Variable,28-08-2023,12,28-08-2024,33,0.34,Expired,Yes
+882,19,Green Saver Plan,Fixed,17-12-2024,24,17-12-2026,56,0.42,Active,No
+883,171,Basic Plan,Fixed,05-03-2024,36,05-03-2027,92,0.29,Active,No
+884,308,Green Saver Plan,Variable,16-04-2026,36,16-04-2029,97,0.35,Active,No
+885,758,Premium Plan,Fixed,21-07-2023,24,21-07-2025,73,0.42,Expired,Yes
+886,854,Basic Plan,Fixed,17-07-2024,36,17-07-2027,82,0.42,Active,Yes
+887,104,Business Flex Plan,Variable,20-02-2026,24,20-02-2028,35,0.44,Active,Yes
+888,304,Standard Plan,Fixed,14-11-2023,24,14-11-2025,24,0.28,Expired,Yes
+889,947,Basic Plan,Fixed,20-01-2026,24,20-01-2028,49,0.37,Active,No
+890,693,Standard Plan,Fixed,,12,,43,0.43,,No
+891,531,Standard Plan,Variable,16-01-2026,36,16-01-2029,49,0.46,Active,Yes
+892,746,Basic Plan,Fixed,09-08-2023,24,09-08-2025,49,0.33,Expired,Yes
+893,337,Premium Plan,Variable,11-12-2024,12,11-12-2025,38,0.35,Expired,No
+894,120,Basic Plan,Variable,22-05-2025,12,22-05-2026,60,0.34,Active,No
+895,567,Premium Plan,Variable,01-01-2025,36,01-01-2028,54,0.27,Active,Yes
+896,825,Basic Plan,Variable,08-10-2023,12,08-10-2024,100,0.33,Expired,No
+897,971,Premium Plan,Variable,03-07-2023,12,03-07-2024,48,0.3,Expired,No
+898,493,Business Flex Plan,Fixed,29-06-2025,12,29-06-2026,50,0.29,Active,Yes
+899,892,Business Flex Plan,Variable,13-05-2023,36,13-05-2026,53,0.5,Active,No
+900,533,Business Flex Plan,Fixed,27-08-2023,24,27-08-2025,95,0.31,Expired,No
+901,182,Basic Plan,Variable,17-07-2023,24,17-07-2025,26,0.47,Expired,Yes
+902,150,Green Saver Plan,Variable,24-11-2023,36,24-11-2026,42,0.44,Active,Yes
+903,641,Basic Plan,Fixed,28-06-2024,12,28-06-2025,36,0.41,Expired,No
+904,568,Premium Plan,Fixed,18-06-2025,24,18-06-2027,100,0.33,Active,Yes
+905,603,Standard Plan,Variable,09-01-2025,12,09-01-2026,63,0.35,Expired,No
+906,139,Basic Plan,Variable,10-09-2024,24,10-09-2026,97,0.49,Active,No
+907,966,Standard Plan,Variable,08-07-2023,36,08-07-2026,24,0.5,Active,No
+908,396,Business Flex Plan,Variable,30-11-2023,36,30-11-2026,24,0.26,Active,Yes
+909,972,Green Saver Plan,Variable,11-11-2025,24,11-11-2027,99,0.3,Active,Yes
+910,552,Standard Plan,Variable,29-08-2025,12,29-08-2026,47,0.49,Active,Yes
+911,992,Premium Plan,Fixed,16-04-2024,12,16-04-2025,93,0.45,Expired,No
+912,562,Standard Plan,Fixed,29-10-2025,12,29-10-2026,95,0.25,Active,Yes
+913,79,Business Flex Plan,Fixed,30-04-2024,36,30-04-2027,95,0.46,Active,No
+914,139,Green Saver Plan,Variable,15-11-2025,12,15-11-2026,94,0.36,Active,No
+915,29,Premium Plan,Variable,12-05-2023,12,12-05-2024,31,0.28,Expired,Yes
+916,285,Standard Plan,Variable,21-10-2025,24,21-10-2027,80,0.39,Active,No
+917,528,Premium Plan,Fixed,18-09-2024,24,18-09-2026,100,0.32,Active,No
+918,762,Basic Plan,Fixed,09-04-2025,24,09-04-2027,68,0.3,Active,Yes
+919,692,Green Saver Plan,,30-12-2025,36,30-12-2028,52,0.41,Active,Yes
+920,855,Business Flex Plan,Variable,04-03-2024,36,04-03-2027,48,0.4,Active,No
+921,858,Green Saver Plan,Variable,25-12-2023,36,25-12-2026,25,0.27,Active,No
+922,611,Standard Plan,Fixed,13-12-2023,12,13-12-2024,38,0.43,Expired,No
+923,705,Standard Plan,Fixed,15-07-2025,24,15-07-2027,67,0.37,Active,Yes
+924,141,Business Flex Plan,Fixed,01-09-2024,24,01-09-2026,67,0.3,Active,Yes
+925,326,Standard Plan,Variable,,36,,53,0.26,,Yes
+926,733,Basic Plan,Fixed,06-09-2025,12,06-09-2026,58,0.47,Active,No
+927,216,Green Saver Plan,Fixed,29-07-2024,12,29-07-2025,21,0.28,Expired,Yes
+928,632,Premium Plan,Fixed,28-11-2024,12,28-11-2025,59,0.36,Expired,Yes
+929,260,Green Saver Plan,Fixed,11-10-2025,12,11-10-2026,99,0.29,Active,No
+930,559,Business Flex Plan,Variable,18-06-2024,24,18-06-2026,82,0.38,Active,Yes
+931,448,Green Saver Plan,Fixed,31-03-2025,36,31-03-2028,75,0.33,Active,Yes
+932,748,Green Saver Plan,Fixed,10-07-2025,24,10-07-2027,100,0.36,Active,Yes
+933,381,Standard Plan,Fixed,02-02-2025,24,02-02-2027,78,0.4,Active,No
+934,818,Standard Plan,Fixed,21-04-2023,36,21-04-2026,50,0.38,Active,No
+935,777,Premium Plan,Variable,30-06-2024,36,30-06-2027,79,0.42,Active,No
+936,123,Premium Plan,Fixed,02-07-2024,36,02-07-2027,34,0.44,Active,Yes
+937,874,Green Saver Plan,Fixed,16-09-2025,36,16-09-2028,89,0.29,Active,
+938,65,Premium Plan,Fixed,02-10-2023,12,02-10-2024,24,0.47,Expired,Yes
+939,799,Premium Plan,Fixed,15-11-2023,12,15-11-2024,43,0.35,Expired,No
+940,325,Standard Plan,Fixed,14-03-2024,12,14-03-2025,69,0.33,Expired,Yes
+941,744,Basic Plan,Fixed,14-10-2024,24,14-10-2026,73,0.25,Active,Yes
+942,655,Green Saver Plan,Fixed,19-01-2025,36,19-01-2028,28,0.37,Active,Yes
+943,870,Business Flex Plan,Variable,24-02-2024,12,24-02-2025,66,0.37,Expired,No
+944,620,Basic Plan,Variable,14-12-2024,36,14-12-2027,20,0.31,Active,No
+945,299,Green Saver Plan,Variable,20-01-2024,12,20-01-2025,52,0.31,Expired,No
+946,924,Business Flex Plan,Fixed,02-09-2025,24,02-09-2027,75,0.49,Active,No
+947,800,Basic Plan,Variable,04-05-2025,24,04-05-2027,55,0.38,Active,No
+948,623,Standard Plan,Variable,20-05-2023,24,20-05-2025,36,0.49,Expired,Yes
+949,752,Business Flex Plan,Variable,21-11-2024,12,21-11-2025,27,0.43,Expired,Yes
+950,225,Business Flex Plan,Fixed,26-06-2023,12,26-06-2024,52,0.38,Expired,Yes
+951,87,Basic Plan,Variable,27-06-2025,36,27-06-2028,34,0.31,Active,No
+952,758,Green Saver Plan,Fixed,01-03-2024,12,01-03-2025,89,0.33,Expired,Yes
+953,425,Business Flex Plan,Variable,20-04-2024,36,20-04-2027,49,0.49,Active,Yes
+954,56,Green Saver Plan,Fixed,14-02-2026,36,14-02-2029,35,0.44,Active,Yes
+955,351,Basic Plan,Variable,09-04-2023,36,09-04-2026,83,0.43,Expired,Yes
+956,525,Basic Plan,Fixed,26-09-2025,12,26-09-2026,92,0.5,Active,No
+957,564,Business Flex Plan,Fixed,16-12-2025,36,16-12-2028,92,0.32,Active,No
+958,320,Basic Plan,Variable,06-05-2023,24,06-05-2025,30,0.43,Expired,Yes
+959,48,Standard Plan,Variable,,36,,34,0.38,,Yes
+960,378,Green Saver Plan,Fixed,30-04-2024,24,30-04-2026,20,0.44,Active,Yes
+961,351,Green Saver Plan,Fixed,07-05-2025,36,07-05-2028,27,0.29,Active,No
+962,661,Business Flex Plan,Variable,13-04-2026,24,13-04-2028,55,0.3,Active,Yes
+963,12,Business Flex Plan,Variable,21-10-2025,36,21-10-2028,50,0.3,Active,Yes
+964,969,Premium Plan,Variable,04-06-2023,24,04-06-2025,21,0.34,Expired,Yes
+965,776,Basic Plan,Fixed,14-11-2025,24,14-11-2027,55,0.25,Active,No
+966,680,Business Flex Plan,Fixed,18-06-2024,36,18-06-2027,68,0.36,Active,No
+967,440,Business Flex Plan,Fixed,29-08-2025,12,29-08-2026,56,0.35,Active,No
+968,852,Basic Plan,Variable,15-11-2025,12,15-11-2026,75,0.49,Active,Yes
+969,927,Basic Plan,Variable,08-05-2024,24,08-05-2026,89,0.26,Active,No
+970,827,Premium Plan,Variable,10-05-2025,24,10-05-2027,88,0.36,Active,Yes
+971,899,Standard Plan,Variable,13-11-2025,36,13-11-2028,30,0.28,Active,No
+972,468,Business Flex Plan,Fixed,01-05-2024,36,01-05-2027,89,0.45,Active,Yes
+973,414,Standard Plan,Fixed,23-10-2024,12,23-10-2025,64,0.35,Expired,Yes
+974,593,Basic Plan,Fixed,26-02-2024,36,26-02-2027,85,0.37,Active,No
+975,948,Premium Plan,Variable,06-10-2025,24,06-10-2027,43,0.42,Active,No
+976,899,Business Flex Plan,Variable,02-07-2025,24,02-07-2027,44,0.28,Active,Yes
+977,792,Basic Plan,Variable,26-08-2023,12,26-08-2024,77,0.49,Expired,No
+978,511,Standard Plan,Variable,14-11-2024,12,14-11-2025,76,0.38,Expired,
+979,35,Standard Plan,Fixed,10-08-2025,36,10-08-2028,51,0.39,Active,Yes
+980,366,Premium Plan,Fixed,20-07-2025,24,20-07-2027,57,0.4,Active,Yes
+981,262,Standard Plan,Fixed,31-01-2024,12,31-01-2025,65,0.49,Expired,No
+982,264,Basic Plan,Variable,04-10-2025,36,04-10-2028,72,0.28,Active,Yes
+983,705,Green Saver Plan,Variable,25-03-2025,24,25-03-2027,52,0.29,Active,No
+984,988,Green Saver Plan,Variable,18-08-2023,12,18-08-2024,42,0.26,Expired,No
+985,808,Standard Plan,Fixed,08-12-2025,36,08-12-2028,93,0.33,Active,No
+986,64,Green Saver Plan,Fixed,15-05-2024,36,15-05-2027,92,0.25,Active,Yes
+987,698,Business Flex Plan,Variable,10-07-2023,12,10-07-2024,66,0.33,Expired,No
+988,689,Premium Plan,Fixed,23-05-2023,12,23-05-2024,95,0.37,Expired,Yes
+989,344,Basic Plan,Fixed,21-05-2024,36,21-05-2027,34,0.32,Active,Yes
+990,505,Business Flex Plan,Fixed,11-11-2024,12,11-11-2025,84,0.42,Expired,Yes
+991,816,Green Saver Plan,Variable,01-08-2024,36,01-08-2027,28,0.47,Active,No
+992,457,Premium Plan,Variable,01-09-2023,12,01-09-2024,,0.41,Expired,No
+993,630,Basic Plan,Variable,03-06-2024,36,03-06-2027,54,0.29,Active,No
+994,265,Premium Plan,Fixed,05-01-2025,24,05-01-2027,43,0.3,Active,Yes
+995,964,Standard Plan,Fixed,17-08-2023,36,17-08-2026,,0.48,Active,Yes
+996,324,Business Flex Plan,Variable,25-09-2023,12,25-09-2024,46,0.31,Expired,No
+997,939,Standard Plan,Variable,31-12-2024,24,31-12-2026,20,0.31,Active,Yes
+998,705,Green Saver Plan,Variable,05-02-2024,36,05-02-2027,77,0.48,Active,No
+999,285,Basic Plan,Variable,15-12-2024,12,15-12-2025,51,0.42,Expired,Yes
+1000,789,Green Saver Plan,Fixed,13-07-2024,36,13-07-2027,23,0.43,Active,Yes
